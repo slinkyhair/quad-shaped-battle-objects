@@ -1,0 +1,1238 @@
+﻿Log file open, 11/04/16 13:33:52
+LogInit:Display: Running engine for game: CardGameProject3
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(-1639716815) SRandInit(-1639716815).
+LogTaskGraph: Started task graph with 5 named threads and 6 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.063013
+LogPluginManager: Loaded Plugin Paper2D, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin LiveEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/LiveEditor/LiveEditor.uplugin
+LogPluginManager: Loaded Plugin OSVR, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LiveEditorListenServer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LiveEditorListenServer/LiveEditorListenServer.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with WinSSL
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.13-CL-3172292
+LogInit: Engine Version: 4.13.2-3172292+++UE4+Release-4.13
+LogInit: Compatible Engine Version: 4.13.0-3106830+++UE4+Release-4.13
+LogInit: Net CL: 3172292
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 5
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 6
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 12
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 4
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 0
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Oct 24 2016 14:29:06
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.13
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files (x86)/Epic Games/4.13/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2016.11.04-17.33.53:060][  0]LogInit: Selected Device Profile: [Windows]
+[2016.11.04-17.33.53:060][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2016.11.04-17.33.53:076][  0]LogInit: Computer: BSARDINHA
+[2016.11.04-17.33.53:076][  0]LogInit: User: Brian
+[2016.11.04-17.33.53:076][  0]LogInit: CPU Page size=65536, Cores=2
+[2016.11.04-17.33.53:076][  0]LogInit: High frequency timer resolution =2.530855 MHz
+[2016.11.04-17.33.53:076][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2016.11.04-17.33.53:076][  0]LogMemory: Platform Memory Stats for Windows
+[2016.11.04-17.33.53:076][  0]LogMemory: Process Physical Memory: 254.58 MB used, 254.58 MB peak
+[2016.11.04-17.33.53:076][  0]LogMemory: Process Virtual Memory: 259.74 MB used, 259.74 MB peak
+[2016.11.04-17.33.53:076][  0]LogMemory: Physical Memory: 2063.75 MB used, 8075.23 MB total
+[2016.11.04-17.33.53:076][  0]LogMemory: Virtual Memory: 599.96 MB used, 134217728.00 MB total
+[2016.11.04-17.33.53:115][  0]LogTextLocalizationManager: No specific translations for ('en-US') exist, so ('en') translations will be used.
+[2016.11.04-17.33.53:757][  0]LogD3D11RHI: D3D11 adapters:
+[2016.11.04-17.33.54:108][  0]LogD3D11RHI:    0. 'NVIDIA NVS 4200M    ' (Feature Level 11_0)
+[2016.11.04-17.33.54:108][  0]LogD3D11RHI:       973/0/3071 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2016.11.04-17.33.54:126][  0]LogD3D11RHI:    1. 'NVIDIA NVS 4200M    ' (Feature Level 11_0)
+[2016.11.04-17.33.54:126][  0]LogD3D11RHI:       973/0/3071 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x10de
+[2016.11.04-17.33.54:128][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2016.11.04-17.33.54:128][  0]LogD3D11RHI:       973/0/3071 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2016.11.04-17.33.54:128][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2016.11.04-17.33.54:132][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2016.11.04-17.33.54:132][  0]LogD3D11RHI:     GPU DeviceId: 0x1057 (for the marketing name, search the web for "GPU Device Id")
+[2016.11.04-17.33.54:132][  0]LogWindows: EnumDisplayDevices:
+[2016.11.04-17.33.54:132][  0]LogWindows:    0. 'Intel(R) HD Graphics 3000' (P:1 D:1)
+[2016.11.04-17.33.54:132][  0]LogWindows:    1. 'Intel(R) HD Graphics 3000' (P:0 D:0)
+[2016.11.04-17.33.54:132][  0]LogWindows:    2. 'NVIDIA NVS 4200M    ' (P:0 D:0)
+[2016.11.04-17.33.54:133][  0]LogWindows:    3. 'NVIDIA NVS 4200M    ' (P:0 D:0)
+[2016.11.04-17.33.54:133][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:2 
+[2016.11.04-17.33.54:133][  0]LogD3D11RHI:     Adapter Name: NVIDIA NVS 4200M    
+[2016.11.04-17.33.54:133][  0]LogD3D11RHI:   Driver Version: 354.45 (internal:10.18.13.5445, unified:354.45)
+[2016.11.04-17.33.54:133][  0]LogD3D11RHI:      Driver Date: 11-5-2015
+[2016.11.04-17.33.54:133][  0]LogRHI: Texture pool is 681 MB (70% of 973 MB)
+[2016.11.04-17.33.54:146][  0]LogD3D11RHI: Async texture creation enabled
+[2016.11.04-17.33.54:165][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2016.11.04-17.33.54:165][  0]LogShaderCompilers: Guid format shader working directory is -44 characters bigger than the processId version (../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Intermediate/Shaders/WorkingDirectory/8332/).
+[2016.11.04-17.33.54:165][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Brian/AppData/Local/Temp/UnrealShaderWorkingDir/75679B7D49BC6CA41273CF82DC448048/'.
+[2016.11.04-17.33.54:165][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2016.11.04-17.33.55:270][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2016.11.04-17.33.55:281][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2016.11.04-17.33.55:293][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2016.11.04-17.33.55:303][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2016.11.04-17.33.55:314][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2016.11.04-17.33.55:324][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2016.11.04-17.33.55:333][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2016.11.04-17.33.55:342][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2016.11.04-17.33.55:351][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2016.11.04-17.33.55:360][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2016.11.04-17.33.55:369][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2016.11.04-17.33.55:387][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2016.11.04-17.33.55:387][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2016.11.04-17.33.55:389][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2016.11.04-17.33.55:414][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2016.11.04-17.33.55:422][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2016.11.04-17.33.55:430][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2016.11.04-17.33.55:439][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2016.11.04-17.33.55:448][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2016.11.04-17.33.55:457][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2016.11.04-17.33.55:457][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2016.11.04-17.33.55:564][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2016.11.04-17.33.55:644][  0]LogDerivedDataCache: Loaded boot cache 0.08s 63MB C:/Users/Brian/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2016.11.04-17.33.55:644][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Brian/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc
+[2016.11.04-17.33.55:644][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2016.11.04-17.33.55:644][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2016.11.04-17.33.55:644][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2016.11.04-17.33.55:644][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2016.11.04-17.33.55:664][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2016.11.04-17.33.55:676][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Brian/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2016.11.04-17.33.55:916][  0]LogInit: Selected Device Profile: [Windows]
+[2016.11.04-17.33.55:919][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2016.11.04-17.33.56:028][  0]LogMeshUtilities: No automatic mesh reduction module available
+[2016.11.04-17.33.56:028][  0]LogMeshUtilities: No automatic mesh merging module available
+[2016.11.04-17.33.56:028][  0]LogMeshUtilities: No distributed automatic mesh merging module available
+[2016.11.04-17.33.56:118][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2016.11.04-17.33.56:449][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3106830, ProjectName: cardgameproject3, ProjectVersion: , EngineNetworkVersion: 1, GameNetworkVersion: 0, NetworkChecksum: 2141254031
+[2016.11.04-17.33.56:491][  0]LogAssetRegistry: FAssetRegistry took 0.0225 seconds to start up
+[2016.11.04-17.33.56:531][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.036184 seconds
+[2016.11.04-17.33.56:538][  0]LogUObjectArray: 29778 objects as part of root set at end of initial load.
+[2016.11.04-17.33.56:538][  0]LogUObjectAllocator: 6125448 out of 0 bytes used by permanent object pool.
+[2016.11.04-17.33.56:539][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2016.11.04-17.33.56:548][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2016.11.04-17.33.56:830][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.11.04-17.33.56:830][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.11.04-17.33.57:521][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2016.11.04-17.33.57:544][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2016.11.04-17.33.57:846][  0]SourceControl: Info Source control is disabled
+[2016.11.04-17.33.57:847][  0]SourceControl: Info Source control is disabled
+[2016.11.04-17.33.57:860][  0]SourceControl: Info Source control is disabled
+[2016.11.04-17.33.57:871][  0]SourceControl: Info Source control is disabled
+[2016.11.04-17.33.57:969][  0]LogLinker:Warning: Can't find file '/Game/2DSideScrollerBP/2DSideScrollerOverview'
+[2016.11.04-17.33.57:969][  0]LogLinker:Warning: Can't find file '/Game/2DSideScrollerBP/2DSideScrollerOverview'
+[2016.11.04-17.33.57:969][  0]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/2DSideScrollerBP/2DSideScrollerOverview.2DSideScrollerOverview_C'
+[2016.11.04-17.33.58:225][  0]LogEngine: Initializing Engine...
+[2016.11.04-17.33.58:226][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2016.11.04-17.33.58:381][  0]LogAIModule: Creating AISystem for world Untitled
+[2016.11.04-17.33.58:388][  0]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.04-17.33.58:496][  0]LogInit: FAudioDevice initialized.
+[2016.11.04-17.33.58:530][  0]LogDerivedDataCache: Saved boot cache 0.03s 63MB C:/Users/Brian/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2016.11.04-17.33.58:540][  0]LogInit: Texture streaming: Enabled
+[2016.11.04-17.33.58:598][  0]LogInit: Transaction tracking system initialized
+[2016.11.04-17.33.58:630][  0]BlueprintLog: New page: Editor Load
+[2016.11.04-17.33.58:749][  0]LocalizationService: Info Localization service is disabled
+[2016.11.04-17.33.59:096][  0]LogConsoleResponse:Display: 
+[2016.11.04-17.33.59:255][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2016.11.04-17.33.59:255][  0]LogCook:Display: Mobile HDR setting 1
+[2016.11.04-17.33.59:501][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/' took 0.01s
+[2016.11.04-17.33.59:501][  0]SourceControl: Info Source control is disabled
+[2016.11.04-17.33.59:502][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.11.04-17.33.59:502][  0]LightingResults: New page: Lighting Build
+[2016.11.04-17.33.59:505][  0]MapCheck: New page: Map Check
+[2016.11.04-17.33.59:505][  0]LightingResults: New page: Lighting Build
+[2016.11.04-17.33.59:907][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2016.11.04-17.33.59:914][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.11.04-17.33.59:921][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.11.04-17.33.59:972][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 50.477ms to complete.
+[2016.11.04-17.33.59:972][  0]LogFileHelpers: Loading map 'Template_Default' took 0.469
+[2016.11.04-17.34.00:143][  0]LogCollectionManager: Loaded 0 collections in 0.002490 seconds
+[2016.11.04-17.34.00:187][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Saved/Collections/' took 0.01s
+[2016.11.04-17.34.00:187][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Developers/Brian/Collections/' took 0.01s
+[2016.11.04-17.34.00:187][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Collections/' took 0.01s
+[2016.11.04-17.34.00:187][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000003 seconds
+[2016.11.04-17.34.00:199][  0]LogContentBrowser: Native class hierarchy populated in 0.0119 seconds. Added 2141 classes and 415 folders.
+[2016.11.04-17.34.00:204][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2016.11.04-17.34.00:204][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2016.11.04-17.34.00:204][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0006 seconds. Added 12 classes and 0 folders.
+[2016.11.04-17.34.00:211][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2016.11.04-17.34.00:260][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2016.11.04-17.34.00:269][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2016.11.04-17.34.00:329][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2016.11.04-17.34.00:334][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2016.11.04-17.34.00:365][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2016.11.04-17.34.00:365][  0]LogLoad: (Engine Initialization) Total time: 8.34 seconds
+[2016.11.04-17.34.00:365][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.07 seconds
+[2016.11.04-17.34.00:365][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2016.11.04-17.34.00:365][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2016.11.04-17.34.00:374][  0]LogOcInput: OculusInput pre-init called
+[2016.11.04-17.34.00:394][  0]LogContentStreaming: Texture pool size now 400 MB
+[2016.11.04-17.34.00:587][  0]LogRenderer: Reallocating scene render targets to support 1004x504 (Frame:2).
+[2016.11.04-17.34.00:674][  1]LogHttp:Warning: 00000057F62E2B00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2016.11.04-17.34.00:674][  1]LogHttp:Warning: 00000057F62E2B00: libcurl info message cache 8 (Could not resolve host: cdn.unrealengine.com)
+[2016.11.04-17.34.00:674][  1]LogHttp:Warning: 00000057F62E2B00: libcurl info message cache 9 (Closing connection 0)
+[2016.11.04-17.34.00:795][  2]LogHttp:Warning: 00000057F6FA1900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2016.11.04-17.34.00:795][  2]LogHttp:Warning: 00000057F6FA1900: libcurl info message cache 8 (Could not resolve host: cdn.unrealengine.com)
+[2016.11.04-17.34.00:795][  2]LogHttp:Warning: 00000057F6FA1900: libcurl info message cache 9 (Closing connection 1)
+[2016.11.04-17.34.00:799][  2]LogAssetRegistry: Asset discovery search completed in 4.3312 seconds
+[2016.11.04-17.34.00:799][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000002 seconds (found 0 objects)
+[2016.11.04-17.34.00:799][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000036 seconds (updated 0 objects)
+[2016.11.04-17.34.00:936][  3]LogHttp:Warning: 00000057F6FA0580: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2016.11.04-17.34.00:936][  3]LogHttp:Warning: 00000057F6FA0580: libcurl info message cache 8 (Could not resolve host: cdn.unrealengine.com)
+[2016.11.04-17.34.00:936][  3]LogHttp:Warning: 00000057F6FA0580: libcurl info message cache 9 (Closing connection 2)
+[2016.11.04-17.34.07:957][263]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 112 classes and 0 folders.
+[2016.11.04-17.34.09:821][263]LogLinker:Warning: Can't resolve asset name
+[2016.11.04-17.35.00:418][842]LogHttp:Warning: 00000057A7109480: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2016.11.04-17.35.00:418][842]LogHttp:Warning: 00000057A7109480: libcurl info message cache 8 (Could not resolve host: datarouter.ol.epicgames.com)
+[2016.11.04-17.35.00:418][842]LogHttp:Warning: 00000057A7109480: libcurl info message cache 9 (Closing connection 3)
+[2016.11.04-17.36.14:158][607]BlueprintLog: New page: Compile BattleCardGameMode
+[2016.11.04-17.36.18:753][856]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.04-17.36.18:755][856]PIE: New page: PIE session: Untitled_1 (Nov 4, 2016, 8:36:18 AM)
+[2016.11.04-17.36.18:755][856]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2016.11.04-17.36.18:758][856]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003206s)
+[2016.11.04-17.36.18:762][856]LogAIModule: Creating AISystem for world Untitled_1
+[2016.11.04-17.36.18:762][856]LogPlayLevel: PIE: World Init took: (0.003317s)
+[2016.11.04-17.36.18:763][856]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.007413s)
+[2016.11.04-17.36.18:803][856]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.04-17.36.18:810][856]LogInit: FAudioDevice initialized.
+[2016.11.04-17.36.18:856][856]LogWorld: Game class is 'GameMode'
+[2016.11.04-17.36.18:858][856]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2016.11.04-13.36.18
+[2016.11.04-17.36.18:859][856]LogWorld: Bringing up level for play took: 0.001972
+[2016.11.04-17.36.18:865][856]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 11 classes and 0 folders.
+[2016.11.04-17.36.18:865][856]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.04-17.36.18:865][856]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.04-17.36.18:865][856]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.04-17.36.18:867][856]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.04-17.36.18:867][856]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 1.055
+[2016.11.04-17.36.25:548][137]LogAIModule: Creating AISystem for world BasicLevel
+[2016.11.04-17.36.30:857][247]LogSavePackage: Save=14.24ms
+[2016.11.04-17.36.30:857][247]LogSavePackage: Moving '../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Saved/BattleCardGameMode811BA7314FFA20758411A1ADAE53E8CF.tmp' to '../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Blueprints/BattleCardGameMode.uasset'
+[2016.11.04-17.36.30:860][247]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Blueprints/BattleCardGameMode.uasset
+[2016.11.04-17.36.30:863][247]Cmd: MAP LOAD FILE="../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Levels/BasicLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.11.04-17.36.30:863][247]LightingResults: New page: Lighting Build
+[2016.11.04-17.36.30:864][247]LoadErrors: New page: Loading map: BasicLevel.umap
+[2016.11.04-17.36.30:865][247]MapCheck: New page: Map Check
+[2016.11.04-17.36.30:865][247]LightingResults: New page: Lighting Build
+[2016.11.04-17.36.30:964][247]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.11.04-17.36.30:993][247]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.11.04-17.36.31:053][247]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 59.561ms to complete.
+[2016.11.04-17.36.31:053][247]LogFileHelpers: Loading map 'BasicLevel' took 0.192
+[2016.11.04-17.36.36:555][415]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel' with GeneratedClass '/Game/Levels/BasicLevel.BasicLevel_C' with ClassGeneratedBy '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel'
+[2016.11.04-17.36.36:555][415]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.04-17.36.36:555][415]PIE: New page: PIE session: BasicLevel (Nov 4, 2016, 8:36:36 AM)
+[2016.11.04-17.36.36:555][415]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_BasicLevel
+[2016.11.04-17.36.36:558][415]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002694s)
+[2016.11.04-17.36.36:559][415]LogAIModule: Creating AISystem for world BasicLevel
+[2016.11.04-17.36.36:559][415]LogPlayLevel: PIE: World Init took: (0.001424s)
+[2016.11.04-17.36.36:560][415]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/BasicLevel.BasicLevel to /Game/Levels/UEDPIE_0_BasicLevel.BasicLevel (0.004466s)
+[2016.11.04-17.36.36:599][415]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.04-17.36.36:606][415]LogInit: FAudioDevice initialized.
+[2016.11.04-17.36.36:637][415]LogWorld: Game class is 'BattleCardGameMode_C'
+[2016.11.04-17.36.36:640][415]LogWorld: Bringing World /Game/Levels/UEDPIE_0_BasicLevel.BasicLevel up for play (max tick rate 0) at 2016.11.04-13.36.36
+[2016.11.04-17.36.36:640][415]LogWorld: Bringing up level for play took: 0.002175
+[2016.11.04-17.36.36:641][415]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.04-17.36.36:641][415]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.04-17.36.36:641][415]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.04-17.36.36:642][415]LogBlueprintUserMessages: [BattleCardGameMode_C_0] Hello
+[2016.11.04-17.36.36:642][415]LogScript:Warning: Accessed None trying to read property Player 1 State
+	BattleCardGameMode_C /Game/Levels/UEDPIE_0_BasicLevel.BasicLevel:PersistentLevel.BattleCardGameMode_C_0
+	Function /Game/Blueprints/BattleCardGameMode.BattleCardGameMode_C:ExecuteUbergraph_BattleCardGameMode:0015
+[2016.11.04-17.36.36:642][415]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property Player 1 State from function: 'ExecuteUbergraph_BattleCardGameMode' from node: Init Game in graph: EventGraph in object: BattleCardGameMode with description: Accessed None trying to read property Player 1 State
+[2016.11.04-17.36.36:642][415]LogScript:Warning: Accessed None trying to read property GameMode
+	BasicLevel_C /Game/Levels/UEDPIE_0_BasicLevel.BasicLevel:PersistentLevel.BasicLevel_C_1
+	Function /Game/Levels/BasicLevel.BasicLevel_C:ExecuteUbergraph_BasicLevel:0017
+[2016.11.04-17.36.36:642][415]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property GameMode from function: 'ExecuteUbergraph_BasicLevel' from node: Start Game in graph: EventGraph in object: BasicLevel with description: Accessed None trying to read property GameMode
+[2016.11.04-17.36.36:643][415]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.04-17.36.36:643][415]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_BasicLevel 0.831
+[2016.11.04-17.36.36:643][415]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel' with GeneratedClass '/Game/Levels/BasicLevel.BasicLevel_C' with ClassGeneratedBy '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel'
+[2016.11.04-17.36.40:760][622]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel' with GeneratedClass '/Game/Levels/BasicLevel.BasicLevel_C' with ClassGeneratedBy '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel'
+[2016.11.04-17.36.40:809][622]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel' with GeneratedClass '/Game/Levels/BasicLevel.BasicLevel_C' with ClassGeneratedBy '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel'
+[2016.11.04-17.37.07:177][708]LogHttp:Warning: 00000057EF2F9180: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2016.11.04-17.37.07:177][708]LogHttp:Warning: 00000057EF2F9180: libcurl info message cache 8 (Could not resolve host: datarouter.ol.epicgames.com)
+[2016.11.04-17.37.07:177][708]LogHttp:Warning: 00000057EF2F9180: libcurl info message cache 9 (Closing connection 4)
+[2016.11.04-17.37.36:375][575]LogTextFormatter:Warning: Failed to parse argument "RootClass" as a number (using "0" as a fallback). Please check your format string for errors: "Select {RootClass} Class".
+[2016.11.04-17.37.36:376][575]LogTextFormatter:Warning: Failed to parse argument "GameStateName" as a number (using "0" as a fallback). Please check your format string for errors: "GameState: {GameStateName}".
+[2016.11.04-17.37.36:376][575]LogTextFormatter:Warning: Failed to parse argument "PawnName" as a number (using "0" as a fallback). Please check your format string for errors: "Pawn: {PawnName}".
+[2016.11.04-17.37.36:377][575]LogTextFormatter:Warning: Failed to parse argument "HUDName" as a number (using "0" as a fallback). Please check your format string for errors: "HUD: {HUDName}".
+[2016.11.04-17.37.36:378][575]LogTextFormatter:Warning: Failed to parse argument "PlayerControllerName" as a number (using "0" as a fallback). Please check your format string for errors: "PlayerController: {PlayerControllerName}".
+[2016.11.04-17.37.43:416][997]LogSavePackage: Save=120.79ms
+[2016.11.04-17.37.43:416][997]LogSavePackage: Moving '../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Saved/BasicLevel198D5DE141B3F01ECE5D6F8F9B4300D1.tmp' to '../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Levels/BasicLevel.umap'
+[2016.11.04-17.37.43:419][997]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Levels/BasicLevel.umap
+[2016.11.04-17.37.43:451][997]LogFileHelpers: Saving map 'BasicLevel' took 0.264
+[2016.11.04-17.37.53:423][885]LogSavePackage: Save=11.43ms
+[2016.11.04-17.37.53:423][885]LogSavePackage: Moving '../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Saved/BattleCardGameMode883AC02E41AC9D2F0AB3E0BE687753A7.tmp' to '../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Blueprints/BattleCardGameMode.uasset'
+[2016.11.04-17.37.53:426][885]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Blueprints/BattleCardGameMode.uasset
+[2016.11.04-17.37.54:248][958]BlueprintLog: New page: Compile BattleCardGameMode
+[2016.11.04-17.37.56:629][ 83]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel' with GeneratedClass '/Game/Levels/BasicLevel.BasicLevel_C' with ClassGeneratedBy '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel'
+[2016.11.04-17.37.56:629][ 83]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.04-17.37.56:630][ 83]PIE: New page: PIE session: BasicLevel (Nov 4, 2016, 8:37:56 AM)
+[2016.11.04-17.37.56:630][ 83]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_BasicLevel
+[2016.11.04-17.37.56:632][ 83]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002026s)
+[2016.11.04-17.37.56:633][ 83]LogAIModule: Creating AISystem for world BasicLevel
+[2016.11.04-17.37.56:633][ 83]LogPlayLevel: PIE: World Init took: (0.001189s)
+[2016.11.04-17.37.56:634][ 83]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/BasicLevel.BasicLevel to /Game/Levels/UEDPIE_0_BasicLevel.BasicLevel (0.003767s)
+[2016.11.04-17.37.56:684][ 83]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.04-17.37.56:691][ 83]LogInit: FAudioDevice initialized.
+[2016.11.04-17.37.56:727][ 83]LogWorld: Game class is 'BattleCardGameMode_C'
+[2016.11.04-17.37.56:730][ 83]LogWorld: Bringing World /Game/Levels/UEDPIE_0_BasicLevel.BasicLevel up for play (max tick rate 0) at 2016.11.04-13.37.56
+[2016.11.04-17.37.56:730][ 83]LogWorld: Bringing up level for play took: 0.002239
+[2016.11.04-17.37.56:731][ 83]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.04-17.37.56:731][ 83]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.04-17.37.56:731][ 83]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.04-17.37.56:732][ 83]LogBlueprintUserMessages: [BattleCardGameMode_C_0] Hello
+[2016.11.04-17.37.56:732][ 83]LogScript:Warning: Accessed None trying to read property Player 1 State
+	BattleCardGameMode_C /Game/Levels/UEDPIE_0_BasicLevel.BasicLevel:PersistentLevel.BattleCardGameMode_C_0
+	Function /Game/Blueprints/BattleCardGameMode.BattleCardGameMode_C:ExecuteUbergraph_BattleCardGameMode:0015
+[2016.11.04-17.37.56:733][ 83]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property Player 1 State from function: 'ExecuteUbergraph_BattleCardGameMode' from node: Init Game in graph: EventGraph in object: BattleCardGameMode with description: Accessed None trying to read property Player 1 State
+[2016.11.04-17.37.56:733][ 83]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.04-17.37.56:733][ 83]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_BasicLevel 0.922
+[2016.11.04-17.37.56:733][ 83]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel' with GeneratedClass '/Game/Levels/BasicLevel.BasicLevel_C' with ClassGeneratedBy '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel'
+[2016.11.04-17.38.00:460][268]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel' with GeneratedClass '/Game/Levels/BasicLevel.BasicLevel_C' with ClassGeneratedBy '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel'
+[2016.11.04-17.38.00:514][268]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel' with GeneratedClass '/Game/Levels/BasicLevel.BasicLevel_C' with ClassGeneratedBy '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel'
+[2016.11.04-17.38.40:345][741]LogHttp:Warning: 00000057B85CC580: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2016.11.04-17.38.40:345][741]LogHttp:Warning: 00000057B85CC580: libcurl info message cache 8 (Could not resolve host: datarouter.ol.epicgames.com)
+[2016.11.04-17.38.40:345][741]LogHttp:Warning: 00000057B85CC580: libcurl info message cache 9 (Closing connection 5)
+[2016.11.04-17.38.46:323][266]BlueprintLog: New page: Compile BattleCardGameState
+[2016.11.04-17.38.46:332][266]LogBlueprint:Warning: [Compiler BattleCardGameState] Warning 'ReturnValue' is already a 'Card', you don't need  K2Node_DynamicCast_0 .
+[2016.11.04-17.38.46:458][266]BlueprintEditorCompileResults:Warning: Warning 'ReturnValue' is already a 'Card', you don't need  K2Node_DynamicCast_0 .
+[2016.11.04-17.38.46:458][266]LogBlueprint:Warning: [Compiler BattleCardGameState] Warning [0294.43] Compile of BattleCardGameState successful, but with 1 Warning(s) [in 133 ms] (/Game/Blueprints/BattleCardGameState.BattleCardGameState)
+[2016.11.04-17.38.59:911][547]BlueprintLog: New page: Compile BattleCardGameState
+[2016.11.04-17.38.59:920][547]LogBlueprint:Warning: [Compiler BattleCardGameState] Warning 'ReturnValue' is already a 'Card', you don't need  K2Node_DynamicCast_0 .
+[2016.11.04-17.39.00:044][547]BlueprintEditorCompileResults:Warning: Warning 'ReturnValue' is already a 'Card', you don't need  K2Node_DynamicCast_0 .
+[2016.11.04-17.39.00:044][547]LogBlueprint:Warning: [Compiler BattleCardGameState] Warning [0308.02] Compile of BattleCardGameState successful, but with 1 Warning(s) [in 132 ms] (/Game/Blueprints/BattleCardGameState.BattleCardGameState)
+[2016.11.04-17.39.06:908][919]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel' with GeneratedClass '/Game/Levels/BasicLevel.BasicLevel_C' with ClassGeneratedBy '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel'
+[2016.11.04-17.39.06:909][919]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.04-17.39.06:909][919]PIE: New page: PIE session: BasicLevel (Nov 4, 2016, 8:39:06 AM)
+[2016.11.04-17.39.06:909][919]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_BasicLevel
+[2016.11.04-17.39.06:911][919]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001922s)
+[2016.11.04-17.39.06:912][919]LogAIModule: Creating AISystem for world BasicLevel
+[2016.11.04-17.39.06:912][919]LogPlayLevel: PIE: World Init took: (0.001160s)
+[2016.11.04-17.39.06:913][919]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/BasicLevel.BasicLevel to /Game/Levels/UEDPIE_0_BasicLevel.BasicLevel (0.003604s)
+[2016.11.04-17.39.06:966][919]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.04-17.39.06:974][919]LogInit: FAudioDevice initialized.
+[2016.11.04-17.39.07:009][919]LogWorld: Game class is 'BattleCardGameMode_C'
+[2016.11.04-17.39.07:011][919]LogWorld: Bringing World /Game/Levels/UEDPIE_0_BasicLevel.BasicLevel up for play (max tick rate 0) at 2016.11.04-13.39.07
+[2016.11.04-17.39.07:012][919]LogWorld: Bringing up level for play took: 0.002643
+[2016.11.04-17.39.07:013][919]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.04-17.39.07:014][919]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.04-17.39.07:014][919]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.04-17.39.07:015][919]LogBlueprintUserMessages: [BattleCardGameMode_C_0] Hello
+[2016.11.04-17.39.07:015][919]LogScript:Warning: Accessed None trying to read property Player 1 State
+	BattleCardGameMode_C /Game/Levels/UEDPIE_0_BasicLevel.BasicLevel:PersistentLevel.BattleCardGameMode_C_0
+	Function /Game/Blueprints/BattleCardGameMode.BattleCardGameMode_C:ExecuteUbergraph_BattleCardGameMode:0015
+[2016.11.04-17.39.07:015][919]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property Player 1 State from function: 'ExecuteUbergraph_BattleCardGameMode' from node: Init Game in graph: EventGraph in object: BattleCardGameMode with description: Accessed None trying to read property Player 1 State
+[2016.11.04-17.39.07:016][919]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.04-17.39.07:016][919]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_BasicLevel -0.796
+[2016.11.04-17.39.07:016][919]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel' with GeneratedClass '/Game/Levels/BasicLevel.BasicLevel_C' with ClassGeneratedBy '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel'
+[2016.11.04-17.39.13:417][243]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel' with GeneratedClass '/Game/Levels/BasicLevel.BasicLevel_C' with ClassGeneratedBy '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel'
+[2016.11.04-17.39.13:474][243]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel' with GeneratedClass '/Game/Levels/BasicLevel.BasicLevel_C' with ClassGeneratedBy '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel'
+[2016.11.04-17.39.15:959][309]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel' with GeneratedClass '/Game/Levels/BasicLevel.BasicLevel_C' with ClassGeneratedBy '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel'
+[2016.11.04-17.39.15:960][309]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.04-17.39.15:960][309]PIE: New page: PIE session: BasicLevel (Nov 4, 2016, 8:39:15 AM)
+[2016.11.04-17.39.15:960][309]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_BasicLevel
+[2016.11.04-17.39.15:963][309]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002180s)
+[2016.11.04-17.39.15:963][309]LogAIModule: Creating AISystem for world BasicLevel
+[2016.11.04-17.39.15:964][309]LogPlayLevel: PIE: World Init took: (0.001126s)
+[2016.11.04-17.39.15:964][309]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/BasicLevel.BasicLevel to /Game/Levels/UEDPIE_0_BasicLevel.BasicLevel (0.003840s)
+[2016.11.04-17.39.16:009][309]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.04-17.39.16:016][309]LogInit: FAudioDevice initialized.
+[2016.11.04-17.39.16:049][309]LogWorld: Game class is 'BattleCardGameMode_C'
+[2016.11.04-17.39.16:051][309]LogWorld: Bringing World /Game/Levels/UEDPIE_0_BasicLevel.BasicLevel up for play (max tick rate 0) at 2016.11.04-13.39.16
+[2016.11.04-17.39.16:052][309]LogWorld: Bringing up level for play took: 0.002262
+[2016.11.04-17.39.16:053][309]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.04-17.39.16:053][309]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.04-17.39.16:053][309]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.04-17.39.16:054][309]LogBlueprintUserMessages: [BattleCardGameMode_C_0] Hello
+[2016.11.04-17.39.16:054][309]LogScript:Warning: Accessed None trying to read property Player 1 State
+	BattleCardGameMode_C /Game/Levels/UEDPIE_0_BasicLevel.BasicLevel:PersistentLevel.BattleCardGameMode_C_0
+	Function /Game/Blueprints/BattleCardGameMode.BattleCardGameMode_C:ExecuteUbergraph_BattleCardGameMode:0015
+[2016.11.04-17.39.16:055][309]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property Player 1 State from function: 'ExecuteUbergraph_BattleCardGameMode' from node: Init Game in graph: EventGraph in object: BattleCardGameMode with description: Accessed None trying to read property Player 1 State
+[2016.11.04-17.39.16:055][309]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.04-17.39.16:055][309]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_BasicLevel 0.243
+[2016.11.04-17.39.16:055][309]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel' with GeneratedClass '/Game/Levels/BasicLevel.BasicLevel_C' with ClassGeneratedBy '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel'
+[2016.11.04-17.39.25:503][909]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel' with GeneratedClass '/Game/Levels/BasicLevel.BasicLevel_C' with ClassGeneratedBy '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel'
+[2016.11.04-17.39.25:559][909]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel' with GeneratedClass '/Game/Levels/BasicLevel.BasicLevel_C' with ClassGeneratedBy '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel'
+[2016.11.04-17.39.45:505][ 74]BlueprintLog: New page: Compile BattleCardGameState
+[2016.11.04-17.39.46:381][149]LogHttp:Warning: 00000057B9358400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2016.11.04-17.39.46:382][149]LogHttp:Warning: 00000057B9358400: libcurl info message cache 8 (Could not resolve host: datarouter.ol.epicgames.com)
+[2016.11.04-17.39.46:382][149]LogHttp:Warning: 00000057B9358400: libcurl info message cache 9 (Closing connection 6)
+[2016.11.04-17.39.47:773][205]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel' with GeneratedClass '/Game/Levels/BasicLevel.BasicLevel_C' with ClassGeneratedBy '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel'
+[2016.11.04-17.39.47:773][205]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.04-17.39.47:773][205]PIE: New page: PIE session: BasicLevel (Nov 4, 2016, 8:39:47 AM)
+[2016.11.04-17.39.47:773][205]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_BasicLevel
+[2016.11.04-17.39.47:776][205]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002091s)
+[2016.11.04-17.39.47:777][205]LogAIModule: Creating AISystem for world BasicLevel
+[2016.11.04-17.39.47:777][205]LogPlayLevel: PIE: World Init took: (0.001201s)
+[2016.11.04-17.39.47:777][205]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/BasicLevel.BasicLevel to /Game/Levels/UEDPIE_0_BasicLevel.BasicLevel (0.003856s)
+[2016.11.04-17.39.47:827][205]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.04-17.39.47:834][205]LogInit: FAudioDevice initialized.
+[2016.11.04-17.39.47:870][205]LogWorld: Game class is 'BattleCardGameMode_C'
+[2016.11.04-17.39.47:872][205]LogWorld: Bringing World /Game/Levels/UEDPIE_0_BasicLevel.BasicLevel up for play (max tick rate 0) at 2016.11.04-13.39.47
+[2016.11.04-17.39.47:873][205]LogWorld: Bringing up level for play took: 0.002250
+[2016.11.04-17.39.47:874][205]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.04-17.39.47:874][205]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.04-17.39.47:874][205]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.04-17.39.47:875][205]LogBlueprintUserMessages: [BattleCardGameMode_C_0] Hello
+[2016.11.04-17.39.47:875][205]LogScript:Warning: Accessed None trying to read property Player 1 State
+	BattleCardGameMode_C /Game/Levels/UEDPIE_0_BasicLevel.BasicLevel:PersistentLevel.BattleCardGameMode_C_0
+	Function /Game/Blueprints/BattleCardGameMode.BattleCardGameMode_C:ExecuteUbergraph_BattleCardGameMode:0015
+[2016.11.04-17.39.47:876][205]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property Player 1 State from function: 'ExecuteUbergraph_BattleCardGameMode' from node: Init Game in graph: EventGraph in object: BattleCardGameMode with description: Accessed None trying to read property Player 1 State
+[2016.11.04-17.39.47:876][205]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.04-17.39.47:876][205]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_BasicLevel 0.064
+[2016.11.04-17.39.47:876][205]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel' with GeneratedClass '/Game/Levels/BasicLevel.BasicLevel_C' with ClassGeneratedBy '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel'
+[2016.11.04-17.39.51:202][373]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel' with GeneratedClass '/Game/Levels/BasicLevel.BasicLevel_C' with ClassGeneratedBy '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel'
+[2016.11.04-17.39.51:257][373]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel' with GeneratedClass '/Game/Levels/BasicLevel.BasicLevel_C' with ClassGeneratedBy '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel'
+[2016.11.04-17.40.20:162][600]BlueprintLog: New page: Compile BattleCardGameState
+[2016.11.04-17.40.23:782][852]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel' with GeneratedClass '/Game/Levels/BasicLevel.BasicLevel_C' with ClassGeneratedBy '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel'
+[2016.11.04-17.40.23:782][852]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.04-17.40.23:782][852]PIE: New page: PIE session: BasicLevel (Nov 4, 2016, 8:40:23 AM)
+[2016.11.04-17.40.23:782][852]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_BasicLevel
+[2016.11.04-17.40.23:784][852]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001970s)
+[2016.11.04-17.40.23:785][852]LogAIModule: Creating AISystem for world BasicLevel
+[2016.11.04-17.40.23:786][852]LogPlayLevel: PIE: World Init took: (0.001127s)
+[2016.11.04-17.40.23:786][852]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/BasicLevel.BasicLevel to /Game/Levels/UEDPIE_0_BasicLevel.BasicLevel (0.003611s)
+[2016.11.04-17.40.23:834][852]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.04-17.40.23:841][852]LogInit: FAudioDevice initialized.
+[2016.11.04-17.40.23:878][852]LogWorld: Game class is 'BattleCardGameMode_C'
+[2016.11.04-17.40.23:881][852]LogWorld: Bringing World /Game/Levels/UEDPIE_0_BasicLevel.BasicLevel up for play (max tick rate 0) at 2016.11.04-13.40.23
+[2016.11.04-17.40.23:881][852]LogWorld: Bringing up level for play took: 0.002286
+[2016.11.04-17.40.23:882][852]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.04-17.40.23:882][852]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.04-17.40.23:883][852]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.04-17.40.23:883][852]LogBlueprintUserMessages: [BattleCardGameMode_C_0] Hello
+[2016.11.04-17.40.23:883][852]LogScript:Warning: Accessed None trying to read property Player 1 State
+	BattleCardGameMode_C /Game/Levels/UEDPIE_0_BasicLevel.BasicLevel:PersistentLevel.BattleCardGameMode_C_0
+	Function /Game/Blueprints/BattleCardGameMode.BattleCardGameMode_C:ExecuteUbergraph_BattleCardGameMode:0015
+[2016.11.04-17.40.23:884][852]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property Player 1 State from function: 'ExecuteUbergraph_BattleCardGameMode' from node: Init Game in graph: EventGraph in object: BattleCardGameMode with description: Accessed None trying to read property Player 1 State
+[2016.11.04-17.40.23:884][852]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.04-17.40.23:884][852]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_BasicLevel 0.072
+[2016.11.04-17.40.23:884][852]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel' with GeneratedClass '/Game/Levels/BasicLevel.BasicLevel_C' with ClassGeneratedBy '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel'
+[2016.11.04-17.40.26:733][998]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel' with GeneratedClass '/Game/Levels/BasicLevel.BasicLevel_C' with ClassGeneratedBy '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel'
+[2016.11.04-17.40.26:780][998]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel' with GeneratedClass '/Game/Levels/BasicLevel.BasicLevel_C' with ClassGeneratedBy '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel'
+[2016.11.04-17.40.47:779][578]LogHttp:Warning: 00000057B91A2380: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2016.11.04-17.40.47:779][578]LogHttp:Warning: 00000057B91A2380: libcurl info message cache 8 (Could not resolve host: datarouter.ol.epicgames.com)
+[2016.11.04-17.40.47:779][578]LogHttp:Warning: 00000057B91A2380: libcurl info message cache 9 (Closing connection 7)
+[2016.11.04-17.40.55:055][ 84]LogSavePackage: Save=11.36ms
+[2016.11.04-17.40.55:055][ 84]LogSavePackage: Moving '../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Saved/BattleCardGameMode7128F7794090FF1345C78FBC76C71907.tmp' to '../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Blueprints/BattleCardGameMode.uasset'
+[2016.11.04-17.40.55:059][ 84]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Blueprints/BattleCardGameMode.uasset
+[2016.11.04-17.40.55:095][ 84]LogSavePackage: Save=16.01ms
+[2016.11.04-17.40.55:095][ 84]LogSavePackage: Moving '../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Saved/BattleCardGameStateF3A24889420DA16CCB9EA894553BE4F6.tmp' to '../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Blueprints/BattleCardGameState.uasset'
+[2016.11.04-17.40.55:099][ 84]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Blueprints/BattleCardGameState.uasset
+[2016.11.04-17.43.19:434][823]LogSavePackage: Save=15.30ms
+[2016.11.04-17.43.19:434][823]LogSavePackage: Moving '../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Saved/BattleCardGameStateBE9328C54C04C6A860ACA5B439EB5F45.tmp' to '../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Blueprints/BattleCardGameState.uasset'
+[2016.11.04-17.43.19:438][823]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Blueprints/BattleCardGameState.uasset
+[2016.11.04-17.43.34:583][371]LogSavePackage: Save=15.65ms
+[2016.11.04-17.43.34:583][371]LogSavePackage: Moving '../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Saved/BattleCardGameState19ACEB134AA79DC16DABAA86B809AA3F.tmp' to '../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Blueprints/BattleCardGameState.uasset'
+[2016.11.04-17.43.34:587][371]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Blueprints/BattleCardGameState.uasset
+[2016.11.04-17.43.36:185][519]BlueprintLog: New page: Compile BattleCardGameState
+[2016.11.04-17.43.36:204][519]LogBlueprint:Error: [Compiler BattleCardGameMode] Error Could not find a function named "InitGame" in 'BattleCardGameState_C'.
+Make sure 'BattleCardGameState_C' has been compiled for  K2Node_CallFunction_3
+[2016.11.04-17.43.48:610][545]LogSavePackage: Save=11.49ms
+[2016.11.04-17.43.48:611][545]LogSavePackage: Moving '../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Saved/BattleCardGameMode33D8B21348F7548131C993BFD0C7C27C.tmp' to '../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Blueprints/BattleCardGameMode.uasset'
+[2016.11.04-17.43.48:614][545]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Blueprints/BattleCardGameMode.uasset
+[2016.11.04-17.43.51:825][817]BlueprintLog: New page: Compile BattleCardGameMode
+[2016.11.04-17.43.54:594][993]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel' with GeneratedClass '/Game/Levels/BasicLevel.BasicLevel_C' with ClassGeneratedBy '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel'
+[2016.11.04-17.43.54:594][993]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.04-17.43.54:594][993]PIE: New page: PIE session: BasicLevel (Nov 4, 2016, 8:43:54 AM)
+[2016.11.04-17.43.54:595][993]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_BasicLevel
+[2016.11.04-17.43.54:597][993]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002355s)
+[2016.11.04-17.43.54:598][993]LogAIModule: Creating AISystem for world BasicLevel
+[2016.11.04-17.43.54:599][993]LogPlayLevel: PIE: World Init took: (0.001452s)
+[2016.11.04-17.43.54:599][993]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/BasicLevel.BasicLevel to /Game/Levels/UEDPIE_0_BasicLevel.BasicLevel (0.004487s)
+[2016.11.04-17.43.54:648][993]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.04-17.43.54:656][993]LogInit: FAudioDevice initialized.
+[2016.11.04-17.43.54:690][993]LogWorld: Game class is 'BattleCardGameMode_C'
+[2016.11.04-17.43.54:692][993]LogWorld: Bringing World /Game/Levels/UEDPIE_0_BasicLevel.BasicLevel up for play (max tick rate 0) at 2016.11.04-13.43.54
+[2016.11.04-17.43.54:693][993]LogWorld: Bringing up level for play took: 0.002229
+[2016.11.04-17.43.54:694][993]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.04-17.43.54:694][993]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.04-17.43.54:694][993]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.04-17.43.54:695][993]LogBlueprintUserMessages: [BattleCardGameMode_C_0] Hello
+[2016.11.04-17.43.54:695][993]LogScript:Warning: Accessed None trying to read property TheDeck
+	BattleCardGameState_C /Game/Levels/UEDPIE_0_BasicLevel.BasicLevel:PersistentLevel.BattleCardGameState_C_0
+	Function /Game/Blueprints/BattleCardGameState.BattleCardGameState_C:ExecuteUbergraph_BattleCardGameState:0247
+[2016.11.04-17.43.54:696][993]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property TheDeck from function: 'ExecuteUbergraph_BattleCardGameState' from node: Initialize Deck in graph: EventGraph in object: BattleCardGameState with description: Accessed None trying to read property TheDeck
+[2016.11.04-17.43.54:696][993]LogBlueprintUserMessages: [BattleCardGameState_C_0] 1
+[2016.11.04-17.43.54:696][993]LogScript:Warning: Accessed None trying to read property TheDeck
+	BattleCardGameState_C /Game/Levels/UEDPIE_0_BasicLevel.BasicLevel:PersistentLevel.BattleCardGameState_C_0
+	Function /Game/Blueprints/BattleCardGameState.BattleCardGameState_C:ExecuteUbergraph_BattleCardGameState:0213
+[2016.11.04-17.43.54:696][993]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property TheDeck from function: 'ExecuteUbergraph_BattleCardGameState' from node: Get Next Card ID in graph: EventGraph in object: BattleCardGameState with description: Accessed None trying to read property TheDeck
+[2016.11.04-17.43.54:696][993]LogBlueprintUserMessages: [BattleCardGameState_C_0] 2
+[2016.11.04-17.43.54:697][993]LogBlueprintUserMessages: [BattleCardGameState_C_0] spawned
+[2016.11.04-17.43.54:698][993]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.04-17.43.54:698][993]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_BasicLevel 0.887
+[2016.11.04-17.43.54:698][993]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel' with GeneratedClass '/Game/Levels/BasicLevel.BasicLevel_C' with ClassGeneratedBy '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel'
+[2016.11.04-17.44.01:782][344]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel' with GeneratedClass '/Game/Levels/BasicLevel.BasicLevel_C' with ClassGeneratedBy '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel'
+[2016.11.04-17.44.01:838][344]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel' with GeneratedClass '/Game/Levels/BasicLevel.BasicLevel_C' with ClassGeneratedBy '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel'
+[2016.11.04-17.44.09:094][627]LogHttp:Warning: 000000579F826E00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2016.11.04-17.44.09:095][627]LogHttp:Warning: 000000579F826E00: libcurl info message cache 8 (Could not resolve host: datarouter.ol.epicgames.com)
+[2016.11.04-17.44.09:095][627]LogHttp:Warning: 000000579F826E00: libcurl info message cache 9 (Closing connection 8)
+[2016.11.04-17.44.20:907][452]LogSavePackage: Save=14.96ms
+[2016.11.04-17.44.20:907][452]LogSavePackage: Moving '../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Saved/BattleCardGameState15BCBB6640FDE3296F0710B98DC676EB.tmp' to '../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Blueprints/BattleCardGameState.uasset'
+[2016.11.04-17.44.20:911][452]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Blueprints/BattleCardGameState.uasset
+[2016.11.04-17.44.23:099][557]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel' with GeneratedClass '/Game/Levels/BasicLevel.BasicLevel_C' with ClassGeneratedBy '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel'
+[2016.11.04-17.44.23:099][557]BlueprintLog: New page: Pre-Play auto-recompile
+[2016.11.04-17.44.23:099][557]LogPlayLevel: [PlayLevel] Compiling BattleCardGameState before play...
+[2016.11.04-17.44.23:232][557]LogPlayLevel: PlayLevel: Blueprint regeneration took 132 ms (1 blueprints)
+[2016.11.04-17.44.23:232][557]PIE: New page: PIE session: BasicLevel (Nov 4, 2016, 8:44:23 AM)
+[2016.11.04-17.44.23:232][557]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_BasicLevel
+[2016.11.04-17.44.23:234][557]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001729s)
+[2016.11.04-17.44.23:235][557]LogAIModule: Creating AISystem for world BasicLevel
+[2016.11.04-17.44.23:235][557]LogPlayLevel: PIE: World Init took: (0.001058s)
+[2016.11.04-17.44.23:235][557]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/BasicLevel.BasicLevel to /Game/Levels/UEDPIE_0_BasicLevel.BasicLevel (0.003255s)
+[2016.11.04-17.44.23:273][557]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.04-17.44.23:280][557]LogInit: FAudioDevice initialized.
+[2016.11.04-17.44.23:310][557]LogWorld: Game class is 'BattleCardGameMode_C'
+[2016.11.04-17.44.23:313][557]LogWorld: Bringing World /Game/Levels/UEDPIE_0_BasicLevel.BasicLevel up for play (max tick rate 0) at 2016.11.04-13.44.23
+[2016.11.04-17.44.23:313][557]LogWorld: Bringing up level for play took: 0.002498
+[2016.11.04-17.44.23:314][557]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.04-17.44.23:314][557]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.04-17.44.23:315][557]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.04-17.44.23:315][557]LogBlueprintUserMessages: [BattleCardGameMode_C_0] Hello
+[2016.11.04-17.44.23:316][557]LogScript:Warning: Accessed None trying to read property TheDeck
+	BattleCardGameState_C /Game/Levels/UEDPIE_0_BasicLevel.BasicLevel:PersistentLevel.BattleCardGameState_C_0
+	Function /Game/Blueprints/BattleCardGameState.BattleCardGameState_C:ExecuteUbergraph_BattleCardGameState:0247
+[2016.11.04-17.44.23:316][557]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property TheDeck from function: 'ExecuteUbergraph_BattleCardGameState' from node: Initialize Deck in graph: EventGraph in object: BattleCardGameState with description: Accessed None trying to read property TheDeck
+[2016.11.04-17.44.23:316][557]LogBlueprintUserMessages: [BattleCardGameState_C_0] 1
+[2016.11.04-17.44.23:316][557]LogScript:Warning: Accessed None trying to read property TheDeck
+	BattleCardGameState_C /Game/Levels/UEDPIE_0_BasicLevel.BasicLevel:PersistentLevel.BattleCardGameState_C_0
+	Function /Game/Blueprints/BattleCardGameState.BattleCardGameState_C:ExecuteUbergraph_BattleCardGameState:0213
+[2016.11.04-17.44.23:317][557]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property TheDeck from function: 'ExecuteUbergraph_BattleCardGameState' from node: Get Next Card ID in graph: EventGraph in object: BattleCardGameState with description: Accessed None trying to read property TheDeck
+[2016.11.04-17.44.23:317][557]LogBlueprintUserMessages: [BattleCardGameState_C_0] 2
+[2016.11.04-17.44.23:318][557]LogBlueprintUserMessages: [BattleCardGameState_C_0] spawned
+[2016.11.04-17.44.23:318][557]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.04-17.44.23:318][557]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_BasicLevel -0.494
+[2016.11.04-17.44.23:318][557]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel' with GeneratedClass '/Game/Levels/BasicLevel.BasicLevel_C' with ClassGeneratedBy '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel'
+[2016.11.04-17.44.26:216][701]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel' with GeneratedClass '/Game/Levels/BasicLevel.BasicLevel_C' with ClassGeneratedBy '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel'
+[2016.11.04-17.44.26:269][701]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel' with GeneratedClass '/Game/Levels/BasicLevel.BasicLevel_C' with ClassGeneratedBy '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel'
+[2016.11.04-17.44.43:676][807]LogSavePackage: Save=14.83ms
+[2016.11.04-17.44.43:676][807]LogSavePackage: Moving '../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Saved/BattleCardGameState939EC7F64709DC0FA10312A4D080325D.tmp' to '../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Blueprints/BattleCardGameState.uasset'
+[2016.11.04-17.44.43:680][807]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Blueprints/BattleCardGameState.uasset
+[2016.11.04-17.44.46:317][ 49]BlueprintLog: New page: Compile BattleCardGameState
+[2016.11.04-17.44.47:316][116]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel' with GeneratedClass '/Game/Levels/BasicLevel.BasicLevel_C' with ClassGeneratedBy '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel'
+[2016.11.04-17.44.47:316][116]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.04-17.44.47:317][116]PIE: New page: PIE session: BasicLevel (Nov 4, 2016, 8:44:47 AM)
+[2016.11.04-17.44.47:317][116]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_BasicLevel
+[2016.11.04-17.44.47:319][116]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002319s)
+[2016.11.04-17.44.47:320][116]LogAIModule: Creating AISystem for world BasicLevel
+[2016.11.04-17.44.47:321][116]LogPlayLevel: PIE: World Init took: (0.001318s)
+[2016.11.04-17.44.47:321][116]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/BasicLevel.BasicLevel to /Game/Levels/UEDPIE_0_BasicLevel.BasicLevel (0.004297s)
+[2016.11.04-17.44.47:363][116]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.04-17.44.47:370][116]LogInit: FAudioDevice initialized.
+[2016.11.04-17.44.47:409][116]LogWorld: Game class is 'BattleCardGameMode_C'
+[2016.11.04-17.44.47:411][116]LogWorld: Bringing World /Game/Levels/UEDPIE_0_BasicLevel.BasicLevel up for play (max tick rate 0) at 2016.11.04-13.44.47
+[2016.11.04-17.44.47:412][116]LogWorld: Bringing up level for play took: 0.002340
+[2016.11.04-17.44.47:413][116]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.04-17.44.47:413][116]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.04-17.44.47:413][116]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.04-17.44.47:414][116]LogBlueprintUserMessages: [BattleCardGameMode_C_0] Hello
+[2016.11.04-17.44.47:414][116]LogScript:Warning: Accessed None trying to read property TheDeck
+	BattleCardGameState_C /Game/Levels/UEDPIE_0_BasicLevel.BasicLevel:PersistentLevel.BattleCardGameState_C_0
+	Function /Game/Blueprints/BattleCardGameState.BattleCardGameState_C:ExecuteUbergraph_BattleCardGameState:0247
+[2016.11.04-17.44.47:415][116]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property TheDeck from function: 'ExecuteUbergraph_BattleCardGameState' from node: Initialize Deck in graph: EventGraph in object: BattleCardGameState with description: Accessed None trying to read property TheDeck
+[2016.11.04-17.44.47:415][116]LogBlueprintUserMessages: [BattleCardGameState_C_0] 1
+[2016.11.04-17.44.47:415][116]LogScript:Warning: Accessed None trying to read property TheDeck
+	BattleCardGameState_C /Game/Levels/UEDPIE_0_BasicLevel.BasicLevel:PersistentLevel.BattleCardGameState_C_0
+	Function /Game/Blueprints/BattleCardGameState.BattleCardGameState_C:ExecuteUbergraph_BattleCardGameState:0213
+[2016.11.04-17.44.47:415][116]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property TheDeck from function: 'ExecuteUbergraph_BattleCardGameState' from node: Get Next Card ID in graph: EventGraph in object: BattleCardGameState with description: Accessed None trying to read property TheDeck
+[2016.11.04-17.44.47:415][116]LogBlueprintUserMessages: [BattleCardGameState_C_0] 2
+[2016.11.04-17.44.47:416][116]LogBlueprintUserMessages: [BattleCardGameState_C_0] spawned
+[2016.11.04-17.44.47:417][116]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.04-17.44.47:420][116]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_BasicLevel -0.393
+[2016.11.04-17.44.47:420][116]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel' with GeneratedClass '/Game/Levels/BasicLevel.BasicLevel_C' with ClassGeneratedBy '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel'
+[2016.11.04-17.44.54:503][351]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel' with GeneratedClass '/Game/Levels/BasicLevel.BasicLevel_C' with ClassGeneratedBy '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel'
+[2016.11.04-17.44.54:566][351]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel' with GeneratedClass '/Game/Levels/BasicLevel.BasicLevel_C' with ClassGeneratedBy '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel'
+[2016.11.04-17.45.15:347][ 45]LogSavePackage: Save=15.13ms
+[2016.11.04-17.45.15:347][ 45]LogSavePackage: Moving '../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Saved/BattleCardGameState985EA5F74CA7117F4B3A68BF52CA7DA9.tmp' to '../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Blueprints/BattleCardGameState.uasset'
+[2016.11.04-17.45.15:350][ 45]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Blueprints/BattleCardGameState.uasset
+[2016.11.04-17.45.17:323][186]BlueprintLog: New page: Compile BattleCardGameState
+[2016.11.04-17.45.19:267][261]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel' with GeneratedClass '/Game/Levels/BasicLevel.BasicLevel_C' with ClassGeneratedBy '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel'
+[2016.11.04-17.45.19:268][261]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.04-17.45.19:268][261]PIE: New page: PIE session: BasicLevel (Nov 4, 2016, 8:45:19 AM)
+[2016.11.04-17.45.19:268][261]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_BasicLevel
+[2016.11.04-17.45.19:270][261]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001773s)
+[2016.11.04-17.45.19:271][261]LogAIModule: Creating AISystem for world BasicLevel
+[2016.11.04-17.45.19:271][261]LogPlayLevel: PIE: World Init took: (0.001032s)
+[2016.11.04-17.45.19:271][261]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/BasicLevel.BasicLevel to /Game/Levels/UEDPIE_0_BasicLevel.BasicLevel (0.003264s)
+[2016.11.04-17.45.19:315][261]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.04-17.45.19:322][261]LogInit: FAudioDevice initialized.
+[2016.11.04-17.45.19:356][261]LogWorld: Game class is 'BattleCardGameMode_C'
+[2016.11.04-17.45.19:359][261]LogWorld: Bringing World /Game/Levels/UEDPIE_0_BasicLevel.BasicLevel up for play (max tick rate 0) at 2016.11.04-13.45.19
+[2016.11.04-17.45.19:360][261]LogWorld: Bringing up level for play took: 0.002501
+[2016.11.04-17.45.19:361][261]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.04-17.45.19:361][261]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.04-17.45.19:361][261]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.04-17.45.19:362][261]LogBlueprintUserMessages: [BattleCardGameMode_C_0] Hello
+[2016.11.04-17.45.19:362][261]LogScript:Warning: Accessed None trying to read property TheDeck
+	BattleCardGameState_C /Game/Levels/UEDPIE_0_BasicLevel.BasicLevel:PersistentLevel.BattleCardGameState_C_0
+	Function /Game/Blueprints/BattleCardGameState.BattleCardGameState_C:ExecuteUbergraph_BattleCardGameState:0247
+[2016.11.04-17.45.19:362][261]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property TheDeck from function: 'ExecuteUbergraph_BattleCardGameState' from node: Initialize Deck in graph: EventGraph in object: BattleCardGameState with description: Accessed None trying to read property TheDeck
+[2016.11.04-17.45.19:363][261]LogBlueprintUserMessages: [BattleCardGameState_C_0] 1
+[2016.11.04-17.45.19:363][261]LogScript:Warning: Accessed None trying to read property TheDeck
+	BattleCardGameState_C /Game/Levels/UEDPIE_0_BasicLevel.BasicLevel:PersistentLevel.BattleCardGameState_C_0
+	Function /Game/Blueprints/BattleCardGameState.BattleCardGameState_C:ExecuteUbergraph_BattleCardGameState:0213
+[2016.11.04-17.45.19:363][261]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property TheDeck from function: 'ExecuteUbergraph_BattleCardGameState' from node: Get Next Card ID in graph: EventGraph in object: BattleCardGameState with description: Accessed None trying to read property TheDeck
+[2016.11.04-17.45.19:363][261]LogBlueprintUserMessages: [BattleCardGameState_C_0] 2
+[2016.11.04-17.45.19:364][261]LogBlueprintUserMessages: [BattleCardGameState_C_0] spawned
+[2016.11.04-17.45.19:365][261]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.04-17.45.19:365][261]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_BasicLevel -0.447
+[2016.11.04-17.45.19:365][261]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel' with GeneratedClass '/Game/Levels/BasicLevel.BasicLevel_C' with ClassGeneratedBy '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel'
+[2016.11.04-17.45.23:139][447]LogHttp:Warning: 00000057EF43BD00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2016.11.04-17.45.23:139][447]LogHttp:Warning: 00000057EF43BD00: libcurl info message cache 8 (Could not resolve host: datarouter.ol.epicgames.com)
+[2016.11.04-17.45.23:140][447]LogHttp:Warning: 00000057EF43BD00: libcurl info message cache 9 (Closing connection 9)
+[2016.11.04-17.45.27:393][653]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel' with GeneratedClass '/Game/Levels/BasicLevel.BasicLevel_C' with ClassGeneratedBy '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel'
+[2016.11.04-17.45.27:445][653]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel' with GeneratedClass '/Game/Levels/BasicLevel.BasicLevel_C' with ClassGeneratedBy '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel'
+[2016.11.04-17.45.36:111][870]LogContentStreaming: Texture pool size now 800 MB
+[2016.11.04-17.45.36:123][871]LogRenderer: Reallocating scene render targets to support 1004x504 (Frame:6246).
+[2016.11.04-17.45.37:779][896]LogRenderer: Reallocating scene render targets to support 1004x504 (Frame:6272).
+[2016.11.04-17.45.37:964][898]LogContentStreaming: Texture pool size now 1000 MB
+[2016.11.04-17.45.38:216][901]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2016.11.04-17.45.45:934][  6]MapCheck: New page: Map Check
+[2016.11.04-17.45.45:972][  6]LightingResults: New page: Lighting Build - Nov 4, 2016, 8:45:45 AM
+[2016.11.04-17.45.46:050][  6]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2016.11.04-17.45.46:088][  6]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2016.11.04-17.45.46:099][  6]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2016.11.04-17.45.46:605][  6]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2016.11.04-17.45.46:605][  6]LogSwarmInterface: [TryOpenConnection] Local Process ID is 8332
+[2016.11.04-17.45.46:649][  6]LogStaticLightingSystem:Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2016.11.04-17.45.46:650][  6]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2016.11.04-17.45.46:650][  6]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2016.11.04-17.45.46:650][  6]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2016.11.04-17.45.46:650][  6]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2016.11.04-17.45.46:650][  6]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2016.11.04-17.45.46:792][  6]LogEditorBuildUtils: Build time 0:00
+[2016.11.04-17.45.47:978][ 16]Job is a success!
+[2016.11.04-17.45.48:301][ 18]LogTexture:Display: Building textures: HQ_Lightmap1_1 (AutoDXT)
+[2016.11.04-17.45.48:301][ 18]LogTexture:Display: Building textures: LQ_Lightmap_1_1 (DXT1)
+[2016.11.04-17.45.48:301][ 18]LogTexture:Display: Building textures: ShadowMapTexture2D_0 (BGRA8)
+[2016.11.04-17.45.48:353][ 18]Lightmass on BSARDINHA: 798 ms total, 80 ms importing, 4 ms setup, 127 ms photons, 558 ms processing, 0 ms extra exporting [2/2 mappings]. Threads: 2.19 sec total, 296 ms processing.
+[2016.11.04-17.45.48:435][ 18]LogStaticLightingSystem: Illumination: 2.36 sec (48 ms encoding lightmaps, 11 ms encoding shadowmaps)
+[2016.11.04-17.45.48:435][ 18]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 2 textures
+[2016.11.04-17.45.48:435][ 18]LogStaticLightingSystem: Shadowmap texture memory: 0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 1 textures
+[2016.11.04-17.45.48:678][ 19]Cmd: MAP CHECK NOTIFYRESULTS
+[2016.11.04-17.45.48:678][ 19]MapCheck: New page: BasicLevel - Nov 4, 2016, 8:45:48 AM
+[2016.11.04-17.45.48:752][ 19]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 73.906ms to complete.
+[2016.11.04-17.45.52:249][ 68]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel' with GeneratedClass '/Game/Levels/BasicLevel.BasicLevel_C' with ClassGeneratedBy '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel'
+[2016.11.04-17.45.52:249][ 68]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.04-17.45.52:249][ 68]PIE: New page: PIE session: BasicLevel (Nov 4, 2016, 8:45:52 AM)
+[2016.11.04-17.45.52:250][ 68]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_BasicLevel
+[2016.11.04-17.45.52:252][ 68]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002560s)
+[2016.11.04-17.45.52:253][ 68]LogAIModule: Creating AISystem for world BasicLevel
+[2016.11.04-17.45.52:254][ 68]LogPlayLevel: PIE: World Init took: (0.001321s)
+[2016.11.04-17.45.52:254][ 68]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/BasicLevel.BasicLevel to /Game/Levels/UEDPIE_0_BasicLevel.BasicLevel (0.004530s)
+[2016.11.04-17.45.52:305][ 68]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.04-17.45.52:312][ 68]LogInit: FAudioDevice initialized.
+[2016.11.04-17.45.52:346][ 68]LogWorld: Game class is 'BattleCardGameMode_C'
+[2016.11.04-17.45.52:348][ 68]LogWorld: Bringing World /Game/Levels/UEDPIE_0_BasicLevel.BasicLevel up for play (max tick rate 0) at 2016.11.04-13.45.52
+[2016.11.04-17.45.52:349][ 68]LogWorld: Bringing up level for play took: 0.002199
+[2016.11.04-17.45.52:350][ 68]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.04-17.45.52:350][ 68]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.04-17.45.52:350][ 68]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.04-17.45.52:351][ 68]LogBlueprintUserMessages: [BattleCardGameMode_C_0] Hello
+[2016.11.04-17.45.52:351][ 68]LogScript:Warning: Accessed None trying to read property TheDeck
+	BattleCardGameState_C /Game/Levels/UEDPIE_0_BasicLevel.BasicLevel:PersistentLevel.BattleCardGameState_C_0
+	Function /Game/Blueprints/BattleCardGameState.BattleCardGameState_C:ExecuteUbergraph_BattleCardGameState:0247
+[2016.11.04-17.45.52:352][ 68]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property TheDeck from function: 'ExecuteUbergraph_BattleCardGameState' from node: Initialize Deck in graph: EventGraph in object: BattleCardGameState with description: Accessed None trying to read property TheDeck
+[2016.11.04-17.45.52:352][ 68]LogBlueprintUserMessages: [BattleCardGameState_C_0] 1
+[2016.11.04-17.45.52:352][ 68]LogScript:Warning: Accessed None trying to read property TheDeck
+	BattleCardGameState_C /Game/Levels/UEDPIE_0_BasicLevel.BasicLevel:PersistentLevel.BattleCardGameState_C_0
+	Function /Game/Blueprints/BattleCardGameState.BattleCardGameState_C:ExecuteUbergraph_BattleCardGameState:0213
+[2016.11.04-17.45.52:352][ 68]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property TheDeck from function: 'ExecuteUbergraph_BattleCardGameState' from node: Get Next Card ID in graph: EventGraph in object: BattleCardGameState with description: Accessed None trying to read property TheDeck
+[2016.11.04-17.45.52:352][ 68]LogBlueprintUserMessages: [BattleCardGameState_C_0] 2
+[2016.11.04-17.45.52:353][ 68]LogBlueprintUserMessages: [BattleCardGameState_C_0] spawned
+[2016.11.04-17.45.52:354][ 68]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.04-17.45.52:354][ 68]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_BasicLevel 0.542
+[2016.11.04-17.45.52:354][ 68]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel' with GeneratedClass '/Game/Levels/BasicLevel.BasicLevel_C' with ClassGeneratedBy '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel'
+[2016.11.04-17.46.17:511][504]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel' with GeneratedClass '/Game/Levels/BasicLevel.BasicLevel_C' with ClassGeneratedBy '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel'
+[2016.11.04-17.46.17:660][504]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel' with GeneratedClass '/Game/Levels/BasicLevel.BasicLevel_C' with ClassGeneratedBy '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel'
+[2016.11.04-17.46.52:227][370]LogHttp:Warning: 00000057A8641780: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2016.11.04-17.46.52:227][370]LogHttp:Warning: 00000057A8641780: libcurl info message cache 8 (Could not resolve host: datarouter.ol.epicgames.com)
+[2016.11.04-17.46.52:227][370]LogHttp:Warning: 00000057A8641780: libcurl info message cache 9 (Closing connection 10)
+[2016.11.04-17.48.25:190][941]LogRenderer: Reallocating scene render targets to support 1004x568 (Frame:7122).
+[2016.11.04-17.48.32:147][ 77]LogHttp:Warning: 00000057E5C21480: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2016.11.04-17.48.32:148][ 77]LogHttp:Warning: 00000057E5C21480: libcurl info message cache 8 (Could not resolve host: datarouter.ol.epicgames.com)
+[2016.11.04-17.48.32:148][ 77]LogHttp:Warning: 00000057E5C21480: libcurl info message cache 9 (Closing connection 11)
+[2016.11.04-17.49.13:954][960]LogSavePackage: Save=117.34ms
+[2016.11.04-17.49.13:954][960]LogSavePackage: Moving '../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Saved/BasicLevelB0295D9345DD834DF463489E3BF16EB4.tmp' to '../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Levels/BasicLevel.umap'
+[2016.11.04-17.49.13:958][960]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Levels/BasicLevel.umap
+[2016.11.04-17.49.13:989][960]LogFileHelpers: Saving map 'BasicLevel' took 0.265
+[2016.11.04-17.49.14:038][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Card" FILE="../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Blueprints/Card.uasset" SILENT=true
+[2016.11.04-17.49.14:126][960]LogSavePackage: Save=72.73ms
+[2016.11.04-17.49.14:126][960]LogSavePackage: Moving '../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Saved/CardFEC9E2B0490C99249D42A4B5E05F5180.tmp' to '../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Blueprints/Card.uasset'
+[2016.11.04-17.49.14:129][960]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Blueprints/Card.uasset
+[2016.11.04-17.49.14:166][960]LogSavePackage: Save=16.48ms
+[2016.11.04-17.49.14:166][960]LogSavePackage: Moving '../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Saved/BattleCardGameStateF3E507C74CF280B398E4A29C4BF66C85.tmp' to '../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Blueprints/BattleCardGameState.uasset'
+[2016.11.04-17.49.14:170][960]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Blueprints/BattleCardGameState.uasset
+[2016.11.04-17.49.25:929][746]LogSavePackage: Save=15.04ms
+[2016.11.04-17.49.25:929][746]LogSavePackage: Moving '../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Saved/BattleCardGameStateD7C404A74376E12E027E2FAEF976106A.tmp' to '../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Blueprints/BattleCardGameState.uasset'
+[2016.11.04-17.49.25:933][746]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Blueprints/BattleCardGameState.uasset
+[2016.11.04-17.49.27:951][889]BlueprintLog: New page: Compile BattleCardGameState
+[2016.11.04-17.49.29:750][944]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel' with GeneratedClass '/Game/Levels/BasicLevel.BasicLevel_C' with ClassGeneratedBy '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel'
+[2016.11.04-17.49.29:750][944]BlueprintLog: New page: Pre-Play auto-recompile
+[2016.11.04-17.49.29:750][944]LogPlayLevel: [PlayLevel] Compiling Card before play...
+[2016.11.04-17.49.30:107][944]LogPlayLevel: PlayLevel: Blueprint regeneration took 357 ms (1 blueprints)
+[2016.11.04-17.49.30:108][944]PIE: New page: PIE session: BasicLevel (Nov 4, 2016, 8:49:30 AM)
+[2016.11.04-17.49.30:108][944]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_BasicLevel
+[2016.11.04-17.49.30:110][944]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001845s)
+[2016.11.04-17.49.30:110][944]LogAIModule: Creating AISystem for world BasicLevel
+[2016.11.04-17.49.30:111][944]LogPlayLevel: PIE: World Init took: (0.001129s)
+[2016.11.04-17.49.30:111][944]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/BasicLevel.BasicLevel to /Game/Levels/UEDPIE_0_BasicLevel.BasicLevel (0.003457s)
+[2016.11.04-17.49.30:150][944]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.04-17.49.30:157][944]LogInit: FAudioDevice initialized.
+[2016.11.04-17.49.30:190][944]LogWorld: Game class is 'BattleCardGameMode_C'
+[2016.11.04-17.49.30:193][944]LogWorld: Bringing World /Game/Levels/UEDPIE_0_BasicLevel.BasicLevel up for play (max tick rate 0) at 2016.11.04-13.49.30
+[2016.11.04-17.49.30:193][944]LogWorld: Bringing up level for play took: 0.002413
+[2016.11.04-17.49.30:195][944]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.04-17.49.30:195][944]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.04-17.49.30:195][944]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.04-17.49.30:195][944]LogBlueprintUserMessages: [BattleCardGameMode_C_0] Hello
+[2016.11.04-17.49.30:196][944]LogScript:Warning: Accessed None trying to read property TheDeck
+	BattleCardGameState_C /Game/Levels/UEDPIE_0_BasicLevel.BasicLevel:PersistentLevel.BattleCardGameState_C_0
+	Function /Game/Blueprints/BattleCardGameState.BattleCardGameState_C:ExecuteUbergraph_BattleCardGameState:0247
+[2016.11.04-17.49.30:196][944]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property TheDeck from function: 'ExecuteUbergraph_BattleCardGameState' from node: Initialize Deck in graph: EventGraph in object: BattleCardGameState with description: Accessed None trying to read property TheDeck
+[2016.11.04-17.49.30:196][944]LogBlueprintUserMessages: [BattleCardGameState_C_0] 1
+[2016.11.04-17.49.30:196][944]LogScript:Warning: Accessed None trying to read property TheDeck
+	BattleCardGameState_C /Game/Levels/UEDPIE_0_BasicLevel.BasicLevel:PersistentLevel.BattleCardGameState_C_0
+	Function /Game/Blueprints/BattleCardGameState.BattleCardGameState_C:ExecuteUbergraph_BattleCardGameState:0213
+[2016.11.04-17.49.30:197][944]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property TheDeck from function: 'ExecuteUbergraph_BattleCardGameState' from node: Get Next Card ID in graph: EventGraph in object: BattleCardGameState with description: Accessed None trying to read property TheDeck
+[2016.11.04-17.49.30:197][944]LogBlueprintUserMessages: [BattleCardGameState_C_0] 2
+[2016.11.04-17.49.30:198][944]LogBlueprintUserMessages: [BattleCardGameState_C_0] spawned
+[2016.11.04-17.49.30:198][944]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.04-17.49.30:198][944]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_BasicLevel 0.386
+[2016.11.04-17.49.30:198][944]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel' with GeneratedClass '/Game/Levels/BasicLevel.BasicLevel_C' with ClassGeneratedBy '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel'
+[2016.11.04-17.49.34:792][ 52]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel' with GeneratedClass '/Game/Levels/BasicLevel.BasicLevel_C' with ClassGeneratedBy '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel'
+[2016.11.04-17.49.34:900][ 52]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel' with GeneratedClass '/Game/Levels/BasicLevel.BasicLevel_C' with ClassGeneratedBy '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel'
+[2016.11.04-17.49.36:173][ 77]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel' with GeneratedClass '/Game/Levels/BasicLevel.BasicLevel_C' with ClassGeneratedBy '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel'
+[2016.11.04-17.49.36:173][ 77]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.04-17.49.36:173][ 77]PIE: New page: PIE session: BasicLevel (Nov 4, 2016, 8:49:36 AM)
+[2016.11.04-17.49.36:173][ 77]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_BasicLevel
+[2016.11.04-17.49.36:176][ 77]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002469s)
+[2016.11.04-17.49.36:177][ 77]LogAIModule: Creating AISystem for world BasicLevel
+[2016.11.04-17.49.36:178][ 77]LogPlayLevel: PIE: World Init took: (0.001378s)
+[2016.11.04-17.49.36:178][ 77]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/BasicLevel.BasicLevel to /Game/Levels/UEDPIE_0_BasicLevel.BasicLevel (0.004482s)
+[2016.11.04-17.49.36:224][ 77]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.04-17.49.36:231][ 77]LogInit: FAudioDevice initialized.
+[2016.11.04-17.49.36:263][ 77]LogWorld: Game class is 'BattleCardGameMode_C'
+[2016.11.04-17.49.36:266][ 77]LogWorld: Bringing World /Game/Levels/UEDPIE_0_BasicLevel.BasicLevel up for play (max tick rate 0) at 2016.11.04-13.49.36
+[2016.11.04-17.49.36:266][ 77]LogWorld: Bringing up level for play took: 0.002310
+[2016.11.04-17.49.36:267][ 77]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.04-17.49.36:268][ 77]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.04-17.49.36:268][ 77]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.04-17.49.36:268][ 77]LogBlueprintUserMessages: [BattleCardGameMode_C_0] Hello
+[2016.11.04-17.49.36:269][ 77]LogScript:Warning: Accessed None trying to read property TheDeck
+	BattleCardGameState_C /Game/Levels/UEDPIE_0_BasicLevel.BasicLevel:PersistentLevel.BattleCardGameState_C_0
+	Function /Game/Blueprints/BattleCardGameState.BattleCardGameState_C:ExecuteUbergraph_BattleCardGameState:0247
+[2016.11.04-17.49.36:269][ 77]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property TheDeck from function: 'ExecuteUbergraph_BattleCardGameState' from node: Initialize Deck in graph: EventGraph in object: BattleCardGameState with description: Accessed None trying to read property TheDeck
+[2016.11.04-17.49.36:269][ 77]LogBlueprintUserMessages: [BattleCardGameState_C_0] 1
+[2016.11.04-17.49.36:269][ 77]LogScript:Warning: Accessed None trying to read property TheDeck
+	BattleCardGameState_C /Game/Levels/UEDPIE_0_BasicLevel.BasicLevel:PersistentLevel.BattleCardGameState_C_0
+	Function /Game/Blueprints/BattleCardGameState.BattleCardGameState_C:ExecuteUbergraph_BattleCardGameState:0213
+[2016.11.04-17.49.36:269][ 77]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property TheDeck from function: 'ExecuteUbergraph_BattleCardGameState' from node: Get Next Card ID in graph: EventGraph in object: BattleCardGameState with description: Accessed None trying to read property TheDeck
+[2016.11.04-17.49.36:270][ 77]LogBlueprintUserMessages: [BattleCardGameState_C_0] 2
+[2016.11.04-17.49.36:270][ 77]LogBlueprintUserMessages: [BattleCardGameState_C_0] spawned
+[2016.11.04-17.49.36:271][ 77]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.04-17.49.36:271][ 77]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_BasicLevel 0.459
+[2016.11.04-17.49.36:271][ 77]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel' with GeneratedClass '/Game/Levels/BasicLevel.BasicLevel_C' with ClassGeneratedBy '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel'
+[2016.11.04-17.49.42:459][190]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel' with GeneratedClass '/Game/Levels/BasicLevel.BasicLevel_C' with ClassGeneratedBy '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel'
+[2016.11.04-17.49.42:578][190]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel' with GeneratedClass '/Game/Levels/BasicLevel.BasicLevel_C' with ClassGeneratedBy '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel'
+[2016.11.04-17.49.52:001][321]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2016.11.04-17.49.53:505][342]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2016.11.04-17.50.01:031][428]LogHttp:Warning: 000000582AAD5780: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2016.11.04-17.50.01:032][428]LogHttp:Warning: 000000582AAD5780: libcurl info message cache 8 (Could not resolve host: datarouter.ol.epicgames.com)
+[2016.11.04-17.50.01:032][428]LogHttp:Warning: 000000582AAD5780: libcurl info message cache 9 (Closing connection 12)
+[2016.11.04-17.51.27:423][ 57]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel' with GeneratedClass '/Game/Levels/BasicLevel.BasicLevel_C' with ClassGeneratedBy '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel'
+[2016.11.04-17.51.27:424][ 57]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.04-17.51.27:424][ 57]PIE: New page: PIE session: BasicLevel (Nov 4, 2016, 8:51:27 AM)
+[2016.11.04-17.51.27:424][ 57]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_BasicLevel
+[2016.11.04-17.51.27:426][ 57]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001901s)
+[2016.11.04-17.51.27:427][ 57]LogAIModule: Creating AISystem for world BasicLevel
+[2016.11.04-17.51.27:427][ 57]LogPlayLevel: PIE: World Init took: (0.001109s)
+[2016.11.04-17.51.27:428][ 57]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/BasicLevel.BasicLevel to /Game/Levels/UEDPIE_0_BasicLevel.BasicLevel (0.003512s)
+[2016.11.04-17.51.27:476][ 57]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.04-17.51.27:484][ 57]LogInit: FAudioDevice initialized.
+[2016.11.04-17.51.27:514][ 57]LogWorld: Game class is 'BattleCardGameMode_C'
+[2016.11.04-17.51.27:517][ 57]LogWorld: Bringing World /Game/Levels/UEDPIE_0_BasicLevel.BasicLevel up for play (max tick rate 0) at 2016.11.04-13.51.27
+[2016.11.04-17.51.27:517][ 57]LogWorld: Bringing up level for play took: 0.002409
+[2016.11.04-17.51.27:519][ 57]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.04-17.51.27:519][ 57]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.04-17.51.27:519][ 57]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.04-17.51.27:520][ 57]LogBlueprintUserMessages: [BattleCardGameMode_C_0] Hello
+[2016.11.04-17.51.27:520][ 57]LogScript:Warning: Accessed None trying to read property TheDeck
+	BattleCardGameState_C /Game/Levels/UEDPIE_0_BasicLevel.BasicLevel:PersistentLevel.BattleCardGameState_C_0
+	Function /Game/Blueprints/BattleCardGameState.BattleCardGameState_C:ExecuteUbergraph_BattleCardGameState:0247
+[2016.11.04-17.51.27:520][ 57]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property TheDeck from function: 'ExecuteUbergraph_BattleCardGameState' from node: Initialize Deck in graph: EventGraph in object: BattleCardGameState with description: Accessed None trying to read property TheDeck
+[2016.11.04-17.51.27:520][ 57]LogBlueprintUserMessages: [BattleCardGameState_C_0] 1
+[2016.11.04-17.51.27:520][ 57]LogScript:Warning: Accessed None trying to read property TheDeck
+	BattleCardGameState_C /Game/Levels/UEDPIE_0_BasicLevel.BasicLevel:PersistentLevel.BattleCardGameState_C_0
+	Function /Game/Blueprints/BattleCardGameState.BattleCardGameState_C:ExecuteUbergraph_BattleCardGameState:0213
+[2016.11.04-17.51.27:521][ 57]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property TheDeck from function: 'ExecuteUbergraph_BattleCardGameState' from node: Get Next Card ID in graph: EventGraph in object: BattleCardGameState with description: Accessed None trying to read property TheDeck
+[2016.11.04-17.51.27:521][ 57]LogBlueprintUserMessages: [BattleCardGameState_C_0] 2
+[2016.11.04-17.51.27:522][ 57]LogBlueprintUserMessages: [BattleCardGameState_C_0] spawned
+[2016.11.04-17.51.27:522][ 57]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.04-17.51.27:522][ 57]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_BasicLevel -0.29
+[2016.11.04-17.51.27:522][ 57]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel' with GeneratedClass '/Game/Levels/BasicLevel.BasicLevel_C' with ClassGeneratedBy '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel'
+[2016.11.04-17.51.32:870][159]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel' with GeneratedClass '/Game/Levels/BasicLevel.BasicLevel_C' with ClassGeneratedBy '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel'
+[2016.11.04-17.51.33:020][159]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel' with GeneratedClass '/Game/Levels/BasicLevel.BasicLevel_C' with ClassGeneratedBy '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel'
+[2016.11.04-17.52.28:043][855]LogEditorViewport: Clicking on Actor (LMB): Deck_C (Deck)
+[2016.11.04-17.53.15:547][815]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2016.11.04-17.54.16:207][543]LogSavePackage: Save=23.95ms
+[2016.11.04-17.54.16:208][543]LogSavePackage: Moving '../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Saved/BattleCardGameState87E578064646632C99FCC597186DF8F6.tmp' to '../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Blueprints/BattleCardGameState.uasset'
+[2016.11.04-17.54.16:211][543]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Blueprints/BattleCardGameState.uasset
+[2016.11.04-17.54.34:914][516]BlueprintLog: New page: Compile BattleCardGameState
+[2016.11.04-17.54.45:629][195]LogSavePackage: Save=18.45ms
+[2016.11.04-17.54.45:630][195]LogSavePackage: Moving '../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Saved/BattleCardGameState51FD47114ABA49DC7C2DDBA69B3B1A01.tmp' to '../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Blueprints/BattleCardGameState.uasset'
+[2016.11.04-17.54.45:636][195]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Blueprints/BattleCardGameState.uasset
+[2016.11.04-17.54.46:493][253]BlueprintLog: New page: Compile BattleCardGameState
+[2016.11.04-17.54.48:283][303]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel' with GeneratedClass '/Game/Levels/BasicLevel.BasicLevel_C' with ClassGeneratedBy '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel'
+[2016.11.04-17.54.48:284][303]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.04-17.54.48:284][303]PIE: New page: PIE session: BasicLevel (Nov 4, 2016, 8:54:48 AM)
+[2016.11.04-17.54.48:284][303]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_BasicLevel
+[2016.11.04-17.54.48:287][303]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002248s)
+[2016.11.04-17.54.48:288][303]LogAIModule: Creating AISystem for world BasicLevel
+[2016.11.04-17.54.48:288][303]LogPlayLevel: PIE: World Init took: (0.001516s)
+[2016.11.04-17.54.48:289][303]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/BasicLevel.BasicLevel to /Game/Levels/UEDPIE_0_BasicLevel.BasicLevel (0.004451s)
+[2016.11.04-17.54.48:333][303]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.04-17.54.48:341][303]LogInit: FAudioDevice initialized.
+[2016.11.04-17.54.48:374][303]LogWorld: Game class is 'BattleCardGameMode_C'
+[2016.11.04-17.54.48:376][303]LogWorld: Bringing World /Game/Levels/UEDPIE_0_BasicLevel.BasicLevel up for play (max tick rate 0) at 2016.11.04-13.54.48
+[2016.11.04-17.54.48:377][303]LogWorld: Bringing up level for play took: 0.002245
+[2016.11.04-17.54.48:378][303]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.04-17.54.48:378][303]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.04-17.54.48:378][303]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.04-17.54.48:379][303]LogBlueprintUserMessages: [BattleCardGameMode_C_0] Hello
+[2016.11.04-17.54.48:380][303]LogBlueprintUserMessages: [BattleCardGameState_C_0] 1
+[2016.11.04-17.54.48:380][303]LogBlueprintUserMessages: [BattleCardGameState_C_0] 2
+[2016.11.04-17.54.48:380][303]LogBlueprintUserMessages: [BattleCardGameState_C_0] spawned
+[2016.11.04-17.54.48:381][303]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.04-17.54.48:381][303]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_BasicLevel 0.569
+[2016.11.04-17.54.48:381][303]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel' with GeneratedClass '/Game/Levels/BasicLevel.BasicLevel_C' with ClassGeneratedBy '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel'
+[2016.11.04-17.54.54:707][412]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel' with GeneratedClass '/Game/Levels/BasicLevel.BasicLevel_C' with ClassGeneratedBy '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel'
+[2016.11.04-17.54.54:875][412]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel' with GeneratedClass '/Game/Levels/BasicLevel.BasicLevel_C' with ClassGeneratedBy '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel'
+[2016.11.04-17.54.56:417][436]Cmd: DELETE
+[2016.11.04-17.54.56:417][436]Cmd: ACTOR DELETE
+[2016.11.04-17.54.56:419][436]LogEditorActor: Deleted Actor: Deck_C
+[2016.11.04-17.54.56:481][436]LogEditorActor: Deleted 1 Actors (0.063 secs)
+[2016.11.04-17.54.58:635][475]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel' with GeneratedClass '/Game/Levels/BasicLevel.BasicLevel_C' with ClassGeneratedBy '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel'
+[2016.11.04-17.54.58:636][475]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.04-17.54.58:636][475]PIE: New page: PIE session: BasicLevel (Nov 4, 2016, 8:54:58 AM)
+[2016.11.04-17.54.58:636][475]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_BasicLevel
+[2016.11.04-17.54.58:638][475]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002031s)
+[2016.11.04-17.54.58:639][475]LogAIModule: Creating AISystem for world BasicLevel
+[2016.11.04-17.54.58:639][475]LogPlayLevel: PIE: World Init took: (0.001137s)
+[2016.11.04-17.54.58:640][475]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/BasicLevel.BasicLevel to /Game/Levels/UEDPIE_0_BasicLevel.BasicLevel (0.003737s)
+[2016.11.04-17.54.58:687][475]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.04-17.54.58:693][475]LogInit: FAudioDevice initialized.
+[2016.11.04-17.54.58:731][475]LogWorld: Game class is 'BattleCardGameMode_C'
+[2016.11.04-17.54.58:733][475]LogWorld: Bringing World /Game/Levels/UEDPIE_0_BasicLevel.BasicLevel up for play (max tick rate 0) at 2016.11.04-13.54.58
+[2016.11.04-17.54.58:734][475]LogWorld: Bringing up level for play took: 0.002392
+[2016.11.04-17.54.58:735][475]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.04-17.54.58:735][475]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.04-17.54.58:735][475]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.04-17.54.58:736][475]LogBlueprintUserMessages: [BattleCardGameMode_C_0] Hello
+[2016.11.04-17.54.58:736][475]LogBlueprintUserMessages: [BattleCardGameState_C_0] 1
+[2016.11.04-17.54.58:737][475]LogBlueprintUserMessages: [BattleCardGameState_C_0] 2
+[2016.11.04-17.54.58:737][475]LogBlueprintUserMessages: [BattleCardGameState_C_0] spawned
+[2016.11.04-17.54.58:738][475]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.04-17.54.58:738][475]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_BasicLevel 0.926
+[2016.11.04-17.54.58:738][475]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel' with GeneratedClass '/Game/Levels/BasicLevel.BasicLevel_C' with ClassGeneratedBy '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel'
+[2016.11.04-17.55.03:235][558]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel' with GeneratedClass '/Game/Levels/BasicLevel.BasicLevel_C' with ClassGeneratedBy '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel'
+[2016.11.04-17.55.03:330][558]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel' with GeneratedClass '/Game/Levels/BasicLevel.BasicLevel_C' with ClassGeneratedBy '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel'
+[2016.11.04-17.55.07:669][634]LogSavePackage: Save=118.55ms
+[2016.11.04-17.55.07:669][634]LogSavePackage: Moving '../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Saved/BasicLevel3C4055D04630C36018CD99B47BE605B5.tmp' to '../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Levels/BasicLevel.umap'
+[2016.11.04-17.55.07:673][634]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Levels/BasicLevel.umap
+[2016.11.04-17.55.07:697][634]LogFileHelpers: Saving map 'BasicLevel' took 0.274
+[2016.11.04-17.56.10:073][569]BlueprintLog: New page: Compile Deck
+[2016.11.04-17.56.10:220][569]BlueprintEditorCompileResults: Info The execution path doesn't end with a return node.  else
+[2016.11.04-17.56.11:909][626]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel' with GeneratedClass '/Game/Levels/BasicLevel.BasicLevel_C' with ClassGeneratedBy '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel'
+[2016.11.04-17.56.11:909][626]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.04-17.56.11:910][626]PIE: New page: PIE session: BasicLevel (Nov 4, 2016, 8:56:11 AM)
+[2016.11.04-17.56.11:910][626]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_BasicLevel
+[2016.11.04-17.56.11:912][626]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001917s)
+[2016.11.04-17.56.11:912][626]LogAIModule: Creating AISystem for world BasicLevel
+[2016.11.04-17.56.11:913][626]LogPlayLevel: PIE: World Init took: (0.001006s)
+[2016.11.04-17.56.11:913][626]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/BasicLevel.BasicLevel to /Game/Levels/UEDPIE_0_BasicLevel.BasicLevel (0.003182s)
+[2016.11.04-17.56.11:954][626]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.04-17.56.11:961][626]LogInit: FAudioDevice initialized.
+[2016.11.04-17.56.11:998][626]LogWorld: Game class is 'BattleCardGameMode_C'
+[2016.11.04-17.56.12:000][626]LogWorld: Bringing World /Game/Levels/UEDPIE_0_BasicLevel.BasicLevel up for play (max tick rate 60) at 2016.11.04-13.56.12
+[2016.11.04-17.56.12:000][626]LogWorld: Bringing up level for play took: 0.002142
+[2016.11.04-17.56.12:001][626]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.04-17.56.12:001][626]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.04-17.56.12:001][626]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.04-17.56.12:002][626]LogBlueprintUserMessages: [BattleCardGameMode_C_0] Hello
+[2016.11.04-17.56.12:002][626]LogBlueprintUserMessages: [Deck_C_0] deck
+[2016.11.04-17.56.12:002][626]LogBlueprintUserMessages: [BattleCardGameState_C_0] 1
+[2016.11.04-17.56.12:002][626]LogBlueprintUserMessages: [BattleCardGameState_C_0] 2
+[2016.11.04-17.56.12:003][626]LogBlueprintUserMessages: [BattleCardGameState_C_0] spawned
+[2016.11.04-17.56.12:003][626]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.04-17.56.12:003][626]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_BasicLevel 0.191
+[2016.11.04-17.56.12:003][626]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel' with GeneratedClass '/Game/Levels/BasicLevel.BasicLevel_C' with ClassGeneratedBy '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel'
+[2016.11.04-17.56.22:974][823]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel' with GeneratedClass '/Game/Levels/BasicLevel.BasicLevel_C' with ClassGeneratedBy '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel'
+[2016.11.04-17.56.23:069][823]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel' with GeneratedClass '/Game/Levels/BasicLevel.BasicLevel_C' with ClassGeneratedBy '/Game/Levels/BasicLevel.BasicLevel:PersistentLevel.BasicLevel'
+[2016.11.04-17.56.48:446][131]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Deck" FILE="../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Blueprints/Deck.uasset" SILENT=true
+[2016.11.04-17.56.48:488][131]LogSavePackage: Save=26.85ms
+[2016.11.04-17.56.48:488][131]LogSavePackage: Moving '../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Saved/Deck2013B96943B7811F1D2F749B68529451.tmp' to '../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Blueprints/Deck.uasset'
+[2016.11.04-17.56.48:491][131]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Blueprints/Deck.uasset
+[2016.11.04-17.56.54:241][292]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2016.11.04-17.56.54:294][292]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2016.11.04-17.56.54:349][292]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2016.11.04-17.56.54:407][292]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.04-17.56.54:615][293]Cmd: QUIT_EDITOR
+[2016.11.04-17.56.54:766][293]LogExit: Preparing to exit.
+[2016.11.04-17.56.55:380][293]LogDirectoryWatcher: A directory notification for 'C:/Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/' was aborted.
+[2016.11.04-17.56.55:417][293]LogExit: Editor shut down
+[2016.11.04-17.56.55:418][293]LogExit: Transaction tracking system shut down
+[2016.11.04-17.56.55:589][293]LogObj: Freed 0b from 0 cluster array pools.
+[2016.11.04-17.56.55:589][293]LogExit: Object subsystem successfully closed.
+[2016.11.04-17.56.55:598][293]LogD3D11RHI: Shutdown
+[2016.11.04-17.56.55:598][293]LogD3D11RHI: CleanupD3DDevice
+[2016.11.04-17.56.55:667][293]LogD3D11RHI: ~FD3D11DynamicRHI
+[2016.11.04-17.56.55:686][293]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (236)
+[2016.11.04-17.56.55:686][293]LogModuleManager: Shutting down and abandoning module BlueprintGraph (235)
+[2016.11.04-17.56.55:686][293]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (234)
+[2016.11.04-17.56.55:686][293]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (233)
+[2016.11.04-17.56.55:686][293]LogModuleManager: Shutting down and abandoning module CrashTracker (232)
+[2016.11.04-17.56.55:686][293]LogModuleManager: Shutting down and abandoning module SceneOutliner (231)
+[2016.11.04-17.56.55:686][293]LogModuleManager: Shutting down and abandoning module WidgetCarousel (230)
+[2016.11.04-17.56.55:686][293]LogModuleManager: Shutting down and abandoning module AddContentDialog (229)
+[2016.11.04-17.56.55:686][293]LogDirectoryWatcher: A directory notification for 'C:/Program Files (x86)/Epic Games/4.13/FeaturePacks/' was aborted.
+[2016.11.04-17.56.55:687][293]LogModuleManager: Shutting down and abandoning module GameplayTags (228)
+[2016.11.04-17.56.55:687][293]LogModuleManager: Shutting down and abandoning module EditorWidgets (227)
+[2016.11.04-17.56.55:687][293]LogModuleManager: Shutting down and abandoning module CollectionManager (226)
+[2016.11.04-17.56.55:687][293]LogDirectoryWatcher: A directory notification for 'C:/Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Collections/' was aborted.
+[2016.11.04-17.56.55:687][293]LogDirectoryWatcher: A directory notification for 'C:/Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Developers/Brian/Collections/' was aborted.
+[2016.11.04-17.56.55:687][293]LogDirectoryWatcher: A directory notification for 'C:/Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Saved/Collections/' was aborted.
+[2016.11.04-17.56.55:688][293]LogModuleManager: Shutting down and abandoning module StatsViewer (225)
+[2016.11.04-17.56.55:688][293]LogModuleManager: Shutting down and abandoning module FoliageEdit (224)
+[2016.11.04-17.56.55:688][293]LogModuleManager: Shutting down and abandoning module LandscapeEditor (223)
+[2016.11.04-17.56.55:688][293]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (222)
+[2016.11.04-17.56.55:688][293]LogModuleManager: Shutting down and abandoning module ActorPickerMode (221)
+[2016.11.04-17.56.55:688][293]LogModuleManager: Shutting down and abandoning module GeometryMode (220)
+[2016.11.04-17.56.55:688][293]LogModuleManager: Shutting down and abandoning module TextureAlignMode (219)
+[2016.11.04-17.56.55:688][293]LogModuleManager: Shutting down and abandoning module BspMode (218)
+[2016.11.04-17.56.55:688][293]LogModuleManager: Shutting down and abandoning module HardwareSurvey (217)
+[2016.11.04-17.56.55:688][293]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (216)
+[2016.11.04-17.56.55:688][293]LogModuleManager: Shutting down and abandoning module SequenceRecorder (215)
+[2016.11.04-17.56.55:688][293]LogModuleManager: Shutting down and abandoning module AutomationWorker (214)
+[2016.11.04-17.56.55:688][293]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (213)
+[2016.11.04-17.56.55:688][293]LogModuleManager: Shutting down and abandoning module PlacementMode (212)
+[2016.11.04-17.56.55:688][293]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (211)
+[2016.11.04-17.56.55:688][293]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (210)
+[2016.11.04-17.56.55:688][293]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (209)
+[2016.11.04-17.56.55:688][293]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (208)
+[2016.11.04-17.56.55:688][293]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (207)
+[2016.11.04-17.56.55:688][293]LogModuleManager: Shutting down and abandoning module Media (206)
+[2016.11.04-17.56.55:688][293]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (205)
+[2016.11.04-17.56.55:688][293]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (204)
+[2016.11.04-17.56.55:688][293]LogModuleManager: Shutting down and abandoning module CharacterAI (203)
+[2016.11.04-17.56.55:688][293]LogModuleManager: Shutting down and abandoning module SmartSnapping (202)
+[2016.11.04-17.56.55:688][293]LogModuleManager: Shutting down and abandoning module SessionServices (201)
+[2016.11.04-17.56.55:688][293]LogModuleManager: Shutting down and abandoning module ViewportSnapping (200)
+[2016.11.04-17.56.55:688][293]LogModuleManager: Shutting down and abandoning module ViewportInteraction (199)
+[2016.11.04-17.56.55:688][293]LogModuleManager: Shutting down and abandoning module LogVisualizer (198)
+[2016.11.04-17.56.55:689][293]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (197)
+[2016.11.04-17.56.55:689][293]LogModuleManager: Shutting down and abandoning module IntroTutorials (196)
+[2016.11.04-17.56.55:689][293]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (195)
+[2016.11.04-17.56.55:689][293]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (194)
+[2016.11.04-17.56.55:689][293]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (193)
+[2016.11.04-17.56.55:689][293]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (192)
+[2016.11.04-17.56.56:542][293]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (191)
+[2016.11.04-17.56.56:542][293]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (190)
+[2016.11.04-17.56.56:542][293]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (189)
+[2016.11.04-17.56.56:542][293]LogModuleManager: Shutting down and abandoning module NiagaraEditor (188)
+[2016.11.04-17.56.56:542][293]LogModuleManager: Shutting down and abandoning module MergeActors (187)
+[2016.11.04-17.56.56:542][293]LogModuleManager: Shutting down and abandoning module SizeMap (186)
+[2016.11.04-17.56.56:542][293]LogModuleManager: Shutting down and abandoning module TreeMap (185)
+[2016.11.04-17.56.56:542][293]LogModuleManager: Shutting down and abandoning module ReferenceViewer (184)
+[2016.11.04-17.56.56:543][293]LogModuleManager: Shutting down and abandoning module LocalizationService (183)
+[2016.11.04-17.56.56:543][293]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (182)
+[2016.11.04-17.56.56:543][293]LogModuleManager: Shutting down and abandoning module HardwareTargeting (181)
+[2016.11.04-17.56.56:543][293]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (180)
+[2016.11.04-17.56.56:543][293]LogModuleManager: Shutting down and abandoning module UndoHistory (179)
+[2016.11.04-17.56.56:543][293]LogModuleManager: Shutting down and abandoning module UserFeedback (178)
+[2016.11.04-17.56.56:543][293]LogModuleManager: Shutting down and abandoning module XmlParser (177)
+[2016.11.04-17.56.56:543][293]LogModuleManager: Shutting down and abandoning module Blutility (176)
+[2016.11.04-17.56.56:543][293]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (175)
+[2016.11.04-17.56.56:543][293]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (174)
+[2016.11.04-17.56.56:544][293]LogModuleManager: Shutting down and abandoning module InputBindingEditor (173)
+[2016.11.04-17.56.56:544][293]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (172)
+[2016.11.04-17.56.56:544][293]LogModuleManager: Shutting down and abandoning module SettingsEditor (171)
+[2016.11.04-17.56.56:544][293]LogModuleManager: Shutting down and abandoning module ProjectLauncher (170)
+[2016.11.04-17.56.56:544][293]LogModuleManager: Shutting down and abandoning module SessionFrontend (169)
+[2016.11.04-17.56.56:544][293]LogModuleManager: Shutting down and abandoning module ProfilerClient (168)
+[2016.11.04-17.56.56:544][293]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (167)
+[2016.11.04-17.56.56:545][293]LogModuleManager: Shutting down and abandoning module DeviceManager (166)
+[2016.11.04-17.56.56:589][293]LogModuleManager: Shutting down and abandoning module AutomationController (165)
+[2016.11.04-17.56.56:589][293]LogModuleManager: Shutting down and abandoning module AutomationWindow (164)
+[2016.11.04-17.56.56:589][293]LogModuleManager: Shutting down and abandoning module Layers (163)
+[2016.11.04-17.56.56:589][293]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (162)
+[2016.11.04-17.56.56:589][293]LogModuleManager: Shutting down and abandoning module DetailCustomizations (161)
+[2016.11.04-17.56.56:589][293]LogModuleManager: Shutting down and abandoning module PackagesDialog (160)
+[2016.11.04-17.56.56:590][293]LogModuleManager: Shutting down and abandoning module AnimGraph (159)
+[2016.11.04-17.56.56:590][293]LogModuleManager: Shutting down and abandoning module Persona (158)
+[2016.11.04-17.56.56:590][293]LogModuleManager: Shutting down and abandoning module Kismet (157)
+[2016.11.04-17.56.56:607][293]LogModuleManager: Shutting down and abandoning module GraphEditor (156)
+[2016.11.04-17.56.56:607][293]LogModuleManager: Shutting down and abandoning module ClassViewer (155)
+[2016.11.04-17.56.56:611][293]LogModuleManager: Shutting down and abandoning module Toolbox (154)
+[2016.11.04-17.56.56:611][293]LogModuleManager: Shutting down and abandoning module ModuleUI (153)
+[2016.11.04-17.56.56:611][293]LogModuleManager: Shutting down and abandoning module MovieSceneTools (152)
+[2016.11.04-17.56.56:611][293]LogModuleManager: Shutting down and abandoning module OutputLog (151)
+[2016.11.04-17.56.56:612][293]LogModuleManager: Shutting down and abandoning module GammaUI (150)
+[2016.11.04-17.56.56:612][293]LogModuleManager: Shutting down and abandoning module Documentation (149)
+[2016.11.04-17.56.56:612][293]LogModuleManager: Shutting down and abandoning module Niagara (148)
+[2016.11.04-17.56.56:612][293]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (147)
+[2016.11.04-17.56.56:612][293]LogModuleManager: Shutting down and abandoning module AnalyticsET (146)
+[2016.11.04-17.56.56:612][293]LogModuleManager: Shutting down and abandoning module PortalServices (145)
+[2016.11.04-17.56.56:612][293]LogModuleManager: Shutting down and abandoning module PortalRpc (144)
+[2016.11.04-17.56.56:612][293]LogModuleManager: Shutting down and abandoning module MessagingRpc (143)
+[2016.11.04-17.56.56:612][293]LogModuleManager: Shutting down and abandoning module GameplayDebugger (142)
+[2016.11.04-17.56.56:612][293]LogModuleManager: Shutting down and abandoning module AITestSuite (141)
+[2016.11.04-17.56.56:612][293]LogModuleManager: Shutting down and abandoning module AIModule (140)
+[2016.11.04-17.56.56:612][293]LogModuleManager: Shutting down and abandoning module ProfilerService (139)
+[2016.11.04-17.56.56:816][293]LogModuleManager: Shutting down and abandoning module TaskGraph (138)
+[2016.11.04-17.56.56:816][293]LogModuleManager: Shutting down and abandoning module SlateRemote (137)
+[2016.11.04-17.56.56:816][293]LogModuleManager: Shutting down and abandoning module SteamVRController (136)
+[2016.11.04-17.56.56:816][293]LogModuleManager: Shutting down and abandoning module SteamVR (135)
+[2016.11.04-17.56.56:816][293]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (134)
+[2016.11.04-17.56.56:817][293]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (133)
+[2016.11.04-17.56.56:817][293]LogModuleManager: Shutting down and abandoning module OculusLibrary (132)
+[2016.11.04-17.56.56:817][293]LogModuleManager: Shutting down and abandoning module OculusInput (131)
+[2016.11.04-17.56.56:817][293]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (130)
+[2016.11.04-17.56.56:817][293]LogModuleManager: Shutting down and abandoning module CableComponent (129)
+[2016.11.04-17.56.56:817][293]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (128)
+[2016.11.04-17.56.56:817][293]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (126)
+[2016.11.04-17.56.56:817][293]LogModuleManager: Shutting down and abandoning module HTML5Networking (125)
+[2016.11.04-17.56.56:817][293]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (124)
+[2016.11.04-17.56.56:817][293]LogModuleManager: Shutting down and abandoning module GeometryCache (123)
+[2016.11.04-17.56.56:817][293]LogModuleManager: Shutting down and abandoning module AlembicLibrary (122)
+[2016.11.04-17.56.56:818][293]LogModuleManager: Shutting down and abandoning module AlembicImporter (121)
+[2016.11.04-17.56.56:818][293]LogModuleManager: Shutting down and abandoning module SuperSearch (120)
+[2016.11.04-17.56.56:818][293]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (119)
+[2016.11.04-17.56.56:818][293]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (118)
+[2016.11.04-17.56.56:818][293]LogModuleManager: Shutting down and abandoning module PluginBrowser (117)
+[2016.11.04-17.56.56:818][293]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (116)
+[2016.11.04-17.56.56:818][293]LogModuleManager: Shutting down and abandoning module EpicSurvey (115)
+[2016.11.04-17.56.56:818][293]LogModuleManager: Shutting down and abandoning module DesktopPlatform (114)
+[2016.11.04-17.56.56:818][293]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (113)
+[2016.11.04-17.56.56:818][293]LogModuleManager: Shutting down and abandoning module UObjectPlugin (112)
+[2016.11.04-17.56.56:818][293]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (111)
+[2016.11.04-17.56.56:818][293]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (110)
+[2016.11.04-17.56.56:819][293]LogModuleManager: Shutting down and abandoning module SourceControl (109)
+[2016.11.04-17.56.56:819][293]LogModuleManager: Shutting down and abandoning module GitSourceControl (108)
+[2016.11.04-17.56.56:819][293]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (107)
+[2016.11.04-17.56.56:819][293]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (106)
+[2016.11.04-17.56.56:819][293]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (105)
+[2016.11.04-17.56.56:819][293]LogModuleManager: Shutting down and abandoning module MeshPaint (104)
+[2016.11.04-17.56.56:819][293]LogModuleManager: Shutting down and abandoning module FbxAutomationBuilderModule (103)
+[2016.11.04-17.56.56:819][293]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (102)
+[2016.11.04-17.56.56:819][293]LogModuleManager: Shutting down and abandoning module HotReload (101)
+[2016.11.04-17.56.56:821][293]LogModuleManager: Shutting down and abandoning module MainFrame (100)
+[2016.11.04-17.56.56:821][293]LogModuleManager: Shutting down and abandoning module LevelEditor (99)
+[2016.11.04-17.56.56:823][293]LogModuleManager: Shutting down and abandoning module ContentBrowser (98)
+[2016.11.04-17.56.56:826][293]LogModuleManager: Shutting down and abandoning module Paper2DEditor (97)
+[2016.11.04-17.56.56:826][293]LogModuleManager: Shutting down and abandoning module UdpMessaging (96)
+[2016.11.04-17.56.56:928][293]LogModuleManager: Shutting down and abandoning module TcpMessaging (95)
+[2016.11.04-17.56.57:029][293]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (94)
+[2016.11.04-17.56.57:029][293]LogModuleManager: Shutting down and abandoning module Paper2D (93)
+[2016.11.04-17.56.57:029][293]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (92)
+[2016.11.04-17.56.57:029][293]LogModuleManager: Shutting down and abandoning module WmfMedia (91)
+[2016.11.04-17.56.57:029][293]LogModuleManager: Shutting down and abandoning module MediaAssets (90)
+[2016.11.04-17.56.57:029][293]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (89)
+[2016.11.04-17.56.57:029][293]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (88)
+[2016.11.04-17.56.57:029][293]LogModuleManager: Shutting down and abandoning module VREditor (87)
+[2016.11.04-17.56.57:029][293]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (86)
+[2016.11.04-17.56.57:029][293]LogModuleManager: Shutting down and abandoning module PropertyEditor (85)
+[2016.11.04-17.56.57:029][293]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (84)
+[2016.11.04-17.56.57:029][293]LogModuleManager: Shutting down and abandoning module FunctionalTesting (83)
+[2016.11.04-17.56.57:030][293]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (82)
+[2016.11.04-17.56.57:030][293]LogModuleManager: Shutting down and abandoning module Sequencer (81)
+[2016.11.04-17.56.57:030][293]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (80)
+[2016.11.04-17.56.57:030][293]LogModuleManager: Shutting down and abandoning module MessageLog (79)
+[2016.11.04-17.56.57:030][293]LogModuleManager: Shutting down and abandoning module AssetTools (78)
+[2016.11.04-17.56.57:030][293]LogModuleManager: Shutting down and abandoning module UMGEditor (77)
+[2016.11.04-17.56.57:030][293]LogModuleManager: Shutting down and abandoning module UMG (76)
+[2016.11.04-17.56.57:030][293]LogModuleManager: Shutting down and abandoning module SlateReflector (75)
+[2016.11.04-17.56.57:030][293]LogModuleManager: Shutting down and abandoning module Slate (74)
+[2016.11.04-17.56.57:030][293]LogModuleManager: Shutting down and abandoning module EditorStyle (73)
+[2016.11.04-17.56.57:035][293]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (72)
+[2016.11.04-17.56.57:036][293]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (71)
+[2016.11.04-17.56.57:036][293]LogModuleManager: Shutting down and abandoning module XAudio2 (70)
+[2016.11.04-17.56.57:036][293]LogModuleManager: Shutting down and abandoning module Networking (68)
+[2016.11.04-17.56.57:036][293]LogModuleManager: Shutting down and abandoning module Core (67)
+[2016.11.04-17.56.57:036][293]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (66)
+[2016.11.04-17.56.57:036][293]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2016.11.04-17.56.57:036][293]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/' was aborted.
+[2016.11.04-17.56.57:036][293]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2016.11.04-17.56.57:037][293]LogModuleManager: Shutting down and abandoning module AssetRegistry (65)
+[2016.11.04-17.56.57:246][293]LogModuleManager: Shutting down and abandoning module KismetCompiler (64)
+[2016.11.04-17.56.57:246][293]LogModuleManager: Shutting down and abandoning module PhysXFormats (63)
+[2016.11.04-17.56.57:246][293]LogModuleManager: Shutting down and abandoning module MeshUtilities (62)
+[2016.11.04-17.56.57:246][293]LogModuleManager: Shutting down and abandoning module DerivedDataCache (61)
+[2016.11.04-17.56.57:301][293]LogDerivedDataCache: Shutdown
+[2016.11.04-17.56.57:301][293]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (60)
+[2016.11.04-17.56.57:301][293]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (59)
+[2016.11.04-17.56.57:301][293]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (58)
+[2016.11.04-17.56.57:302][293]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (57)
+[2016.11.04-17.56.57:302][293]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (56)
+[2016.11.04-17.56.57:302][293]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (55)
+[2016.11.04-17.56.57:302][293]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (54)
+[2016.11.04-17.56.57:302][293]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (53)
+[2016.11.04-17.56.57:302][293]LogModuleManager: Shutting down and abandoning module ImageWrapper (52)
+[2016.11.04-17.56.57:302][293]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (51)
+[2016.11.04-17.56.57:302][293]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (50)
+[2016.11.04-17.56.57:302][293]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (49)
+[2016.11.04-17.56.57:302][293]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (48)
+[2016.11.04-17.56.57:302][293]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (47)
+[2016.11.04-17.56.57:302][293]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (46)
+[2016.11.04-17.56.57:302][293]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (45)
+[2016.11.04-17.56.57:302][293]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (44)
+[2016.11.04-17.56.57:302][293]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (43)
+[2016.11.04-17.56.57:302][293]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (42)
+[2016.11.04-17.56.57:302][293]LogModuleManager: Shutting down and abandoning module Messaging (41)
+[2016.11.04-17.56.57:302][293]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (40)
+[2016.11.04-17.56.57:302][293]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (39)
+[2016.11.04-17.56.57:302][293]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (38)
+[2016.11.04-17.56.57:302][293]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (37)
+[2016.11.04-17.56.57:302][293]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (36)
+[2016.11.04-17.56.57:302][293]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (35)
+[2016.11.04-17.56.57:302][293]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (34)
+[2016.11.04-17.56.57:302][293]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (33)
+[2016.11.04-17.56.57:302][293]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (32)
+[2016.11.04-17.56.57:302][293]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (31)
+[2016.11.04-17.56.57:302][293]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (30)
+[2016.11.04-17.56.57:302][293]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (29)
+[2016.11.04-17.56.57:302][293]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (28)
+[2016.11.04-17.56.57:302][293]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (27)
+[2016.11.04-17.56.57:302][293]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (26)
+[2016.11.04-17.56.57:302][293]LogModuleManager: Shutting down and abandoning module TargetPlatform (25)
+[2016.11.04-17.56.57:302][293]LogModuleManager: Shutting down and abandoning module InputCore (24)
+[2016.11.04-17.56.57:302][293]LogModuleManager: Shutting down and abandoning module Settings (23)
+[2016.11.04-17.56.57:302][293]LogModuleManager: Shutting down and abandoning module OculusRift (22)
+[2016.11.04-17.56.57:302][293]LogModuleManager: Shutting down and abandoning module GearVR (21)
+[2016.11.04-17.56.57:302][293]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (20)
+[2016.11.04-17.56.57:303][293]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (19)
+[2016.11.04-17.56.57:303][293]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (17)
+[2016.11.04-17.56.57:303][293]LogOnline:Display: Unloading online subsystem: NULL
+[2016.11.04-17.56.57:303][293]LogModuleManager: Shutting down and abandoning module HTTP (16)
+[2016.11.04-17.56.57:303][293]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2016.11.04-17.56.57:303][293]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDF4327B0-443C-FF2A-2AF6-0CAB5A0124FD%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.13.2-3172292%2B%2B%2BUE4%2BRelease-4.13&UserID=622d6cc84c757446e01d25b6259f4ae3%7C0088da38c4fe4f999d6f0e52c41d2185%7C0f0e893d-46e4-44f8-bd74-7f933f7c90a3&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2016.11.04-17.56.57:314][293]LogModuleManager: Shutting down and abandoning module XMPP (15)
+[2016.11.04-17.56.57:314][293]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2016.11.04-17.56.57:314][293]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2016.11.04-17.56.57:314][293]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2016.11.04-17.56.57:314][293]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2016.11.04-17.56.57:321][293]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2016.11.04-17.56.57:321][293]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2016.11.04-17.56.57:321][293]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2016.11.04-17.56.57:321][293]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2016.11.04-17.56.57:321][293]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2016.11.04-17.56.57:321][293]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2016.11.04-17.56.57:321][293]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2016.11.04-17.56.57:321][293]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2016.11.04-17.56.57:321][293]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2016.11.04-17.56.57:322][293]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2016.11.04-17.56.57:325][293]LogExit: Exiting.
+[2016.11.04-17.56.57:330][293]Log file closed, 11/04/16 13:56:57
