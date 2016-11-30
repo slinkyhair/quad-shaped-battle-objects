@@ -1,0 +1,4 @@
+-End turn button will eventually allow the AI to play out a turn, but currently it just restarts your turn sequence (+2 mana and card draw)
+-Clicking a card selects it and it is raised slightly above the others.  When a card is selected, no other cards can be selected.  Pressing
+	the "Play Card" button when a card is selected will play it from your hand to the board (if you have enough mana) and subtract the
+	card's mana cost from your mana total.
