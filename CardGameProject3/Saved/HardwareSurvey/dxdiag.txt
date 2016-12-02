@@ -1,7 +1,24 @@
 ------------------
 System Information
 ------------------
-  DxDiag Previously: Crashed in system information (stage 1). Re-running DxDiag with "dontskip" command line parameter or choosing not to bypass information gathering when prompted might result in DxDiag successfully obtaining this information
+Time of this report: 12/2/2016, 12:57:15
+       Machine name: BSARDINHA
+   Operating System: Windows 8.1 64-bit (6.3, Build 9600) (9600.winblue_ltsb.160930-0600)
+           Language: English (Regional Setting: English)
+System Manufacturer: LENOVO
+       System Model: 4180DY1
+               BIOS: Default System BIOS
+          Processor: Intel(R) Core(TM) i5-2540M CPU @ 2.60GHz (4 CPUs), ~2.6GHz
+             Memory: 8192MB RAM
+Available OS Memory: 8076MB RAM
+          Page File: 4109MB used, 5245MB available
+        Windows Dir: C:\Windows
+    DirectX Version: DirectX 11
+DX Setup Parameters: Not found
+   User DPI Setting: Using System DPI
+ System DPI Setting: 96 DPI (100 percent)
+    DWM DPI Scaling: Disabled
+     DxDiag Version: 6.03.9600.17415 64bit Unicode
 
 ------------
 DxDiag Notes
@@ -9,6 +26,17 @@ DxDiag Notes
       Display Tab 1: No problems found.
         Sound Tab 1: No problems found.
           Input Tab: No problems found.
+
+--------------------
+DirectX Debug Levels
+--------------------
+Direct3D:    0/4 (retail)
+DirectDraw:  0/4 (retail)
+DirectInput: 0/5 (retail)
+DirectMusic: 0/5 (retail)
+DirectPlay:  0/9 (retail)
+DirectSound: 0/5 (retail)
+DirectShow:  0/6 (retail)
 
 ---------------
 Display Devices
@@ -40,7 +68,7 @@ Graphics Preemption: DMA
 Hybrid Graphics GPU: Not Applicable
      Power P-states: Not Applicable
   Driver Attributes: Final Retail
-   Driver Date/Size: 6/1/2015 21:01:14, 12814752 bytes
+   Driver Date/Size: 6/1/2015 20:01:14, 12814752 bytes
         WHQL Logo'd: Yes
     WHQL Date Stamp: 
   Device Identifier: {D7B78E66-4266-11CF-5F61-DD01B4C2C735}
@@ -86,8 +114,8 @@ Hybrid Graphics GPU: Not Applicable
 Sound Devices
 -------------
             Description: Speakers (High Definition Audio Device)
- Default Sound Playback: No
- Default Voice Playback: No
+ Default Sound Playback: Yes
+ Default Voice Playback: Yes
             Hardware ID: HDAUDIO\FUNC_01&VEN_14F1&DEV_506E&SUBSYS_17AA21CE&REV_1000
         Manufacturer ID: 1
              Product ID: 65535
@@ -95,14 +123,14 @@ Sound Devices
             Driver Name: HdAudio.sys
          Driver Version: 6.03.9600.16384 (English)
       Driver Attributes: Final Retail
-            WHQL Logo'd: n/a
-          Date and Size: 8/22/2013 07:38:21, 395776 bytes
+            WHQL Logo'd: Yes
+          Date and Size: 8/22/2013 06:38:21, 395776 bytes
             Other Files: 
         Driver Provider: Microsoft
          HW Accel Level: Basic
-              Cap Flags: 0x0
-    Min/Max Sample Rate: 0, 0
-Static/Strm HW Mix Bufs: 0, 0
+              Cap Flags: 0xF1F
+    Min/Max Sample Rate: 100, 200000
+Static/Strm HW Mix Bufs: 1, 0
  Static/Strm HW 3D Bufs: 0, 0
               HW Memory: 0
        Voice Management: No
@@ -114,14 +142,14 @@ Sensaura(tm) ZoomFX(tm): No
 Sound Capture Devices
 ---------------------
             Description: Microphone (High Definition Audio Device)
-  Default Sound Capture: No
-  Default Voice Capture: No
+  Default Sound Capture: Yes
+  Default Voice Capture: Yes
             Driver Name: HdAudio.sys
          Driver Version: 6.03.9600.16384 (English)
       Driver Attributes: Final Retail
-          Date and Size: 8/22/2013 07:38:21, 395776 bytes
-              Cap Flags: 0x0
-           Format Flags: 0x0
+          Date and Size: 8/22/2013 06:38:21, 395776 bytes
+              Cap Flags: 0x1
+           Format Flags: 0xFFFFF
 
 ---------------------
 Video Capture Devices
@@ -192,16 +220,16 @@ USB Devices
 | Vendor/Product ID: 0x8086, 0x1C2D
 | Matching Device ID: USB\ROOT_HUB20
 | Service: usbhub
-| Driver: usbhub.sys, 10/11/2015 02:34:30, 462168 bytes
-| Driver: usbd.sys, 10/11/2015 02:34:30, 27992 bytes
+| Driver: usbhub.sys, 10/11/2015 01:34:30, 462168 bytes
+| Driver: usbd.sys, 10/11/2015 01:34:30, 27992 bytes
 | 
 +-+ Generic USB Hub
 | | Vendor/Product ID: 0x8087, 0x0024
 | | Location: Port_#0001.Hub_#0001
 | | Matching Device ID: USB\Class_09
 | | Service: usbhub
-| | Driver: usbhub.sys, 10/11/2015 02:34:30, 462168 bytes
-| | Driver: usbd.sys, 10/11/2015 02:34:30, 27992 bytes
+| | Driver: usbhub.sys, 10/11/2015 01:34:30, 462168 bytes
+| | Driver: usbd.sys, 10/11/2015 01:34:30, 27992 bytes
 
 ----------------
 Gameport Devices
@@ -213,111 +241,394 @@ PS/2 Devices
 + Standard PS/2 Keyboard
 | Matching Device ID: *PNP0303
 | Service: i8042prt
-| Driver: i8042prt.sys, 11/4/2014 02:54:54, 108544 bytes
-| Driver: kbdclass.sys, 11/4/2014 15:25:09, 59712 bytes
+| Driver: i8042prt.sys, 11/4/2014 01:54:54, 108544 bytes
+| Driver: kbdclass.sys, 11/4/2014 14:25:09, 59712 bytes
 | 
 + HID Keyboard Device
 | Vendor/Product ID: 0x062A, 0x5918
 | Matching Device ID: HID_DEVICE_SYSTEM_KEYBOARD
 | Service: kbdhid
-| Driver: kbdhid.sys, 11/4/2014 02:54:47, 32256 bytes
-| Driver: kbdclass.sys, 11/4/2014 15:25:09, 59712 bytes
+| Driver: kbdhid.sys, 11/4/2014 01:54:47, 32256 bytes
+| Driver: kbdclass.sys, 11/4/2014 14:25:09, 59712 bytes
 | 
 + ThinkPad UltraNav Pointing Device
 | Matching Device ID: acpi\len0015
 | Upper Filters: SynTP
 | Service: i8042prt
-| Driver: SynTP.sys, 7/28/2014 12:25:34, 461552 bytes
-| Driver: SynTPAPI.dll, 7/28/2014 12:25:24, 224496 bytes
-| Driver: SynCOM.dll, 7/28/2014 12:25:20, 1047280 bytes
-| Driver: syndata.bin, 4/24/2013 01:22:58, 1048576 bytes
-| Driver: SynTPRes.dll, 7/28/2014 12:26:50, 11764464 bytes
-| Driver: SynTPCpl.dll, 7/28/2014 12:25:30, 1957616 bytes
-| Driver: SynCntxt.rtf, 4/24/2013 01:22:58, 5527332 bytes
-| Driver: SynZMetr.exe, 7/28/2014 12:25:18, 253680 bytes
-| Driver: SynMood.exe, 7/28/2014 12:25:12, 245488 bytes
-| Driver: SynTPEnh.exe, 7/28/2014 12:25:16, 2916592 bytes
-| Driver: SynTPCOM.dll, 7/28/2014 12:25:28, 126192 bytes
-| Driver: Tutorial.exe, 7/28/2014 12:25:20, 339696 bytes
-| Driver: InstNT.exe, 7/28/2014 12:25:08, 222448 bytes
-| Driver: SynISDLL.dll, 7/28/2014 12:25:24, 241392 bytes
-| Driver: SynUnst.ini, 7/30/2014 20:54:54, 869190 bytes
-| Driver: SynTPHelper.exe, 7/28/2014 12:25:16, 123632 bytes
-| Driver: SynTPLpr.exe, 7/28/2014 12:26:50, 157936 bytes
-| Driver: TP4table.dat, 4/24/2013 01:23:00, 7887 bytes
-| Driver: TP4Sc_JP.htm, 4/24/2013 01:23:00, 12801 bytes
-| Driver: TP4Sc_GR.htm, 4/24/2013 01:23:00, 14792 bytes
-| Driver: TP4Sc_IT.htm, 4/24/2013 01:22:58, 14300 bytes
-| Driver: TP4Sc_SP.htm, 4/24/2013 01:23:02, 13687 bytes
-| Driver: TP4Sc_FR.htm, 4/24/2013 01:23:00, 13545 bytes
-| Driver: TP4Sc_FI.htm, 4/24/2013 01:23:00, 15345 bytes
-| Driver: TP4Sc_NL.htm, 4/24/2013 01:23:00, 13896 bytes
-| Driver: TP4Sc_NO.htm, 4/24/2013 01:22:58, 12976 bytes
-| Driver: TP4Sc_DK.htm, 4/24/2013 01:22:58, 13551 bytes
-| Driver: TP4Sc_SE.htm, 4/24/2013 01:22:58, 12834 bytes
-| Driver: TP4Sc_CH.htm, 4/24/2013 01:22:58, 11254 bytes
-| Driver: TP4Sc_TW.htm, 4/24/2013 01:23:00, 11070 bytes
-| Driver: TP4Sc_TZ.htm, 4/24/2013 01:23:02, 11070 bytes
-| Driver: TP4Sc_RU.htm, 4/24/2013 01:23:00, 18621 bytes
-| Driver: TP4Sc_BR.htm, 4/24/2013 01:22:58, 14657 bytes
-| Driver: TP4Scrol.htm, 4/24/2013 01:22:58, 13233 bytes
-| Driver: TP4Sc_JP-win8.htm, 4/24/2013 01:23:02, 13331 bytes
-| Driver: TP4Sc_GR-win8.htm, 4/24/2013 01:23:00, 15322 bytes
-| Driver: TP4Sc_IT-win8.htm, 4/24/2013 01:23:02, 14830 bytes
-| Driver: TP4Sc_SP-win8.htm, 4/24/2013 01:22:58, 14220 bytes
-| Driver: TP4Sc_FR-win8.htm, 4/24/2013 01:23:00, 14075 bytes
-| Driver: TP4Sc_FI-win8.htm, 4/24/2013 01:22:56, 15868 bytes
-| Driver: TP4Sc_NL-win8.htm, 4/24/2013 01:22:56, 14426 bytes
-| Driver: TP4Sc_NO-win8.htm, 4/24/2013 01:22:58, 13506 bytes
-| Driver: TP4Sc_DK-win8.htm, 4/24/2013 01:22:58, 14081 bytes
-| Driver: TP4Sc_SE-win8.htm, 4/24/2013 01:22:58, 13364 bytes
-| Driver: TP4Sc_CH-win8.htm, 4/24/2013 01:23:00, 11784 bytes
-| Driver: TP4Sc_TW-win8.htm, 4/24/2013 01:23:00, 11603 bytes
-| Driver: TP4Sc_TZ-win8.htm, 4/24/2013 01:22:58, 11596 bytes
-| Driver: TP4Sc_RU-win8.htm, 4/24/2013 01:23:00, 19151 bytes
-| Driver: TP4Sc_BR-win8.htm, 4/24/2013 01:23:00, 15187 bytes
-| Driver: TP4Scrol-win8.htm, 4/24/2013 01:22:56, 13763 bytes
-| Driver: TP4-A123.GIF, 4/24/2013 01:23:00, 43499 bytes
-| Driver: TP4-ASR.GIF, 4/24/2013 01:23:00, 120911 bytes
-| Driver: TP4-HEAD.GIF, 4/24/2013 01:22:58, 22797 bytes
-| Driver: TP4-I.JPG, 4/24/2013 01:23:00, 894 bytes
-| Driver: TP4-IMG.JPG, 4/24/2013 01:23:00, 756 bytes
-| Driver: TP4-ISR.JPG, 4/24/2013 01:23:00, 753 bytes
-| Driver: TP4-MG.GIF, 4/24/2013 01:23:00, 26890 bytes
-| Driver: TP4-NOTE.GIF, 4/24/2013 01:22:58, 201 bytes
-| Driver: TP4-SC.GIF, 4/24/2013 01:23:00, 73657 bytes
-| Driver: TP4SCROL.CSS, 4/24/2013 01:23:00, 5537 bytes
-| Driver: SynPinchZoom.wmv, 4/24/2013 01:23:00, 426019 bytes
-| Driver: SynMomentum.wmv, 4/24/2013 01:22:58, 146439 bytes
-| Driver: SynLinearScrolling.wmv, 4/24/2013 01:23:00, 258289 bytes
-| Driver: SynLinearHScrolling.wmv, 4/24/2013 01:22:58, 224713 bytes
-| Driver: SynChiralScrolling.wmv, 4/24/2013 01:23:02, 783933 bytes
-| Driver: SynChiralHScrolling.wmv, 4/24/2013 01:22:58, 526657 bytes
-| Driver: Syn2FingerScrolling.wmv, 4/24/2013 01:23:00, 336563 bytes
-| Driver: Syn2FingerScrollingNB_win8.wmv, 4/24/2013 01:22:56, 796911 bytes
-| Driver: Syn2FingerHScrolling.wmv, 4/24/2013 01:23:02, 291805 bytes
-| Driver: Syn2FingerHScrollingNB_win8.wmv, 4/24/2013 01:22:58, 376913 bytes
-| Driver: Syn3FingerFlick.wmv, 4/24/2013 01:23:00, 571445 bytes
-| Driver: Syn3FingerPress.wmv, 4/24/2013 01:23:00, 112893 bytes
-| Driver: SynTwistRotate.wmv, 4/24/2013 01:22:58, 437231 bytes
-| Driver: SynChiralRotate.wmv, 4/24/2013 01:23:00, 191197 bytes
-| Driver: SynPivotRotate.wmv, 4/24/2013 01:22:58, 481959 bytes
-| Driver: SynCoverGesture.wmv, 4/24/2013 01:23:00, 146469 bytes
-| Driver: Syn4FingerFlick.wmv, 4/24/2013 01:23:00, 795115 bytes
-| Driver: Syn4FingerFlick_win8.wmv, 4/24/2013 01:22:58, 598023 bytes
-| Driver: SynCOM.dll, 7/28/2014 12:25:22, 536304 bytes
-| Driver: SynTPCOM.dll, 7/28/2014 12:25:28, 114416 bytes
-| Driver: i8042prt.sys, 11/4/2014 02:54:54, 108544 bytes
-| Driver: mouclass.sys, 11/4/2014 15:25:09, 51008 bytes
-| Driver: SynTPCo14.dll, 7/28/2014 12:25:26, 173808 bytes
-| Driver: WdfCoInstaller01009.dll, 4/24/2013 01:23:02, 1721576 bytes
+| Driver: SynTP.sys, 7/28/2014 11:25:34, 461552 bytes
+| Driver: SynTPAPI.dll, 7/28/2014 11:25:24, 224496 bytes
+| Driver: SynCOM.dll, 7/28/2014 11:25:20, 1047280 bytes
+| Driver: syndata.bin, 4/24/2013 00:22:58, 1048576 bytes
+| Driver: SynTPRes.dll, 7/28/2014 11:26:50, 11764464 bytes
+| Driver: SynTPCpl.dll, 7/28/2014 11:25:30, 1957616 bytes
+| Driver: SynCntxt.rtf, 4/24/2013 00:22:58, 5527332 bytes
+| Driver: SynZMetr.exe, 7/28/2014 11:25:18, 253680 bytes
+| Driver: SynMood.exe, 7/28/2014 11:25:12, 245488 bytes
+| Driver: SynTPEnh.exe, 7/28/2014 11:25:16, 2916592 bytes
+| Driver: SynTPCOM.dll, 7/28/2014 11:25:28, 126192 bytes
+| Driver: Tutorial.exe, 7/28/2014 11:25:20, 339696 bytes
+| Driver: InstNT.exe, 7/28/2014 11:25:08, 222448 bytes
+| Driver: SynISDLL.dll, 7/28/2014 11:25:24, 241392 bytes
+| Driver: SynUnst.ini, 7/30/2014 19:54:54, 869190 bytes
+| Driver: SynTPHelper.exe, 7/28/2014 11:25:16, 123632 bytes
+| Driver: SynTPLpr.exe, 7/28/2014 11:26:50, 157936 bytes
+| Driver: TP4table.dat, 4/24/2013 00:23:00, 7887 bytes
+| Driver: TP4Sc_JP.htm, 4/24/2013 00:23:00, 12801 bytes
+| Driver: TP4Sc_GR.htm, 4/24/2013 00:23:00, 14792 bytes
+| Driver: TP4Sc_IT.htm, 4/24/2013 00:22:58, 14300 bytes
+| Driver: TP4Sc_SP.htm, 4/24/2013 00:23:02, 13687 bytes
+| Driver: TP4Sc_FR.htm, 4/24/2013 00:23:00, 13545 bytes
+| Driver: TP4Sc_FI.htm, 4/24/2013 00:23:00, 15345 bytes
+| Driver: TP4Sc_NL.htm, 4/24/2013 00:23:00, 13896 bytes
+| Driver: TP4Sc_NO.htm, 4/24/2013 00:22:58, 12976 bytes
+| Driver: TP4Sc_DK.htm, 4/24/2013 00:22:58, 13551 bytes
+| Driver: TP4Sc_SE.htm, 4/24/2013 00:22:58, 12834 bytes
+| Driver: TP4Sc_CH.htm, 4/24/2013 00:22:58, 11254 bytes
+| Driver: TP4Sc_TW.htm, 4/24/2013 00:23:00, 11070 bytes
+| Driver: TP4Sc_TZ.htm, 4/24/2013 00:23:02, 11070 bytes
+| Driver: TP4Sc_RU.htm, 4/24/2013 00:23:00, 18621 bytes
+| Driver: TP4Sc_BR.htm, 4/24/2013 00:22:58, 14657 bytes
+| Driver: TP4Scrol.htm, 4/24/2013 00:22:58, 13233 bytes
+| Driver: TP4Sc_JP-win8.htm, 4/24/2013 00:23:02, 13331 bytes
+| Driver: TP4Sc_GR-win8.htm, 4/24/2013 00:23:00, 15322 bytes
+| Driver: TP4Sc_IT-win8.htm, 4/24/2013 00:23:02, 14830 bytes
+| Driver: TP4Sc_SP-win8.htm, 4/24/2013 00:22:58, 14220 bytes
+| Driver: TP4Sc_FR-win8.htm, 4/24/2013 00:23:00, 14075 bytes
+| Driver: TP4Sc_FI-win8.htm, 4/24/2013 00:22:56, 15868 bytes
+| Driver: TP4Sc_NL-win8.htm, 4/24/2013 00:22:56, 14426 bytes
+| Driver: TP4Sc_NO-win8.htm, 4/24/2013 00:22:58, 13506 bytes
+| Driver: TP4Sc_DK-win8.htm, 4/24/2013 00:22:58, 14081 bytes
+| Driver: TP4Sc_SE-win8.htm, 4/24/2013 00:22:58, 13364 bytes
+| Driver: TP4Sc_CH-win8.htm, 4/24/2013 00:23:00, 11784 bytes
+| Driver: TP4Sc_TW-win8.htm, 4/24/2013 00:23:00, 11603 bytes
+| Driver: TP4Sc_TZ-win8.htm, 4/24/2013 00:22:58, 11596 bytes
+| Driver: TP4Sc_RU-win8.htm, 4/24/2013 00:23:00, 19151 bytes
+| Driver: TP4Sc_BR-win8.htm, 4/24/2013 00:23:00, 15187 bytes
+| Driver: TP4Scrol-win8.htm, 4/24/2013 00:22:56, 13763 bytes
+| Driver: TP4-A123.GIF, 4/24/2013 00:23:00, 43499 bytes
+| Driver: TP4-ASR.GIF, 4/24/2013 00:23:00, 120911 bytes
+| Driver: TP4-HEAD.GIF, 4/24/2013 00:22:58, 22797 bytes
+| Driver: TP4-I.JPG, 4/24/2013 00:23:00, 894 bytes
+| Driver: TP4-IMG.JPG, 4/24/2013 00:23:00, 756 bytes
+| Driver: TP4-ISR.JPG, 4/24/2013 00:23:00, 753 bytes
+| Driver: TP4-MG.GIF, 4/24/2013 00:23:00, 26890 bytes
+| Driver: TP4-NOTE.GIF, 4/24/2013 00:22:58, 201 bytes
+| Driver: TP4-SC.GIF, 4/24/2013 00:23:00, 73657 bytes
+| Driver: TP4SCROL.CSS, 4/24/2013 00:23:00, 5537 bytes
+| Driver: SynPinchZoom.wmv, 4/24/2013 00:23:00, 426019 bytes
+| Driver: SynMomentum.wmv, 4/24/2013 00:22:58, 146439 bytes
+| Driver: SynLinearScrolling.wmv, 4/24/2013 00:23:00, 258289 bytes
+| Driver: SynLinearHScrolling.wmv, 4/24/2013 00:22:58, 224713 bytes
+| Driver: SynChiralScrolling.wmv, 4/24/2013 00:23:02, 783933 bytes
+| Driver: SynChiralHScrolling.wmv, 4/24/2013 00:22:58, 526657 bytes
+| Driver: Syn2FingerScrolling.wmv, 4/24/2013 00:23:00, 336563 bytes
+| Driver: Syn2FingerScrollingNB_win8.wmv, 4/24/2013 00:22:56, 796911 bytes
+| Driver: Syn2FingerHScrolling.wmv, 4/24/2013 00:23:02, 291805 bytes
+| Driver: Syn2FingerHScrollingNB_win8.wmv, 4/24/2013 00:22:58, 376913 bytes
+| Driver: Syn3FingerFlick.wmv, 4/24/2013 00:23:00, 571445 bytes
+| Driver: Syn3FingerPress.wmv, 4/24/2013 00:23:00, 112893 bytes
+| Driver: SynTwistRotate.wmv, 4/24/2013 00:22:58, 437231 bytes
+| Driver: SynChiralRotate.wmv, 4/24/2013 00:23:00, 191197 bytes
+| Driver: SynPivotRotate.wmv, 4/24/2013 00:22:58, 481959 bytes
+| Driver: SynCoverGesture.wmv, 4/24/2013 00:23:00, 146469 bytes
+| Driver: Syn4FingerFlick.wmv, 4/24/2013 00:23:00, 795115 bytes
+| Driver: Syn4FingerFlick_win8.wmv, 4/24/2013 00:22:58, 598023 bytes
+| Driver: SynCOM.dll, 7/28/2014 11:25:22, 536304 bytes
+| Driver: SynTPCOM.dll, 7/28/2014 11:25:28, 114416 bytes
+| Driver: i8042prt.sys, 11/4/2014 01:54:54, 108544 bytes
+| Driver: mouclass.sys, 11/4/2014 14:25:09, 51008 bytes
+| Driver: SynTPCo14.dll, 7/28/2014 11:25:26, 173808 bytes
+| Driver: WdfCoInstaller01009.dll, 4/24/2013 00:23:02, 1721576 bytes
 | 
 + HID-compliant mouse
 | Vendor/Product ID: 0x062A, 0x5918
 | Matching Device ID: HID_DEVICE_SYSTEM_MOUSE
 | Service: mouhid
-| Driver: mouhid.sys, 11/4/2014 02:54:47, 30208 bytes
-| Driver: mouclass.sys, 11/4/2014 15:25:09, 51008 bytes
+| Driver: mouhid.sys, 11/4/2014 01:54:47, 30208 bytes
+| Driver: mouclass.sys, 11/4/2014 14:25:09, 51008 bytes
+
+------------------------
+Disk & DVD/CD-ROM Drives
+------------------------
+      Drive: C:
+ Free Space: 405.5 GB
+Total Space: 511.6 GB
+File System: NTFS
+      Model: Crucial_CT750MX300SSD1
+
+      Drive: E:
+ Free Space: 40.7 GB
+Total Space: 101.0 GB
+File System: NTFS
+      Model: Crucial_CT750MX300SSD1
+
+      Drive: H:
+      Model: DiscSoft Virtual SCSI CdRom Device
+     Driver: c:\windows\system32\drivers\cdrom.sys, 6.03.9600.16384 (English), 8/22/2013 03:46:35, 164352 bytes
+
+      Drive: D:
+      Model: DiscSoft Virtual SCSI CdRom Device
+     Driver: c:\windows\system32\drivers\cdrom.sys, 6.03.9600.16384 (English), 8/22/2013 03:46:35, 164352 bytes
+
+      Drive: F:
+      Model: Optiarc DVD RW AD-7710H
+     Driver: c:\windows\system32\drivers\cdrom.sys, 6.03.9600.16384 (English), 8/22/2013 03:46:35, 164352 bytes
+
+      Drive: I:
+      Model: DiscSoft Virtual SCSI CdRom Device
+     Driver: c:\windows\system32\drivers\cdrom.sys, 6.03.9600.16384 (English), 8/22/2013 03:46:35, 164352 bytes
+
+--------------
+System Devices
+--------------
+     Name: NVIDIA NVS 4200M    
+Device ID: PCI\VEN_10DE&DEV_1057&SUBSYS_21D017AA&REV_A1\4&31FCFBB7&0&0008
+   Driver: C:\Program Files\NVIDIA Corporation\Drs\dbInstaller.exe, 10.18.0013.5445 (English), 12/22/2015 10:30:30, 457032 bytes
+   Driver: C:\Program Files\NVIDIA Corporation\Drs\nvdrsdb.bin, 12/22/2015 08:22:10, 1303088 bytes
+   Driver: C:\Windows\System32\DriverStore\FileRepository\nvlt.inf_amd64_db0af0b712f0f6a4\NvCplSetupInt.exe, 1.00.0005.0000 (English), 12/22/2015 10:32:52, 95867816 bytes
+   Driver: C:\Program Files (x86)\NVIDIA Corporation\coprocmanager\detoured.dll, 12/22/2015 10:33:42, 20808 bytes
+   Driver: C:\Program Files (x86)\NVIDIA Corporation\coprocmanager\nvd3d9wrap.dll, 10.18.0013.5445 (English), 12/22/2015 10:33:22, 162448 bytes
+   Driver: C:\Program Files (x86)\NVIDIA Corporation\coprocmanager\nvdxgiwrap.dll, 10.18.0013.5445 (English), 12/22/2015 10:33:52, 114056 bytes
+   Driver: C:\Program Files\NVIDIA Corporation\coprocmanager\detoured.dll, 12/22/2015 10:33:42, 20624 bytes
+   Driver: C:\Program Files\NVIDIA Corporation\coprocmanager\nvd3d9wrapx.dll, 10.18.0013.5445 (English), 12/22/2015 10:33:22, 192312 bytes
+   Driver: C:\Program Files\NVIDIA Corporation\coprocmanager\nvdxgiwrapx.dll, 10.18.0013.5445 (English), 12/22/2015 10:33:54, 134296 bytes
+   Driver: C:\Program Files\NVIDIA Corporation\license.txt, 12/22/2015 08:21:40, 21910 bytes
+   Driver: C:\Program Files\NVIDIA Corporation\NVSMI\MCU.exe, 1.01.5204.20580 (English), 12/22/2015 10:31:04, 850064 bytes
+   Driver: C:\Program Files\NVIDIA Corporation\NVSMI\nvdebugdump.exe, 6.14.0013.5445 (English), 12/22/2015 10:33:42, 236688 bytes
+   Driver: C:\Program Files\NVIDIA Corporation\NVSMI\nvidia-smi.1.pdf, 12/22/2015 08:22:14, 72727 bytes
+   Driver: C:\Program Files\NVIDIA Corporation\NVSMI\nvidia-smi.exe, 8.17.0013.5445 (English), 12/22/2015 10:34:26, 424256 bytes
+   Driver: C:\Program Files\NVIDIA Corporation\NVSMI\nvml.dll, 8.17.0013.5445 (English), 12/22/2015 10:35:32, 1206088 bytes
+   Driver: C:\Program Files\NVIDIA Corporation\OpenCL\OpenCL.dll, 1.02.0011.0000 (English), 12/22/2015 10:40:20, 113800 bytes
+   Driver: C:\Program Files\NVIDIA Corporation\OpenCL\OpenCL64.dll, 1.02.0011.0000 (English), 12/22/2015 10:40:22, 121488 bytes
+   Driver: C:\Windows\system32\DRIVERS\nvkflt.sys, 10.18.0013.5445 (English), 12/22/2015 10:35:10, 308368 bytes
+   Driver: C:\Windows\system32\DRIVERS\nvlddmkm.sys, 10.18.0013.5445 (English), 12/22/2015 10:35:22, 11115152 bytes
+   Driver: C:\Windows\system32\DRIVERS\nvpciflt.sys, 10.18.0013.5445 (English), 12/22/2015 10:36:28, 40080 bytes
+   Driver: C:\Windows\system32\NvFBC64.dll, 6.14.0013.5445 (English), 12/22/2015 10:33:58, 1081992 bytes
+   Driver: C:\Windows\system32\NvIFR64.dll, 6.14.0013.5445 (English), 12/22/2015 10:34:56, 1070920 bytes
+   Driver: C:\Windows\system32\nvapi64.dll, 10.18.0013.5445 (English), 12/22/2015 10:31:14, 3418784 bytes
+   Driver: C:\Windows\system32\nvcompiler.dll, 12/22/2015 10:32:02, 42740368 bytes
+   Driver: C:\Windows\system32\nvcuda.dll, 8.17.0013.5445 (English), 12/22/2015 10:33:14, 14522200 bytes
+   Driver: C:\Windows\system32\nvcuvid.dll, 7.17.0013.5445 (English), 12/22/2015 10:33:22, 2961040 bytes
+   Driver: C:\Windows\system32\nvd3dumx.dll, 10.18.0013.5445 (English), 12/22/2015 10:33:40, 15928728 bytes
+   Driver: C:\Windows\system32\nvinfo.pb, 12/22/2015 08:22:16, 31865 bytes
+   Driver: C:\Windows\system32\nvinitx.dll, 10.18.0013.5445 (English), 12/22/2015 10:35:00, 185816 bytes
+   Driver: C:\Windows\system32\nvoglshim64.dll, 10.18.0013.5445 (English), 12/22/2015 10:35:34, 159368 bytes
+   Driver: C:\Windows\system32\nvoglv64.dll, 10.18.0013.5445 (English), 12/22/2015 10:36:00, 30503752 bytes
+   Driver: C:\Windows\system32\nvopencl.dll, 8.17.0013.5445 (English), 12/22/2015 10:36:24, 16170384 bytes
+   Driver: C:\Windows\system32\nvumdshimx.dll, 10.18.0013.5445 (English), 12/22/2015 10:37:18, 1111096 bytes
+   Driver: C:\Windows\system32\nvwgf2umx.dll, 10.18.0013.5445 (English), 12/22/2015 10:38:16, 17679264 bytes
+   Driver: C:\Windows\SysWow64\NvFBC.dll, 6.14.0013.5445 (English), 12/22/2015 10:33:58, 1004176 bytes
+   Driver: C:\Windows\SysWow64\NvIFR.dll, 6.14.0013.5445 (English), 12/22/2015 10:34:54, 992400 bytes
+   Driver: C:\Windows\SysWow64\nvapi.dll, 10.18.0013.5445 (English), 12/22/2015 10:31:10, 3020704 bytes
+   Driver: C:\Windows\SysWow64\nvcompiler.dll, 12/22/2015 10:31:46, 37758096 bytes
+   Driver: C:\Windows\SysWow64\nvcuda.dll, 8.17.0013.5445 (English), 12/22/2015 10:33:04, 11853464 bytes
+   Driver: C:\Windows\SysWow64\nvcuvid.dll, 7.17.0013.5445 (English), 12/22/2015 10:33:18, 2627912 bytes
+   Driver: C:\Windows\SysWow64\nvd3dum.dll, 10.18.0013.5445 (English), 12/22/2015 10:33:32, 12910808 bytes
+   Driver: C:\Windows\SysWow64\nvinit.dll, 10.18.0013.5445 (English), 12/22/2015 10:35:00, 164008 bytes
+   Driver: C:\Windows\SysWow64\nvoglshim32.dll, 10.18.0013.5445 (English), 12/22/2015 10:35:32, 137240 bytes
+   Driver: C:\Windows\SysWow64\nvoglv32.dll, 10.18.0013.5445 (English), 12/22/2015 10:35:46, 22963856 bytes
+   Driver: C:\Windows\SysWow64\nvopencl.dll, 8.17.0013.5445 (English), 12/22/2015 10:36:12, 13285360 bytes
+   Driver: C:\Windows\SysWow64\nvumdshim.dll, 10.18.0013.5445 (English), 12/22/2015 10:37:14, 949552 bytes
+   Driver: C:\Windows\SysWow64\nvwgf2um.dll, 10.18.0013.5445 (English), 12/22/2015 10:38:08, 15191992 bytes
+   Driver: C:\Windows\system32\nvdispco6435445.dll, 2.00.0043.0004 (English), 12/22/2015 10:33:48, 1906832 bytes
+   Driver: C:\Windows\system32\nvdispgenco6435445.dll, 2.00.0020.0002 (English), 12/22/2015 10:33:52, 1566536 bytes
+
+     Name: Ricoh 1394 OHCI Compliant Host Controller
+Device ID: PCI\VEN_1180&DEV_E832&SUBSYS_21CE17AA&REV_04\4&12032A2F&0&03E4
+   Driver: C:\Windows\system32\DRIVERS\1394ohci.sys, 6.03.9600.16384 (English), 8/22/2013 06:38:15, 231424 bytes
+
+     Name: Intel(R) 6 Series/C200 Series Chipset Family USB Enhanced Host Controller - 1C2D
+Device ID: PCI\VEN_8086&DEV_1C2D&SUBSYS_21CE17AA&REV_04\3&21436425&0&D0
+   Driver: C:\Windows\system32\drivers\usbehci.sys, 6.03.9600.18191 (English), 1/8/2016 20:38:04, 91992 bytes
+   Driver: C:\Windows\system32\drivers\usbport.sys, 6.03.9600.18088 (English), 10/11/2015 01:34:30, 443224 bytes
+   Driver: C:\Windows\system32\drivers\usbhub.sys, 6.03.9600.18088 (English), 10/11/2015 01:34:30, 462168 bytes
+
+     Name: Intel(R) 6 Series/C200 Series Chipset Family PCI Express Root Port 2 - 1C12
+Device ID: PCI\VEN_8086&DEV_1C12&SUBSYS_21CE17AA&REV_B4\3&21436425&0&E1
+   Driver: C:\Windows\system32\DRIVERS\pci.sys, 6.03.9600.17238 (English), 11/21/2014 04:15:08, 280384 bytes
+
+     Name: Intel(R) 82579LM Gigabit Network Connection
+Device ID: PCI\VEN_8086&DEV_1502&SUBSYS_21CE17AA&REV_04\3&21436425&0&C8
+   Driver: C:\Windows\system32\DRIVERS\e1i63x64.sys, 12.06.0047.0000 (English), 6/18/2013 09:45:26, 460288 bytes
+
+     Name: Intel(R) Centrino(R) Ultimate-N 6300 AGN
+Device ID: PCI\VEN_8086&DEV_4238&SUBSYS_11118086&REV_35\4&306CAAFA&0&00E1
+   Driver: C:\Windows\system32\DRIVERS\NETwew00.sys, 15.10.0003.0002 (English), 9/4/2013 17:03:50, 3345376 bytes
+   Driver: C:\Windows\system32\DRIVERS\Netwfw00.dat, 9/4/2013 17:03:54, 6199000 bytes
+   Driver: C:\Windows\system32\drivers\vwifibus.sys, 6.03.9600.18438 (English), 8/12/2016 19:03:08, 24576 bytes
+
+     Name: Synaptics SMBus Driver
+Device ID: PCI\VEN_8086&DEV_1C22&SUBSYS_21CE17AA&REV_04\3&21436425&0&FB
+   Driver: C:\Windows\system32\DRIVERS\Smb_driver_Intel.sys, 16.02.0019.0014 (English), 7/28/2014 11:25:34, 45296 bytes
+   Driver: C:\Program Files\Synaptics\SynTP\SmbDrv.ini, 7/25/2014 19:42:16, 5523 bytes
+   Driver: C:\Windows\system32\WdfCoInstaller01009.dll, 1.09.7600.16385 (English), 4/24/2013 00:23:02, 1721576 bytes
+
+     Name: Intel(R) 6 Series/C200 Series Chipset Family PCI Express Root Port 5 - 1C18
+Device ID: PCI\VEN_8086&DEV_1C18&SUBSYS_21CE17AA&REV_B4\3&21436425&0&E4
+   Driver: C:\Windows\system32\DRIVERS\pci.sys, 6.03.9600.17238 (English), 11/21/2014 04:15:08, 280384 bytes
+
+     Name: Intel(R) 6 Series/C200 Series Chipset Family PCI Express Root Port 1 - 1C10
+Device ID: PCI\VEN_8086&DEV_1C10&SUBSYS_21CE17AA&REV_B4\3&21436425&0&E0
+   Driver: C:\Windows\system32\DRIVERS\pci.sys, 6.03.9600.17238 (English), 11/21/2014 04:15:08, 280384 bytes
+
+     Name: Intel(R) Management Engine Interface 
+Device ID: PCI\VEN_8086&DEV_1C3A&SUBSYS_21CE17AA&REV_04\3&21436425&0&B0
+   Driver: C:\Windows\system32\DRIVERS\HECIx64.sys, 7.00.0000.1144 (English), 10/19/2010 22:34:26, 56344 bytes
+
+     Name: Standard SATA AHCI Controller
+Device ID: PCI\VEN_8086&DEV_1C03&SUBSYS_21CE17AA&REV_04\3&21436425&0&FA
+   Driver: C:\Windows\system32\DRIVERS\storahci.sys, 6.03.9600.16384 (English), 8/22/2013 07:43:31, 107872 bytes
+
+     Name: PCI Serial Port
+Device ID: PCI\VEN_8086&DEV_1C3D&SUBSYS_21CE17AA&REV_04\3&21436425&0&B3
+   Driver: n/a
+
+     Name: High Definition Audio Controller
+Device ID: PCI\VEN_8086&DEV_1C20&SUBSYS_21CE17AA&REV_04\3&21436425&0&D8
+   Driver: C:\Windows\system32\DRIVERS\hdaudbus.sys, 6.03.9600.17238 (English), 11/21/2014 04:15:08, 76800 bytes
+
+     Name: Intel(R) 6 Series/C200 Series Chipset Family PCI Express Root Port 4 - 1C16
+Device ID: PCI\VEN_8086&DEV_1C16&SUBSYS_21CE17AA&REV_B4\3&21436425&0&E3
+   Driver: C:\Windows\system32\DRIVERS\pci.sys, 6.03.9600.17238 (English), 11/21/2014 04:15:08, 280384 bytes
+
+     Name: Xeon E3-1200/2nd Generation Intel(R) Core(TM) Processor Family PCI Express Root Port - 0101
+Device ID: PCI\VEN_8086&DEV_0101&SUBSYS_21CE17AA&REV_09\3&21436425&0&08
+   Driver: C:\Windows\system32\DRIVERS\pci.sys, 6.03.9600.17238 (English), 11/21/2014 04:15:08, 280384 bytes
+
+     Name: Base System Device
+Device ID: PCI\VEN_1180&DEV_E822&SUBSYS_213317AA&REV_08\4&12032A2F&0&00E4
+   Driver: n/a
+
+     Name: Intel(R) 6 Series/C200 Series Chipset Family USB Enhanced Host Controller - 1C26
+Device ID: PCI\VEN_8086&DEV_1C26&SUBSYS_21CE17AA&REV_04\3&21436425&0&E8
+   Driver: C:\Windows\system32\drivers\usbehci.sys, 6.03.9600.18191 (English), 1/8/2016 20:38:04, 91992 bytes
+   Driver: C:\Windows\system32\drivers\usbport.sys, 6.03.9600.18088 (English), 10/11/2015 01:34:30, 443224 bytes
+   Driver: C:\Windows\system32\drivers\usbhub.sys, 6.03.9600.18088 (English), 10/11/2015 01:34:30, 462168 bytes
+
+     Name: 2nd Generation Intel(R) Core(TM) Processor Family DRAM Controller - 0104
+Device ID: PCI\VEN_8086&DEV_0104&SUBSYS_21CE17AA&REV_09\3&21436425&0&00
+   Driver: n/a
+
+     Name: Intel(R) QM67 Express Chipset Family LPC Interface Controller - 1C4F
+Device ID: PCI\VEN_8086&DEV_1C4F&SUBSYS_21CE17AA&REV_04\3&21436425&0&F8
+   Driver: C:\Windows\system32\DRIVERS\msisadrv.sys, 6.03.9600.16384 (English), 8/22/2013 07:43:49, 17248 bytes
+
+     Name: Intel(R) HD Graphics 3000
+Device ID: PCI\VEN_8086&DEV_0126&SUBSYS_21D017AA&REV_09\3&21436425&0&10
+   Driver: C:\Windows\system32\DRIVERS\igdkmd64.sys, 9.17.0010.4229 (English), 6/1/2015 20:00:18, 5384176 bytes
+   Driver: C:\Windows\system32\igdumd64.dll, 9.17.0010.4229 (English), 6/1/2015 20:01:14, 12814752 bytes
+   Driver: C:\Windows\system32\igd10umd64.dll, 9.17.0010.4229 (English), 6/1/2015 20:01:14, 13059896 bytes
+   Driver: C:\Windows\system32\igfxcmrt64.dll, 2.04.0000.1020 (English), 6/1/2015 20:01:14, 1067696 bytes
+   Driver: C:\Windows\system32\igfx11cmrt64.dll, 2.04.0000.1020 (English), 6/1/2015 20:00:32, 584192 bytes
+   Driver: C:\Windows\system32\igfxcmjit64.dll, 2.04.0000.1020 (English), 6/1/2015 20:00:22, 3520000 bytes
+   Driver: C:\Windows\system32\IccLibDll_x64.dll, 6/1/2015 20:00:14, 102912 bytes
+   Driver: C:\Windows\system32\igcodeckrng600.bin, 6/1/2015 18:45:24, 963452 bytes
+   Driver: C:\Windows\system32\igvpkrng600.bin, 6/1/2015 18:46:58, 272928 bytes
+   Driver: C:\Windows\SysWow64\igcodeckrng600.bin, 6/1/2015 18:45:24, 963452 bytes
+   Driver: C:\Windows\SysWow64\igvpkrng600.bin, 6/1/2015 18:46:58, 272928 bytes
+   Driver: C:\Windows\system32\igdde64.dll, 6/1/2015 20:00:14, 110080 bytes
+   Driver: C:\Windows\SysWow64\igdde32.dll, 6/1/2015 20:00:18, 90112 bytes
+   Driver: C:\Windows\system32\iglhxs64.vp, 6/1/2015 18:46:58, 17082 bytes
+   Driver: C:\Windows\system32\iglhxo64.vp, 6/1/2015 18:46:58, 59425 bytes
+   Driver: C:\Windows\system32\iglhxc64.vp, 6/1/2015 18:46:56, 59230 bytes
+   Driver: C:\Windows\system32\iglhxg64.vp, 6/1/2015 18:46:58, 59398 bytes
+   Driver: C:\Windows\system32\iglhxo64_dev.vp, 6/1/2015 18:46:58, 58109 bytes
+   Driver: C:\Windows\system32\iglhxc64_dev.vp, 6/1/2015 18:46:58, 59104 bytes
+   Driver: C:\Windows\system32\iglhxg64_dev.vp, 6/1/2015 18:46:58, 58796 bytes
+   Driver: C:\Windows\system32\iglhxa64.vp, 6/1/2015 18:46:56, 1074 bytes
+   Driver: C:\Windows\system32\iglhxa64.cpa, 6/1/2015 18:46:56, 1981696 bytes
+   Driver: C:\Windows\system32\iglhcp64.dll, 3.00.0001.0016 (English), 6/1/2015 20:01:14, 231312 bytes
+   Driver: C:\Windows\system32\iglhsip64.dll, 3.00.0000.0012 (English), 6/1/2015 20:01:16, 544552 bytes
+   Driver: C:\Windows\SysWow64\igdumd32.dll, 9.17.0010.4229 (English), 6/1/2015 20:01:16, 11223896 bytes
+   Driver: C:\Windows\SysWow64\igfxdv32.dll, 8.15.0010.4229 (English), 6/1/2015 20:00:28, 339456 bytes
+   Driver: C:\Windows\SysWow64\igd10umd32.dll, 9.17.0010.4229 (English), 6/1/2015 20:01:14, 11352688 bytes
+   Driver: C:\Windows\SysWow64\iglhcp32.dll, 3.00.0001.0015 (English), 6/1/2015 20:01:14, 194880 bytes
+   Driver: C:\Windows\SysWow64\iglhsip32.dll, 3.00.0000.0012 (English), 6/1/2015 20:01:12, 539312 bytes
+   Driver: C:\Windows\SysWow64\IntelCpHeciSvc.exe, 9.00.0000.1340 (English), 6/1/2015 20:00:40, 290224 bytes
+   Driver: C:\Windows\SysWow64\igfxcmrt32.dll, 2.04.0000.1020 (English), 6/1/2015 20:01:12, 957472 bytes
+   Driver: C:\Windows\SysWow64\igfx11cmrt32.dll, 2.04.0000.1020 (English), 6/1/2015 20:00:22, 551424 bytes
+   Driver: C:\Windows\SysWow64\igfxcmjit32.dll, 2.04.0000.1020 (English), 6/1/2015 20:00:30, 3129856 bytes
+   Driver: C:\Windows\system32\difx64.exe, 1.04.0002.0000 (English), 6/1/2015 20:00:12, 197040 bytes
+   Driver: C:\Windows\system32\hccutils.dll, 8.15.0010.4229 (English), 6/1/2015 20:00:12, 119296 bytes
+   Driver: C:\Windows\system32\igfxsrvc.dll, 8.15.0010.4229 (English), 6/1/2015 20:00:40, 72704 bytes
+   Driver: C:\Windows\system32\igfxsrvc.exe, 8.15.0010.4229 (English), 6/1/2015 20:00:40, 523184 bytes
+   Driver: C:\Windows\system32\igfxpph.dll, 8.15.0010.4229 (English), 6/1/2015 20:00:32, 393216 bytes
+   Driver: C:\Windows\system32\igfxcpl.cpl, 8.15.0010.4229 (English), 6/1/2015 20:00:28, 135680 bytes
+   Driver: C:\Windows\system32\igfxdev.dll, 8.15.0010.4229 (English), 6/1/2015 20:00:24, 451584 bytes
+   Driver: C:\Windows\system32\igfxdo.dll, 8.15.0010.4229 (English), 6/1/2015 20:00:32, 151040 bytes
+   Driver: C:\Windows\system32\igfxtray.exe, 8.15.0010.4229 (English), 6/1/2015 20:00:40, 183216 bytes
+   Driver: C:\Windows\system32\hkcmd.exe, 8.15.0010.4229 (English), 6/1/2015 20:00:12, 411056 bytes
+   Driver: C:\Windows\system32\igfxress.dll, 8.15.0010.4229 (English), 6/1/2015 20:00:36, 9016320 bytes
+   Driver: C:\Windows\system32\igfxpers.exe, 8.15.0010.4229 (English), 6/1/2015 20:00:32, 453552 bytes
+   Driver: C:\Windows\system32\igfxTMM.dll, 8.15.0010.4229 (English), 6/1/2015 20:00:42, 418816 bytes
+   Driver: C:\Windows\system32\gfxSrvc.dll, 8.15.0010.4229 (English), 6/1/2015 20:00:12, 183808 bytes
+   Driver: C:\Windows\system32\GfxUI.exe, 8.15.0010.4229 (English), 6/1/2015 20:00:14, 5916080 bytes
+   Driver: C:\Windows\system32\GfxUI.exe.config, 6/1/2015 18:45:12, 268 bytes
+   Driver: C:\Windows\system32\IGFXDEVLib.dll, 1.00.0000.0000 (Invariant Language), 6/1/2015 20:00:24, 18432 bytes
+   Driver: C:\Windows\system32\igfxext.exe, 8.15.0010.4229 (English), 6/1/2015 20:00:30, 266152 bytes
+   Driver: C:\Windows\system32\igfxexps.dll, 8.15.0010.4229 (English), 6/1/2015 20:01:10, 41288 bytes
+   Driver: C:\Windows\SysWow64\igfxexps32.dll, 8.15.0010.4229 (English), 6/1/2015 20:00:28, 33792 bytes
+   Driver: C:\Windows\system32\igfxrara.lrc, 8.15.0010.4229 (English), 6/1/2015 20:00:30, 444416 bytes
+   Driver: C:\Windows\system32\igfxrchs.lrc, 8.15.0010.4229 (English), 6/1/2015 20:00:32, 437248 bytes
+   Driver: C:\Windows\system32\igfxrcht.lrc, 8.15.0010.4229 (English), 6/1/2015 20:00:36, 437760 bytes
+   Driver: C:\Windows\system32\igfxrdan.lrc, 8.15.0010.4229 (English), 6/1/2015 20:00:32, 445952 bytes
+   Driver: C:\Windows\system32\igfxrdeu.lrc, 8.15.0010.4229 (English), 6/1/2015 20:00:36, 447488 bytes
+   Driver: C:\Windows\system32\igfxrenu.lrc, 8.15.0010.4229 (English), 6/1/2015 20:00:40, 294912 bytes
+   Driver: C:\Windows\system32\igfxresn.lrc, 8.15.0010.4229 (English), 6/1/2015 20:00:32, 448512 bytes
+   Driver: C:\Windows\system32\igfxrfin.lrc, 8.15.0010.4229 (English), 6/1/2015 20:00:32, 446976 bytes
+   Driver: C:\Windows\system32\igfxrfra.lrc, 8.15.0010.4229 (English), 6/1/2015 20:00:34, 448512 bytes
+   Driver: C:\Windows\system32\igfxrheb.lrc, 8.15.0010.4229 (English), 6/1/2015 20:00:34, 444416 bytes
+   Driver: C:\Windows\system32\igfxrhrv.lrc, 8.15.0010.4229 (English), 6/1/2015 20:00:34, 447488 bytes
+   Driver: C:\Windows\system32\igfxrita.lrc, 8.15.0010.4229 (English), 6/1/2015 20:00:36, 447488 bytes
+   Driver: C:\Windows\system32\igfxrjpn.lrc, 8.15.0010.4229 (English), 6/1/2015 20:00:40, 440832 bytes
+   Driver: C:\Windows\system32\igfxrkor.lrc, 8.15.0010.4229 (English), 6/1/2015 20:00:38, 439808 bytes
+   Driver: C:\Windows\system32\igfxrnld.lrc, 8.15.0010.4229 (English), 6/1/2015 20:00:36, 447488 bytes
+   Driver: C:\Windows\system32\igfxrnor.lrc, 8.15.0010.4229 (English), 6/1/2015 20:00:38, 446464 bytes
+   Driver: C:\Windows\system32\igfxrplk.lrc, 8.15.0010.4229 (English), 6/1/2015 20:00:36, 447488 bytes
+   Driver: C:\Windows\system32\igfxrptb.lrc, 8.15.0010.4229 (English), 6/1/2015 20:00:36, 446464 bytes
+   Driver: C:\Windows\system32\igfxrptg.lrc, 8.15.0010.4229 (English), 6/1/2015 20:00:38, 447488 bytes
+   Driver: C:\Windows\system32\igfxrrom.lrc, 8.15.0010.4229 (English), 6/1/2015 20:00:38, 448000 bytes
+   Driver: C:\Windows\system32\igfxrrus.lrc, 8.15.0010.4229 (English), 6/1/2015 20:00:38, 448000 bytes
+   Driver: C:\Windows\system32\igfxrsky.lrc, 8.15.0010.4229 (English), 6/1/2015 20:00:40, 447488 bytes
+   Driver: C:\Windows\system32\igfxrslv.lrc, 8.15.0010.4229 (English), 6/1/2015 20:00:38, 446464 bytes
+   Driver: C:\Windows\system32\igfxrsve.lrc, 8.15.0010.4229 (English), 6/1/2015 20:00:38, 446464 bytes
+   Driver: C:\Windows\system32\igfxrtha.lrc, 8.15.0010.4229 (English), 6/1/2015 20:00:38, 445952 bytes
+   Driver: C:\Windows\system32\igfxrcsy.lrc, 8.15.0010.4229 (English), 6/1/2015 20:00:32, 446976 bytes
+   Driver: C:\Windows\system32\igfxrell.lrc, 8.15.0010.4229 (English), 6/1/2015 20:00:34, 449024 bytes
+   Driver: C:\Windows\system32\igfxrhun.lrc, 8.15.0010.4229 (English), 6/1/2015 20:00:34, 446976 bytes
+   Driver: C:\Windows\system32\igfxrtrk.lrc, 8.15.0010.4229 (English), 6/1/2015 20:00:38, 446464 bytes
+   Driver: C:\Windows\system32\Gfxres.ar-SA.resources, 6/1/2015 18:45:08, 166170 bytes
+   Driver: C:\Windows\system32\Gfxres.cs-CZ.resources, 6/1/2015 18:45:08, 142289 bytes
+   Driver: C:\Windows\system32\Gfxres.da-DK.resources, 6/1/2015 18:45:08, 137141 bytes
+   Driver: C:\Windows\system32\Gfxres.de-DE.resources, 6/1/2015 18:45:08, 147393 bytes
+   Driver: C:\Windows\system32\Gfxres.el-GR.resources, 6/1/2015 18:45:08, 210106 bytes
+   Driver: C:\Windows\system32\Gfxres.es-ES.resources, 6/1/2015 18:45:08, 147288 bytes
+   Driver: C:\Windows\system32\Gfxres.en-US.resources, 6/1/2015 18:45:08, 132623 bytes
+   Driver: C:\Windows\system32\Gfxres.fi-FI.resources, 6/1/2015 18:45:08, 142008 bytes
+   Driver: C:\Windows\system32\Gfxres.fr-FR.resources, 6/1/2015 18:45:08, 145491 bytes
+   Driver: C:\Windows\system32\Gfxres.he-IL.resources, 6/1/2015 18:45:08, 159008 bytes
+   Driver: C:\Windows\system32\Gfxres.hr-HR.resources, 6/1/2015 18:45:08, 141049 bytes
+   Driver: C:\Windows\system32\Gfxres.hu-HU.resources, 6/1/2015 18:45:08, 143932 bytes
+   Driver: C:\Windows\system32\Gfxres.it-IT.resources, 6/1/2015 18:45:08, 149682 bytes
+   Driver: C:\Windows\system32\Gfxres.ja-JP.resources, 6/1/2015 18:45:08, 163421 bytes
+   Driver: C:\Windows\system32\Gfxres.ko-KR.resources, 6/1/2015 18:45:08, 148042 bytes
+   Driver: C:\Windows\system32\Gfxres.nb-NO.resources, 6/1/2015 18:45:08, 137784 bytes
+   Driver: C:\Windows\system32\Gfxres.nl-NL.resources, 6/1/2015 18:45:08, 144020 bytes
+   Driver: C:\Windows\system32\Gfxres.pl-PL.resources, 6/1/2015 18:45:10, 142717 bytes
+   Driver: C:\Windows\system32\Gfxres.pt-BR.resources, 6/1/2015 18:45:10, 144260 bytes
+   Driver: C:\Windows\system32\Gfxres.pt-PT.resources, 6/1/2015 18:45:10, 142877 bytes
+   Driver: C:\Windows\system32\Gfxres.ro-RO.resources, 6/1/2015 18:45:10, 146004 bytes
+   Driver: C:\Windows\system32\Gfxres.ru-RU.resources, 6/1/2015 18:45:10, 194245 bytes
+   Driver: C:\Windows\system32\Gfxres.sk-SK.resources, 6/1/2015 18:45:10, 141838 bytes
+   Driver: C:\Windows\system32\Gfxres.sl-SI.resources, 6/1/2015 18:45:10, 137889 bytes
+   Driver: C:\Windows\system32\Gfxres.sv-SE.resources, 6/1/2015 18:45:10, 142882 bytes
+   Driver: C:\Windows\system32\Gfxres.th-TH.resources, 6/1/2015 18:45:10, 223664 bytes
+   Driver: C:\Windows\system32\Gfxres.tr-TR.resources, 6/1/2015 18:45:10, 144645 bytes
+   Driver: C:\Windows\system32\Gfxres.zh-CN.resources, 6/1/2015 18:45:10, 124650 bytes
+   Driver: C:\Windows\system32\Gfxres.zh-TW.resources, 6/1/2015 18:45:10, 126300 bytes
+   Driver: C:\Windows\system32\ig4icd64.dll, 9.17.0010.4229 (English), 6/1/2015 20:00:24, 13037568 bytes
+   Driver: C:\Windows\SysWow64\ig4icd32.dll, 9.17.0010.4229 (English), 6/1/2015 20:00:30, 10820096 bytes
+   Driver: C:\Windows\system32\igfxCoIn_v4229.dll, 1.02.0030.0000 (English), 6/1/2015 20:00:38, 124928 bytes
 
 ------------------
 DirectShow Filters
@@ -434,12 +745,9 @@ Microsoft GS Wavetable Synth,0x00200000,1,0,quartz.dll,6.06.9600.18154
 WDM Streaming Capture Devices:
 Integrated Camera,0x00200000,1,1,ksproxy.ax,6.03.9600.18154
 HD Audio Microphone 2,0x00200000,1,1,ksproxy.ax,6.03.9600.18154
-{17CCA71B-ECD7-11D0-B908-00A0C9223196},0x00200000,2,2,ksproxy.ax,6.03.9600.18154
 
 WDM Streaming Rendering Devices:
-{17CCA71B-ECD7-11D0-B908-00A0C9223196},0x00200000,1,1,ksproxy.ax,6.03.9600.18154
 HD Audio Speaker,0x00200000,1,1,ksproxy.ax,6.03.9600.18154
-{17CCA71B-ECD7-11D0-B908-00A0C9223196},0x00200000,2,2,ksproxy.ax,6.03.9600.18154
 
 BDA Network Providers:
 Microsoft ATSC Network Provider,0x00200000,0,1,MSDvbNP.ax,6.06.9600.17415
@@ -833,41 +1141,41 @@ Diagnostics
 
 Windows Error Reporting:
 +++ WER0 +++:
-Fault bucket 129224529576, type 5
-Event Name: AppHangB1
+Fault bucket , type 0
+Event Name: Ensure
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: explorer.exe
-P2: 6.3.9600.18460
-P3: 57c1b8c1
-P4: 3e60
-P5: 134217984
-P6: 
-P7: 
-P8: 
-P9: 
-P10: 
+P1: UE4-CardGameProject3
+P2: 4.13.2
+P3: 580e5391
+P4: KERNELBASE.dll
+P5: 6.3.9600
+P6: 57366075
+P7: 00000001
+P8: 0000000000008A5C
+P9: !"C:\Users\Brian\Documents\GitHub\quad-shaped-battle-objects\CardGameProject3\CardGameProject3.uproject" !AssertLog="Ensure condition failed: TabBeingDraggedPtr.IsValid() [File:D:\Build\++UE4+Release-4.13+Compile\Sync\Engine\Source\Runtime\Slate\Private\Frame
+P10: ++UE4+Release-4.13!C:/Program Files (x86)/Epic Games/4.13/Engine/Binaries/Win64/!Editor!3172292
 
 
 +++ WER1 +++:
 Fault bucket , type 0
-Event Name: AppHangB1
+Event Name: Ensure
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: explorer.exe
-P2: 6.3.9600.18460
-P3: 57c1b8c1
-P4: 3e60
-P5: 134217984
-P6: 
-P7: 
-P8: 
-P9: 
-P10: 
+P1: UE4-CardGameProject3
+P2: 4.13.2
+P3: 580e5391
+P4: KERNELBASE.dll
+P5: 6.3.9600
+P6: 57366075
+P7: 00000001
+P8: 0000000000008A5C
+P9: !"C:\Users\Brian\Documents\GitHub\quad-shaped-battle-objects\CardGameProject3\CardGameProject3.uproject" !AssertLog="Ensure condition failed: TabBeingDraggedPtr.IsValid() [File:D:\Build\++UE4+Release-4.13+Compile\Sync\Engine\Source\Runtime\Slate\Private\Frame
+P10: ++UE4+Release-4.13!C:/Program Files (x86)/Epic Games/4.13/Engine/Binaries/Win64/!Editor!3172292
 
 
 +++ WER2 +++:
@@ -878,18 +1186,75 @@ Cab Id: 0
 
 Problem signature:
 P1: UE4-CardGameProject3
-P2: 4.13.1
-P3: 57eb5fd4
+P2: 4.13.2
+P3: 580e5391
 P4: KERNELBASE.dll
 P5: 6.3.9600
 P6: 57366075
 P7: 00000001
 P8: 0000000000008A5C
-P9: !"C:\Users\Brian\Documents\GitHub\quad-shaped-battle-objects\CardGameProject3\CardGameProject3.uproject" !AssertLog="Ensure condition failed: !PreviewSlateWidgetWeak.IsValid() [File:D:\Build\++UE4+Release-4.13+Compile\Sync\Engine\Source\Editor\UMGEditor\Priva
-P10: ++UE4+Release-4.13!C:/Program Files (x86)/Epic Games/4.13/Engine/Binaries/Win64/!Editor!3142249
+P9: !"C:\Users\Brian\Documents\GitHub\quad-shaped-battle-objects\CardGameProject3\CardGameProject3.uproject" !AssertLog="Ensure condition failed: TabBeingDraggedPtr.IsValid() [File:D:\Build\++UE4+Release-4.13+Compile\Sync\Engine\Source\Runtime\Slate\Private\Frame
+P10: ++UE4+Release-4.13!C:/Program Files (x86)/Epic Games/4.13/Engine/Binaries/Win64/!Editor!3172292
 
 
 +++ WER3 +++:
+Fault bucket 1277603501, type 5
+Event Name: BEX
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: finale.exe
+P2: 2011.0.4.1
+P3: 4bf5c13f
+P4: finale.exe
+P5: 2011.0.4.1
+P6: 4bf5c13f
+P7: 0053a764
+P8: c0000409
+P9: 00000000
+P10: 
+
+
++++ WER4 +++:
+Fault bucket 50, type 5
+Event Name: AppHangXProcB1
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: explorer.exe
+P2: 6.3.9600.18460
+P3: 57c1b8c1
+P4: f877
+P5: 33587456
+P6: SnippingTool.exe
+P7: 0.0.0.0
+P8: 
+P9: 
+P10: 
+
+
++++ WER5 +++:
+Fault bucket , type 0
+Event Name: AppHangXProcB1
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: explorer.exe
+P2: 6.3.9600.18460
+P3: 57c1b8c1
+P4: f877
+P5: 33587456
+P6: SnippingTool.exe
+P7: 0.0.0.0
+P8: 
+P9: 
+P10: 
+
+
++++ WER6 +++:
 Fault bucket , type 0
 Event Name: Ensure
 Response: Not available
@@ -897,26 +1262,26 @@ Cab Id: 0
 
 Problem signature:
 P1: UE4-CardGameProject3
-P2: 4.13.1
-P3: 57eb5fd4
+P2: 4.13.2
+P3: 580e5391
 P4: KERNELBASE.dll
 P5: 6.3.9600
 P6: 57366075
 P7: 00000001
 P8: 0000000000008A5C
-P9: !"C:\Users\Brian\Documents\GitHub\quad-shaped-battle-objects\CardGameProject3\CardGameProject3.uproject" !AssertLog="Ensure condition failed: TabBeingDraggedPtr.IsValid() [File:D:\Build\++UE4+Release-4.13+Compile\Sync\Engine\Source\Runtime\Slate\Private\Frame
-P10: ++UE4+Release-4.13!C:/Program Files (x86)/Epic Games/4.13/Engine/Binaries/Win64/!Editor!3142249
+P9: !"C:\Users\Brian\Documents\GitHub\quad-shaped-battle-objects\CardGameProject3\CardGameProject3.uproject" !AssertLog="Ensure condition failed: false [File:D:\Build\++UE4+Release-4.13+Compile\Sync\Engine\Source\Runtime\Engine\Private\World.cpp] [Line: 1306] #Co
+P10: ++UE4+Release-4.13!C:/Program Files (x86)/Epic Games/4.13/Engine/Binaries/Win64/!Editor!3172292
 
 
-+++ WER4 +++:
-Fault bucket 94625619470, type 5
++++ WER7 +++:
+Fault bucket -330260624, type 5
 Event Name: RADAR_PRE_LEAK_64
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: TiWorker.exe
-P2: 6.3.9600.17477
+P1: JDownloader2.exe
+P2: 2.0.0.1
 P3: 6.3.9600.2.0.0
 P4: 
 P5: 
@@ -927,73 +1292,16 @@ P9:
 P10: 
 
 
-+++ WER5 +++:
-Fault bucket , type 0
-Event Name: PnPGenericDriverFound
-Response: Not available
-Cab Id: 0
-
-Problem signature:
-P1: x64
-P2: HID\VID_0E8F&PID_00A7&REV_0311&MI_01&Col02
-P3: 
-P4: 
-P5: 
-P6: 
-P7: 
-P8: 
-P9: 
-P10: 
-
-
-+++ WER6 +++:
-Fault bucket , type 0
-Event Name: PnPGenericDriverFound
-Response: Not available
-Cab Id: 0
-
-Problem signature:
-P1: x64
-P2: HID\VID_0E8F&PID_00A7&REV_0311&MI_01&Col04
-P3: 
-P4: 
-P5: 
-P6: 
-P7: 
-P8: 
-P9: 
-P10: 
-
-
-+++ WER7 +++:
-Fault bucket , type 0
-Event Name: PnPRequestAdditionalSoftware
-Response: Not available
-Cab Id: 0
-
-Problem signature:
-P1: x64
-P2: HID\VID_0E8F&PID_00A7&REV_0311&MI_01&Col04
-P3: 6.3.0.0
-P4: 0409
-P5: input.inf
-P6: *
-P7: 
-P8: 
-P9: 
-P10: 
-
-
 +++ WER8 +++:
-Fault bucket , type 0
-Event Name: PnPGenericDriverFound
+Fault bucket -333492428, type 5
+Event Name: RADAR_PRE_LEAK_64
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: x64
-P2: USB\VID_0E8F&PID_00A7&REV_0311&MI_00
-P3: 
+P1: avconv.exe
+P2: 0.0.0.0
+P3: 6.3.9600.2.0.0
 P4: 
 P5: 
 P6: 
@@ -1005,20 +1313,20 @@ P10:
 
 +++ WER9 +++:
 Fault bucket , type 0
-Event Name: PnPRequestAdditionalSoftware
+Event Name: Ensure
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: x64
-P2: USB\VID_0E8F&PID_00A7&REV_0311&MI_00
-P3: 6.3.0.0
-P4: 0409
-P5: input.inf
-P6: *
-P7: 
-P8: 
-P9: 
-P10: 
+P1: UE4-CardGameProject3
+P2: 4.13.2
+P3: 580e5391
+P4: KERNELBASE.dll
+P5: 6.3.9600
+P6: 57366075
+P7: 00000001
+P8: 0000000000008A5C
+P9: !"C:\Users\Brian\Documents\GitHub\quad-shaped-battle-objects\CardGameProject3\CardGameProject3.uproject" !AssertLog="Ensure condition failed: NewObject->IsA(this->GeneratedClass) [File:D:\Build\++UE4+Release-4.13+Compile\Sync\Engine\Source\Runtime\Engine\Priv
+P10: ++UE4+Release-4.13!C:/Program Files (x86)/Epic Games/4.13/Engine/Binaries/Win64/!Editor!3172292
 
 
