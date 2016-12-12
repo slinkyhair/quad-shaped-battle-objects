@@ -1,0 +1,1513 @@
+﻿Log file open, 12/10/16 18:59:52
+LogInit:Display: Running engine for game: CardGameProject3
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(-1750096964) SRandInit(-1750096964).
+LogTaskGraph: Started task graph with 5 named threads and 6 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.065670
+LogPluginManager: Loaded Plugin Paper2D, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin LiveEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/LiveEditor/LiveEditor.uplugin
+LogPluginManager: Loaded Plugin OSVR, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LiveEditorListenServer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LiveEditorListenServer/LiveEditorListenServer.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with WinSSL
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.13-CL-3172292
+LogInit: Engine Version: 4.13.2-3172292+++UE4+Release-4.13
+LogInit: Compatible Engine Version: 4.13.0-3106830+++UE4+Release-4.13
+LogInit: Net CL: 3172292
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 5
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 6
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 12
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 4
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 0
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Oct 24 2016 14:29:06
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.13
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files (x86)/Epic Games/4.13/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2016.12.10-23.59.52:960][  0]LogInit: Selected Device Profile: [Windows]
+[2016.12.10-23.59.52:960][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2016.12.10-23.59.52:981][  0]LogInit: Computer: BSARDINHA
+[2016.12.10-23.59.52:981][  0]LogInit: User: Brian
+[2016.12.10-23.59.52:981][  0]LogInit: CPU Page size=65536, Cores=2
+[2016.12.10-23.59.52:981][  0]LogInit: High frequency timer resolution =2.530854 MHz
+[2016.12.10-23.59.52:981][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2016.12.10-23.59.52:981][  0]LogMemory: Platform Memory Stats for Windows
+[2016.12.10-23.59.52:981][  0]LogMemory: Process Physical Memory: 254.56 MB used, 254.56 MB peak
+[2016.12.10-23.59.52:981][  0]LogMemory: Process Virtual Memory: 259.81 MB used, 259.81 MB peak
+[2016.12.10-23.59.52:981][  0]LogMemory: Physical Memory: 1965.66 MB used, 8075.23 MB total
+[2016.12.10-23.59.52:981][  0]LogMemory: Virtual Memory: 603.82 MB used, 134217728.00 MB total
+[2016.12.10-23.59.53:019][  0]LogTextLocalizationManager: No specific translations for ('en-US') exist, so ('en') translations will be used.
+[2016.12.10-23.59.53:696][  0]LogD3D11RHI: D3D11 adapters:
+[2016.12.10-23.59.54:038][  0]LogD3D11RHI:    0. 'NVIDIA NVS 4200M    ' (Feature Level 11_0)
+[2016.12.10-23.59.54:038][  0]LogD3D11RHI:       973/0/3071 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2016.12.10-23.59.54:055][  0]LogD3D11RHI:    1. 'NVIDIA NVS 4200M    ' (Feature Level 11_0)
+[2016.12.10-23.59.54:055][  0]LogD3D11RHI:       973/0/3071 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x10de
+[2016.12.10-23.59.54:057][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2016.12.10-23.59.54:057][  0]LogD3D11RHI:       973/0/3071 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2016.12.10-23.59.54:057][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2016.12.10-23.59.54:062][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2016.12.10-23.59.54:062][  0]LogD3D11RHI:     GPU DeviceId: 0x1057 (for the marketing name, search the web for "GPU Device Id")
+[2016.12.10-23.59.54:062][  0]LogWindows: EnumDisplayDevices:
+[2016.12.10-23.59.54:062][  0]LogWindows:    0. 'Intel(R) HD Graphics 3000' (P:1 D:1)
+[2016.12.10-23.59.54:062][  0]LogWindows:    1. 'Intel(R) HD Graphics 3000' (P:0 D:0)
+[2016.12.10-23.59.54:062][  0]LogWindows:    2. 'NVIDIA NVS 4200M    ' (P:0 D:0)
+[2016.12.10-23.59.54:063][  0]LogWindows:    3. 'NVIDIA NVS 4200M    ' (P:0 D:0)
+[2016.12.10-23.59.54:063][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:2 
+[2016.12.10-23.59.54:063][  0]LogD3D11RHI:     Adapter Name: NVIDIA NVS 4200M    
+[2016.12.10-23.59.54:063][  0]LogD3D11RHI:   Driver Version: 354.45 (internal:10.18.13.5445, unified:354.45)
+[2016.12.10-23.59.54:063][  0]LogD3D11RHI:      Driver Date: 11-5-2015
+[2016.12.10-23.59.54:063][  0]LogRHI: Texture pool is 681 MB (70% of 973 MB)
+[2016.12.10-23.59.54:077][  0]LogD3D11RHI: Async texture creation enabled
+[2016.12.10-23.59.54:097][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2016.12.10-23.59.54:097][  0]LogShaderCompilers: Guid format shader working directory is -44 characters bigger than the processId version (../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Intermediate/Shaders/WorkingDirectory/2068/).
+[2016.12.10-23.59.54:098][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Brian/AppData/Local/Temp/UnrealShaderWorkingDir/0C58A78D4C43A4E6CB4E72BF17A37CAB/'.
+[2016.12.10-23.59.54:098][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2016.12.10-23.59.55:225][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2016.12.10-23.59.55:236][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2016.12.10-23.59.55:247][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2016.12.10-23.59.55:259][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2016.12.10-23.59.55:270][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2016.12.10-23.59.55:280][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2016.12.10-23.59.55:289][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2016.12.10-23.59.55:299][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2016.12.10-23.59.55:308][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2016.12.10-23.59.55:318][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2016.12.10-23.59.55:327][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2016.12.10-23.59.55:346][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2016.12.10-23.59.55:346][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2016.12.10-23.59.55:348][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2016.12.10-23.59.55:373][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2016.12.10-23.59.55:381][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2016.12.10-23.59.55:391][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2016.12.10-23.59.55:400][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2016.12.10-23.59.55:408][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2016.12.10-23.59.55:417][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2016.12.10-23.59.55:418][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2016.12.10-23.59.55:525][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2016.12.10-23.59.55:622][  0]LogDerivedDataCache: Loaded boot cache 0.10s 63MB C:/Users/Brian/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2016.12.10-23.59.55:622][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Brian/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc
+[2016.12.10-23.59.55:622][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2016.12.10-23.59.55:622][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2016.12.10-23.59.55:622][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2016.12.10-23.59.55:622][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2016.12.10-23.59.55:642][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2016.12.10-23.59.55:654][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Brian/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2016.12.10-23.59.55:913][  0]LogInit: Selected Device Profile: [Windows]
+[2016.12.10-23.59.55:917][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2016.12.10-23.59.56:034][  0]LogMeshUtilities: No automatic mesh reduction module available
+[2016.12.10-23.59.56:034][  0]LogMeshUtilities: No automatic mesh merging module available
+[2016.12.10-23.59.56:034][  0]LogMeshUtilities: No distributed automatic mesh merging module available
+[2016.12.10-23.59.56:118][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2016.12.10-23.59.56:517][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3106830, ProjectName: cardgameproject3, ProjectVersion: , EngineNetworkVersion: 1, GameNetworkVersion: 0, NetworkChecksum: 2141254031
+[2016.12.10-23.59.56:556][  0]LogAssetRegistry: FAssetRegistry took 0.0222 seconds to start up
+[2016.12.10-23.59.56:593][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.034415 seconds
+[2016.12.10-23.59.56:602][  0]LogUObjectArray: 29778 objects as part of root set at end of initial load.
+[2016.12.10-23.59.56:602][  0]LogUObjectAllocator: 6125456 out of 0 bytes used by permanent object pool.
+[2016.12.10-23.59.56:602][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2016.12.10-23.59.56:612][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2016.12.10-23.59.56:894][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.12.10-23.59.56:894][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.12.10-23.59.57:588][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2016.12.10-23.59.57:611][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2016.12.10-23.59.57:877][  0]SourceControl: Info Source control is disabled
+[2016.12.10-23.59.57:878][  0]SourceControl: Info Source control is disabled
+[2016.12.10-23.59.57:890][  0]SourceControl: Info Source control is disabled
+[2016.12.10-23.59.57:901][  0]SourceControl: Info Source control is disabled
+[2016.12.10-23.59.57:993][  0]LogLinker:Warning: Can't find file '/Game/2DSideScrollerBP/2DSideScrollerOverview'
+[2016.12.10-23.59.57:993][  0]LogLinker:Warning: Can't find file '/Game/2DSideScrollerBP/2DSideScrollerOverview'
+[2016.12.10-23.59.57:993][  0]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/2DSideScrollerBP/2DSideScrollerOverview.2DSideScrollerOverview_C'
+[2016.12.10-23.59.58:243][  0]LogEngine: Initializing Engine...
+[2016.12.10-23.59.58:244][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2016.12.10-23.59.58:400][  0]LogAIModule: Creating AISystem for world Untitled
+[2016.12.10-23.59.58:408][  0]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.12.10-23.59.58:425][  0]LogInit: FAudioDevice initialized.
+[2016.12.10-23.59.58:469][  0]LogDerivedDataCache: Saved boot cache 0.04s 63MB C:/Users/Brian/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2016.12.10-23.59.58:481][  0]LogInit: Texture streaming: Enabled
+[2016.12.10-23.59.58:532][  0]LogInit: Transaction tracking system initialized
+[2016.12.10-23.59.58:565][  0]BlueprintLog: New page: Editor Load
+[2016.12.10-23.59.58:686][  0]LocalizationService: Info Localization service is disabled
+[2016.12.10-23.59.58:792][  0]LogConsoleResponse:Display: 
+[2016.12.10-23.59.58:940][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2016.12.10-23.59.58:940][  0]LogCook:Display: Mobile HDR setting 0
+[2016.12.10-23.59.59:171][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/' took 0.01s
+[2016.12.10-23.59.59:171][  0]SourceControl: Info Source control is disabled
+[2016.12.10-23.59.59:171][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Levels/Empty.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.12.10-23.59.59:171][  0]LightingResults: New page: Lighting Build
+[2016.12.10-23.59.59:175][  0]MapCheck: New page: Map Check
+[2016.12.10-23.59.59:175][  0]LightingResults: New page: Lighting Build
+[2016.12.11-00.00.01:704][  0]LogAIModule: Creating AISystem for world Empty
+[2016.12.11-00.00.01:705][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.12.11-00.00.01:705][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.12.11-00.00.01:761][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 55.499ms to complete.
+[2016.12.11-00.00.01:761][  0]LogFileHelpers: Loading map 'Empty' took 2.590
+[2016.12.11-00.00.01:891][  0]LogCollectionManager: Loaded 1 collections in 0.002271 seconds
+[2016.12.11-00.00.01:934][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Saved/Collections/' took 0.01s
+[2016.12.11-00.00.01:934][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Developers/Brian/Collections/' took 0.01s
+[2016.12.11-00.00.01:934][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Collections/' took 0.01s
+[2016.12.11-00.00.01:934][  0]LogCollectionManager: Rebuilt the GUID cache for 1 collections in 0.000006 seconds
+[2016.12.11-00.00.01:934][  0]LogCollectionManager: Rebuilt the hierarchy cache for 1 collections in 0.000001 seconds
+[2016.12.11-00.00.01:945][  0]LogContentBrowser: Native class hierarchy populated in 0.0116 seconds. Added 2141 classes and 415 folders.
+[2016.12.11-00.00.01:952][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2016.12.11-00.00.01:952][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2016.12.11-00.00.01:953][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0006 seconds. Added 12 classes and 0 folders.
+[2016.12.11-00.00.01:959][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2016.12.11-00.00.01:999][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2016.12.11-00.00.02:007][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2016.12.11-00.00.02:025][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2016.12.11-00.00.02:031][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2016.12.11-00.00.02:064][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2016.12.11-00.00.02:064][  0]LogLoad: (Engine Initialization) Total time: 10.05 seconds
+[2016.12.11-00.00.02:064][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 1.19 seconds
+[2016.12.11-00.00.02:064][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2016.12.11-00.00.02:064][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2016.12.11-00.00.02:082][  0]LogOcInput: OculusInput pre-init called
+[2016.12.11-00.00.02:100][  0]LogContentStreaming: Texture pool size now 400 MB
+[2016.12.11-00.00.02:271][  0]LogRenderer: Reallocating scene render targets to support 964x492 (Frame:2).
+[2016.12.11-00.00.02:548][  2]LogAssetRegistry: Asset discovery search completed in 6.0136 seconds
+[2016.12.11-00.00.02:548][  2]LogCollectionManager: Rebuilt the object cache for 1 collections in 0.000010 seconds (found 0 objects)
+[2016.12.11-00.00.02:548][  2]LogCollectionManager: Fixed up redirectors for 1 collections in 0.000042 seconds (updated 0 objects)
+[2016.12.11-00.00.21:831][ 93]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 112 classes and 0 folders.
+[2016.12.11-00.03.36:739][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Data/CardDatabase" FILE="../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Data/CardDatabase.uasset" SILENT=true
+[2016.12.11-00.03.36:771][478]LogSavePackage: Save=3.36ms
+[2016.12.11-00.03.36:771][478]LogSavePackage: Moving '../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Saved/CardDatabase2C90AE5F45DCD2F1B8D6A0BD849A80EE.tmp' to '../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Data/CardDatabase.uasset'
+[2016.12.11-00.03.36:774][478]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Data/CardDatabase.uasset
+[2016.12.11-00.04.27:562][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Data/CardDatabase" FILE="../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Data/CardDatabase.uasset" SILENT=true
+[2016.12.11-00.04.27:591][513]LogSavePackage: Save=2.69ms
+[2016.12.11-00.04.27:591][513]LogSavePackage: Moving '../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Saved/CardDatabase37C15A7D4C71AD6B3EAE74985066C4C9.tmp' to '../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Data/CardDatabase.uasset'
+[2016.12.11-00.04.27:594][513]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Data/CardDatabase.uasset
+[2016.12.11-00.06.02:644][991]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Empty.Empty:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Empty.Empty:PersistentLevel.Empty' with GeneratedClass '/Game/Levels/Empty.Empty_C' with ClassGeneratedBy '/Game/Levels/Empty.Empty:PersistentLevel.Empty'
+[2016.12.11-00.06.02:644][991]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.11-00.06.02:646][991]PIE: New page: PIE session: Empty (Dec 10, 2016, 2:06:02 PM)
+[2016.12.11-00.06.02:646][991]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Empty
+[2016.12.11-00.06.02:648][991]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001300s)
+[2016.12.11-00.06.02:649][991]LogAIModule: Creating AISystem for world Empty
+[2016.12.11-00.06.02:649][991]LogPlayLevel: PIE: World Init took: (0.001211s)
+[2016.12.11-00.06.02:649][991]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Empty.Empty to /Game/Levels/UEDPIE_0_Empty.Empty (0.002834s)
+[2016.12.11-00.06.02:700][991]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.12.11-00.06.02:708][991]LogInit: FAudioDevice initialized.
+[2016.12.11-00.06.02:760][991]LogWorld: Game class is 'BattleCardGameMode_C'
+[2016.12.11-00.06.02:762][991]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Empty.Empty up for play (max tick rate 60) at 2016.12.10-19.06.02
+[2016.12.11-00.06.02:762][991]LogWorld: Bringing up level for play took: 0.001296
+[2016.12.11-00.06.02:767][991]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 11 classes and 0 folders.
+[2016.12.11-00.06.02:767][991]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.11-00.06.02:767][991]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.11-00.06.02:767][991]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.11-00.06.02:769][991]Cmd: r.setRes 1280x720
+[2016.12.11-00.06.02:769][991]r.SetRes = "1280x720"
+[2016.12.11-00.06.02:771][991]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.11-00.06.02:771][991]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Empty 0.178
+[2016.12.11-00.06.02:771][991]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Empty.Empty:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Empty.Empty:PersistentLevel.Empty' with GeneratedClass '/Game/Levels/Empty.Empty_C' with ClassGeneratedBy '/Game/Levels/Empty.Empty:PersistentLevel.Empty'
+[2016.12.11-00.06.05:115][125]LogGameMode:Display: Match State Changed from InProgress to LeavingMap
+[2016.12.11-00.06.05:115][125]LogGameState: Match State Changed from InProgress to LeavingMap
+[2016.12.11-00.06.05:116][125]LogNet: Browse: /Game/Levels/BasicLevel
+[2016.12.11-00.06.05:116][125]LogLoad: LoadMap: /Game/Levels/BasicLevel
+[2016.12.11-00.06.05:162][125]Cmd: MEM
+[2016.12.11-00.06.05:200][125]LogMemory: Platform Memory Stats for Windows
+[2016.12.11-00.06.05:200][125]LogMemory: Process Physical Memory: 1236.68 MB used, 1241.09 MB peak
+[2016.12.11-00.06.05:200][125]LogMemory: Process Virtual Memory: 1810.38 MB used, 1816.24 MB peak
+[2016.12.11-00.06.05:200][125]LogMemory: Physical Memory: 3326.82 MB used, 8075.23 MB total
+[2016.12.11-00.06.05:200][125]LogMemory: Virtual Memory: 2554.99 MB used, 134217728.00 MB total
+[2016.12.11-00.06.05:200][125]LogMemory: 
+[2016.12.11-00.06.05:200][125]Allocator Stats for TBB: (not implemented)
+[2016.12.11-00.06.05:461][125]LogAIModule: Creating AISystem for world BasicLevel
+[2016.12.11-00.06.05:461][125]LogWorld: Game class is 'BattleCardGameMode_C'
+[2016.12.11-00.06.05:466][125]LogWorld: Bringing World /Game/Levels/UEDPIE_0_BasicLevel.BasicLevel up for play (max tick rate 60) at 2016.12.10-19.06.05
+[2016.12.11-00.06.05:466][125]LogWorld: Bringing up level for play took: 0.004664
+[2016.12.11-00.06.05:467][125]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2016.12.11-00.06.05:467][125]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.11-00.06.05:467][125]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.11-00.06.05:467][125]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.11-00.06.05:469][125]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.11-00.06.05:469][125]LogLoad: Took 0.353391 seconds to LoadMap(/Game/Levels/BasicLevel)
+[2016.12.11-00.06.05:492][126]LogBlueprintUserMessages: [Deck_C_0] 1
+[2016.12.11-00.06.05:492][126]LogBlueprintUserMessages: [Deck_C_1] 0
+[2016.12.11-00.07.24:632][917]LogAudio:Warning: Detected orphaned looping sound 'Loop1_Cue'.
+[2016.12.11-00.10.12:102][257]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Empty.Empty:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Empty.Empty:PersistentLevel.Empty' with GeneratedClass '/Game/Levels/Empty.Empty_C' with ClassGeneratedBy '/Game/Levels/Empty.Empty:PersistentLevel.Empty'
+[2016.12.11-00.10.12:151][257]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Empty.Empty:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Empty.Empty:PersistentLevel.Empty' with GeneratedClass '/Game/Levels/Empty.Empty_C' with ClassGeneratedBy '/Game/Levels/Empty.Empty:PersistentLevel.Empty'
+[2016.12.11-00.11.00:509][144]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Data/CardDatabase" FILE="../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Data/CardDatabase.uasset" SILENT=true
+[2016.12.11-00.11.00:545][144]LogSavePackage: Save=3.56ms
+[2016.12.11-00.11.00:545][144]LogSavePackage: Moving '../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Saved/CardDatabase3AA7C28D48A557AE8BF791A4388D78DB.tmp' to '../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Data/CardDatabase.uasset'
+[2016.12.11-00.11.00:548][144]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Data/CardDatabase.uasset
+[2016.12.11-00.11.03:765][336]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Empty.Empty:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Empty.Empty:PersistentLevel.Empty' with GeneratedClass '/Game/Levels/Empty.Empty_C' with ClassGeneratedBy '/Game/Levels/Empty.Empty:PersistentLevel.Empty'
+[2016.12.11-00.11.03:765][336]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.11-00.11.03:765][336]PIE: New page: PIE session: Empty (Dec 10, 2016, 2:11:03 PM)
+[2016.12.11-00.11.03:767][336]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Empty
+[2016.12.11-00.11.03:768][336]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001079s)
+[2016.12.11-00.11.03:769][336]LogAIModule: Creating AISystem for world Empty
+[2016.12.11-00.11.03:769][336]LogPlayLevel: PIE: World Init took: (0.001121s)
+[2016.12.11-00.11.03:770][336]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Empty.Empty to /Game/Levels/UEDPIE_0_Empty.Empty (0.002532s)
+[2016.12.11-00.11.03:818][336]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.12.11-00.11.03:826][336]LogInit: FAudioDevice initialized.
+[2016.12.11-00.11.03:862][336]LogWorld: Game class is 'BattleCardGameMode_C'
+[2016.12.11-00.11.03:864][336]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Empty.Empty up for play (max tick rate 60) at 2016.12.10-19.11.03
+[2016.12.11-00.11.03:864][336]LogWorld: Bringing up level for play took: 0.001249
+[2016.12.11-00.11.03:865][336]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2016.12.11-00.11.03:865][336]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.11-00.11.03:865][336]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.11-00.11.03:865][336]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.11-00.11.03:867][336]Cmd: r.setRes 1280x720
+[2016.12.11-00.11.03:867][336]r.SetRes = "1280x720"
+[2016.12.11-00.11.03:868][336]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.11-00.11.03:869][336]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Empty -0.724
+[2016.12.11-00.11.03:869][336]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Empty.Empty:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Empty.Empty:PersistentLevel.Empty' with GeneratedClass '/Game/Levels/Empty.Empty_C' with ClassGeneratedBy '/Game/Levels/Empty.Empty:PersistentLevel.Empty'
+[2016.12.11-00.11.03:878][336]LogRenderer: Reallocating scene render targets to support 1292x756 (Frame:9903).
+[2016.12.11-00.11.05:447][404]LogGameMode:Display: Match State Changed from InProgress to LeavingMap
+[2016.12.11-00.11.05:447][404]LogGameState: Match State Changed from InProgress to LeavingMap
+[2016.12.11-00.11.05:448][404]LogNet: Browse: /Game/Levels/BasicLevel
+[2016.12.11-00.11.05:448][404]LogLoad: LoadMap: /Game/Levels/BasicLevel
+[2016.12.11-00.11.05:508][404]Cmd: MEM
+[2016.12.11-00.11.05:547][404]LogMemory: Platform Memory Stats for Windows
+[2016.12.11-00.11.05:547][404]LogMemory: Process Physical Memory: 1317.98 MB used, 1326.22 MB peak
+[2016.12.11-00.11.05:547][404]LogMemory: Process Virtual Memory: 1914.68 MB used, 1979.15 MB peak
+[2016.12.11-00.11.05:547][404]LogMemory: Physical Memory: 3392.82 MB used, 8075.23 MB total
+[2016.12.11-00.11.05:547][404]LogMemory: Virtual Memory: 2659.14 MB used, 134217728.00 MB total
+[2016.12.11-00.11.05:547][404]LogMemory: 
+[2016.12.11-00.11.05:547][404]Allocator Stats for TBB: (not implemented)
+[2016.12.11-00.11.05:741][404]LogAIModule: Creating AISystem for world BasicLevel
+[2016.12.11-00.11.05:742][404]LogWorld: Game class is 'BattleCardGameMode_C'
+[2016.12.11-00.11.05:746][404]LogWorld: Bringing World /Game/Levels/UEDPIE_0_BasicLevel.BasicLevel up for play (max tick rate 60) at 2016.12.10-19.11.05
+[2016.12.11-00.11.05:746][404]LogWorld: Bringing up level for play took: 0.003751
+[2016.12.11-00.11.05:747][404]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2016.12.11-00.11.05:747][404]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.11-00.11.05:748][404]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.11-00.11.05:748][404]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.11-00.11.05:749][404]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.11-00.11.05:749][404]LogLoad: Took 0.300809 seconds to LoadMap(/Game/Levels/BasicLevel)
+[2016.12.11-00.11.05:757][405]LogBlueprintUserMessages: [Deck_C_0] 1
+[2016.12.11-00.11.05:757][405]LogBlueprintUserMessages: [Deck_C_1] 0
+[2016.12.11-00.12.24:918][390]LogAudio:Warning: Detected orphaned looping sound 'Loop1_Cue'.
+[2016.12.11-00.15.42:002][243]LogBlueprintUserMessages: [BattleCardGameState_C_0] Give that card a turn to get ready
+[2016.12.11-00.16.13:166][982]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Empty.Empty:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Empty.Empty:PersistentLevel.Empty' with GeneratedClass '/Game/Levels/Empty.Empty_C' with ClassGeneratedBy '/Game/Levels/Empty.Empty:PersistentLevel.Empty'
+[2016.12.11-00.16.13:239][982]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Empty.Empty:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Empty.Empty:PersistentLevel.Empty' with GeneratedClass '/Game/Levels/Empty.Empty_C' with ClassGeneratedBy '/Game/Levels/Empty.Empty:PersistentLevel.Empty'
+[2016.12.11-00.16.49:304][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Data/CardDatabase" FILE="../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Data/CardDatabase.uasset" SILENT=true
+[2016.12.11-00.16.49:336][ 62]LogSavePackage: Save=3.28ms
+[2016.12.11-00.16.49:336][ 62]LogSavePackage: Moving '../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Saved/CardDatabase3CE8BE4B40B2EAD4DB247A9D8B3ED582.tmp' to '../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Data/CardDatabase.uasset'
+[2016.12.11-00.16.49:339][ 62]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Data/CardDatabase.uasset
+[2016.12.11-00.17.00:733][744]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Empty.Empty:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Empty.Empty:PersistentLevel.Empty' with GeneratedClass '/Game/Levels/Empty.Empty_C' with ClassGeneratedBy '/Game/Levels/Empty.Empty:PersistentLevel.Empty'
+[2016.12.11-00.17.00:733][744]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.11-00.17.00:734][744]PIE: New page: PIE session: Empty (Dec 10, 2016, 2:17:00 PM)
+[2016.12.11-00.17.00:735][744]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Empty
+[2016.12.11-00.17.00:736][744]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001093s)
+[2016.12.11-00.17.00:737][744]LogAIModule: Creating AISystem for world Empty
+[2016.12.11-00.17.00:737][744]LogPlayLevel: PIE: World Init took: (0.001085s)
+[2016.12.11-00.17.00:737][744]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Empty.Empty to /Game/Levels/UEDPIE_0_Empty.Empty (0.002457s)
+[2016.12.11-00.17.00:786][744]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.12.11-00.17.00:795][744]LogInit: FAudioDevice initialized.
+[2016.12.11-00.17.00:831][744]LogWorld: Game class is 'BattleCardGameMode_C'
+[2016.12.11-00.17.00:833][744]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Empty.Empty up for play (max tick rate 60) at 2016.12.10-19.17.00
+[2016.12.11-00.17.00:833][744]LogWorld: Bringing up level for play took: 0.001213
+[2016.12.11-00.17.00:834][744]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.11-00.17.00:834][744]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.11-00.17.00:834][744]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.11-00.17.00:835][744]Cmd: r.setRes 1280x720
+[2016.12.11-00.17.00:835][744]r.SetRes = "1280x720"
+[2016.12.11-00.17.00:836][744]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.11-00.17.00:837][744]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Empty 0.244
+[2016.12.11-00.17.00:837][744]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Empty.Empty:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Empty.Empty:PersistentLevel.Empty' with GeneratedClass '/Game/Levels/Empty.Empty_C' with ClassGeneratedBy '/Game/Levels/Empty.Empty:PersistentLevel.Empty'
+[2016.12.11-00.17.06:321][ 70]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Empty.Empty:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Empty.Empty:PersistentLevel.Empty' with GeneratedClass '/Game/Levels/Empty.Empty_C' with ClassGeneratedBy '/Game/Levels/Empty.Empty:PersistentLevel.Empty'
+[2016.12.11-00.17.06:355][ 70]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Empty.Empty:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Empty.Empty:PersistentLevel.Empty' with GeneratedClass '/Game/Levels/Empty.Empty_C' with ClassGeneratedBy '/Game/Levels/Empty.Empty:PersistentLevel.Empty'
+[2016.12.11-00.17.47:610][ 83]LogSavePackage: Save=774.44ms
+[2016.12.11-00.17.47:610][ 83]LogSavePackage: Moving '../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Saved/BattleCardGameState31DEDEE640D01F20BE049FB1FF0769A1.tmp' to '../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Blueprints/BattleCardGameState.uasset'
+[2016.12.11-00.17.47:614][ 83]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Blueprints/BattleCardGameState.uasset
+[2016.12.11-00.17.47:690][ 83]LogSavePackage: Save=20.17ms
+[2016.12.11-00.17.47:690][ 83]LogSavePackage: Moving '../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Saved/Red_ParticleB49E33D944036A6C72DCEC9E2903D1FE.tmp' to '../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Blueprints/Red_Particle.uasset'
+[2016.12.11-00.17.47:693][ 83]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Blueprints/Red_Particle.uasset
+[2016.12.11-00.17.49:570][196]BlueprintLog: New page: Compile Red_Particle
+[2016.12.11-00.19.29:664][112]LogSavePackage: Save=804.93ms
+[2016.12.11-00.19.29:664][112]LogSavePackage: Moving '../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Saved/BattleCardGameState4883331D44E3441BCE9732A10E417C24.tmp' to '../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Blueprints/BattleCardGameState.uasset'
+[2016.12.11-00.19.29:669][112]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Blueprints/BattleCardGameState.uasset
+[2016.12.11-00.19.32:011][232]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Empty.Empty:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Empty.Empty:PersistentLevel.Empty' with GeneratedClass '/Game/Levels/Empty.Empty_C' with ClassGeneratedBy '/Game/Levels/Empty.Empty:PersistentLevel.Empty'
+[2016.12.11-00.19.32:011][232]BlueprintLog: New page: Pre-Play auto-recompile
+[2016.12.11-00.19.32:011][232]LogPlayLevel: [PlayLevel] Compiling BattleCardGameState before play...
+[2016.12.11-00.19.32:984][232]LogPlayLevel: PlayLevel: Blueprint regeneration took 972 ms (1 blueprints)
+[2016.12.11-00.19.32:984][232]PIE: New page: PIE session: Empty (Dec 10, 2016, 2:19:32 PM)
+[2016.12.11-00.19.32:985][232]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Empty
+[2016.12.11-00.19.32:986][232]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001195s)
+[2016.12.11-00.19.32:987][232]LogAIModule: Creating AISystem for world Empty
+[2016.12.11-00.19.32:987][232]LogPlayLevel: PIE: World Init took: (0.001102s)
+[2016.12.11-00.19.32:987][232]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Empty.Empty to /Game/Levels/UEDPIE_0_Empty.Empty (0.002567s)
+[2016.12.11-00.19.33:039][232]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.12.11-00.19.33:048][232]LogInit: FAudioDevice initialized.
+[2016.12.11-00.19.33:148][232]LogWorld: Game class is 'BattleCardGameMode_C'
+[2016.12.11-00.19.33:149][232]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Empty.Empty up for play (max tick rate 60) at 2016.12.10-19.19.33
+[2016.12.11-00.19.33:149][232]LogWorld: Bringing up level for play took: 0.001190
+[2016.12.11-00.19.33:150][232]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2016.12.11-00.19.33:150][232]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.11-00.19.33:150][232]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.11-00.19.33:150][232]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.11-00.19.33:152][232]Cmd: r.setRes 1280x720
+[2016.12.11-00.19.33:152][232]r.SetRes = "1280x720"
+[2016.12.11-00.19.33:153][232]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.11-00.19.33:190][232]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Empty 0.597
+[2016.12.11-00.19.33:190][232]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Empty.Empty:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Empty.Empty:PersistentLevel.Empty' with GeneratedClass '/Game/Levels/Empty.Empty_C' with ClassGeneratedBy '/Game/Levels/Empty.Empty:PersistentLevel.Empty'
+[2016.12.11-00.19.34:931][291]LogGameMode:Display: Match State Changed from InProgress to LeavingMap
+[2016.12.11-00.19.34:931][291]LogGameState: Match State Changed from InProgress to LeavingMap
+[2016.12.11-00.19.34:932][291]LogNet: Browse: /Game/Levels/BasicLevel
+[2016.12.11-00.19.34:932][291]LogLoad: LoadMap: /Game/Levels/BasicLevel
+[2016.12.11-00.19.34:998][291]Cmd: MEM
+[2016.12.11-00.19.35:039][291]LogMemory: Platform Memory Stats for Windows
+[2016.12.11-00.19.35:039][291]LogMemory: Process Physical Memory: 1364.41 MB used, 1364.70 MB peak
+[2016.12.11-00.19.35:039][291]LogMemory: Process Virtual Memory: 2073.13 MB used, 2079.12 MB peak
+[2016.12.11-00.19.35:039][291]LogMemory: Physical Memory: 3438.02 MB used, 8075.23 MB total
+[2016.12.11-00.19.35:039][291]LogMemory: Virtual Memory: 2841.78 MB used, 134217728.00 MB total
+[2016.12.11-00.19.35:039][291]LogMemory: 
+[2016.12.11-00.19.35:039][291]Allocator Stats for TBB: (not implemented)
+[2016.12.11-00.19.35:265][291]LogAIModule: Creating AISystem for world BasicLevel
+[2016.12.11-00.19.35:265][291]LogWorld: Game class is 'BattleCardGameMode_C'
+[2016.12.11-00.19.35:269][291]LogWorld: Bringing World /Game/Levels/UEDPIE_0_BasicLevel.BasicLevel up for play (max tick rate 60) at 2016.12.10-19.19.35
+[2016.12.11-00.19.35:270][291]LogWorld: Bringing up level for play took: 0.003804
+[2016.12.11-00.19.35:271][291]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2016.12.11-00.19.35:271][291]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.11-00.19.35:271][291]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.11-00.19.35:271][291]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.11-00.19.35:272][291]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.11-00.19.35:272][291]LogLoad: Took 0.340737 seconds to LoadMap(/Game/Levels/BasicLevel)
+[2016.12.11-00.19.35:296][292]LogBlueprintUserMessages: [Deck_C_0] 1
+[2016.12.11-00.19.35:296][292]LogBlueprintUserMessages: [Deck_C_1] 0
+[2016.12.11-00.19.54:999][732]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Empty.Empty:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Empty.Empty:PersistentLevel.Empty' with GeneratedClass '/Game/Levels/Empty.Empty_C' with ClassGeneratedBy '/Game/Levels/Empty.Empty:PersistentLevel.Empty'
+[2016.12.11-00.19.55:032][732]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Empty.Empty:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Empty.Empty:PersistentLevel.Empty' with GeneratedClass '/Game/Levels/Empty.Empty_C' with ClassGeneratedBy '/Game/Levels/Empty.Empty:PersistentLevel.Empty'
+[2016.12.11-00.20.17:787][965]BlueprintLog: New page: Compile Red_Particle
+[2016.12.11-00.20.19:143][ 29]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Empty.Empty:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Empty.Empty:PersistentLevel.Empty' with GeneratedClass '/Game/Levels/Empty.Empty_C' with ClassGeneratedBy '/Game/Levels/Empty.Empty:PersistentLevel.Empty'
+[2016.12.11-00.20.19:144][ 29]BlueprintLog: New page: Pre-Play auto-recompile
+[2016.12.11-00.20.19:144][ 29]LogPlayLevel: [PlayLevel] Compiling BattleCardGameState before play...
+[2016.12.11-00.20.20:076][ 29]LogPlayLevel: PlayLevel: Blueprint regeneration took 931 ms (1 blueprints)
+[2016.12.11-00.20.20:076][ 29]PIE: New page: PIE session: Empty (Dec 10, 2016, 2:20:20 PM)
+[2016.12.11-00.20.20:077][ 29]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Empty
+[2016.12.11-00.20.20:079][ 29]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001202s)
+[2016.12.11-00.20.20:079][ 29]LogAIModule: Creating AISystem for world Empty
+[2016.12.11-00.20.20:079][ 29]LogPlayLevel: PIE: World Init took: (0.000915s)
+[2016.12.11-00.20.20:080][ 29]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Empty.Empty to /Game/Levels/UEDPIE_0_Empty.Empty (0.002377s)
+[2016.12.11-00.20.20:129][ 29]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.12.11-00.20.20:138][ 29]LogInit: FAudioDevice initialized.
+[2016.12.11-00.20.20:177][ 29]LogWorld: Game class is 'BattleCardGameMode_C'
+[2016.12.11-00.20.20:179][ 29]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Empty.Empty up for play (max tick rate 60) at 2016.12.10-19.20.20
+[2016.12.11-00.20.20:180][ 29]LogWorld: Bringing up level for play took: 0.001364
+[2016.12.11-00.20.20:180][ 29]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2016.12.11-00.20.20:181][ 29]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.11-00.20.20:181][ 29]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.11-00.20.20:181][ 29]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.11-00.20.20:182][ 29]Cmd: r.setRes 1280x720
+[2016.12.11-00.20.20:182][ 29]r.SetRes = "1280x720"
+[2016.12.11-00.20.20:183][ 29]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.11-00.20.20:185][ 29]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Empty 1.592
+[2016.12.11-00.20.20:185][ 29]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Empty.Empty:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Empty.Empty:PersistentLevel.Empty' with GeneratedClass '/Game/Levels/Empty.Empty_C' with ClassGeneratedBy '/Game/Levels/Empty.Empty:PersistentLevel.Empty'
+[2016.12.11-00.20.21:766][ 97]LogGameMode:Display: Match State Changed from InProgress to LeavingMap
+[2016.12.11-00.20.21:767][ 97]LogGameState: Match State Changed from InProgress to LeavingMap
+[2016.12.11-00.20.21:767][ 97]LogNet: Browse: /Game/Levels/BasicLevel
+[2016.12.11-00.20.21:767][ 97]LogLoad: LoadMap: /Game/Levels/BasicLevel
+[2016.12.11-00.20.21:828][ 97]Cmd: MEM
+[2016.12.11-00.20.21:868][ 97]LogMemory: Platform Memory Stats for Windows
+[2016.12.11-00.20.21:868][ 97]LogMemory: Process Physical Memory: 1370.12 MB used, 1403.12 MB peak
+[2016.12.11-00.20.21:868][ 97]LogMemory: Process Virtual Memory: 2065.45 MB used, 2168.11 MB peak
+[2016.12.11-00.20.21:868][ 97]LogMemory: Physical Memory: 3444.76 MB used, 8075.23 MB total
+[2016.12.11-00.20.21:868][ 97]LogMemory: Virtual Memory: 2833.79 MB used, 134217728.00 MB total
+[2016.12.11-00.20.21:868][ 97]LogMemory: 
+[2016.12.11-00.20.21:868][ 97]Allocator Stats for TBB: (not implemented)
+[2016.12.11-00.20.22:067][ 97]LogAIModule: Creating AISystem for world BasicLevel
+[2016.12.11-00.20.22:068][ 97]LogWorld: Game class is 'BattleCardGameMode_C'
+[2016.12.11-00.20.22:072][ 97]LogWorld: Bringing World /Game/Levels/UEDPIE_0_BasicLevel.BasicLevel up for play (max tick rate 60) at 2016.12.10-19.20.22
+[2016.12.11-00.20.22:072][ 97]LogWorld: Bringing up level for play took: 0.003489
+[2016.12.11-00.20.22:073][ 97]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2016.12.11-00.20.22:073][ 97]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.11-00.20.22:073][ 97]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.11-00.20.22:073][ 97]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.11-00.20.22:074][ 97]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.11-00.20.22:074][ 97]LogLoad: Took 0.307693 seconds to LoadMap(/Game/Levels/BasicLevel)
+[2016.12.11-00.20.22:084][ 98]LogBlueprintUserMessages: [Deck_C_0] 1
+[2016.12.11-00.20.22:084][ 98]LogBlueprintUserMessages: [Deck_C_1] 0
+[2016.12.11-00.20.36:703][454]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Empty.Empty:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Empty.Empty:PersistentLevel.Empty' with GeneratedClass '/Game/Levels/Empty.Empty_C' with ClassGeneratedBy '/Game/Levels/Empty.Empty:PersistentLevel.Empty'
+[2016.12.11-00.20.36:734][454]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Empty.Empty:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Empty.Empty:PersistentLevel.Empty' with GeneratedClass '/Game/Levels/Empty.Empty_C' with ClassGeneratedBy '/Game/Levels/Empty.Empty:PersistentLevel.Empty'
+[2016.12.11-00.20.37:593][502]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Empty.Empty:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Empty.Empty:PersistentLevel.Empty' with GeneratedClass '/Game/Levels/Empty.Empty_C' with ClassGeneratedBy '/Game/Levels/Empty.Empty:PersistentLevel.Empty'
+[2016.12.11-00.20.37:594][502]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.11-00.20.37:594][502]PIE: New page: PIE session: Empty (Dec 10, 2016, 2:20:37 PM)
+[2016.12.11-00.20.37:595][502]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Empty
+[2016.12.11-00.20.37:596][502]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000968s)
+[2016.12.11-00.20.37:597][502]LogAIModule: Creating AISystem for world Empty
+[2016.12.11-00.20.37:597][502]LogPlayLevel: PIE: World Init took: (0.000897s)
+[2016.12.11-00.20.37:597][502]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Empty.Empty to /Game/Levels/UEDPIE_0_Empty.Empty (0.002097s)
+[2016.12.11-00.20.37:641][502]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.12.11-00.20.37:648][502]LogInit: FAudioDevice initialized.
+[2016.12.11-00.20.37:685][502]LogWorld: Game class is 'BattleCardGameMode_C'
+[2016.12.11-00.20.37:687][502]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Empty.Empty up for play (max tick rate 60) at 2016.12.10-19.20.37
+[2016.12.11-00.20.37:687][502]LogWorld: Bringing up level for play took: 0.001160
+[2016.12.11-00.20.37:688][502]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2016.12.11-00.20.37:688][502]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.11-00.20.37:688][502]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.11-00.20.37:688][502]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.11-00.20.37:689][502]Cmd: r.setRes 1280x720
+[2016.12.11-00.20.37:689][502]r.SetRes = "1280x720"
+[2016.12.11-00.20.37:690][502]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.11-00.20.37:692][502]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Empty 1.099
+[2016.12.11-00.20.37:692][502]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Empty.Empty:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Empty.Empty:PersistentLevel.Empty' with GeneratedClass '/Game/Levels/Empty.Empty_C' with ClassGeneratedBy '/Game/Levels/Empty.Empty:PersistentLevel.Empty'
+[2016.12.11-00.20.39:383][575]LogGameMode:Display: Match State Changed from InProgress to LeavingMap
+[2016.12.11-00.20.39:383][575]LogGameState: Match State Changed from InProgress to LeavingMap
+[2016.12.11-00.20.39:383][575]LogNet: Browse: /Game/Levels/BasicLevel
+[2016.12.11-00.20.39:383][575]LogLoad: LoadMap: /Game/Levels/BasicLevel
+[2016.12.11-00.20.39:446][575]Cmd: MEM
+[2016.12.11-00.20.39:486][575]LogMemory: Platform Memory Stats for Windows
+[2016.12.11-00.20.39:486][575]LogMemory: Process Physical Memory: 1370.24 MB used, 1405.83 MB peak
+[2016.12.11-00.20.39:486][575]LogMemory: Process Virtual Memory: 2065.68 MB used, 2169.58 MB peak
+[2016.12.11-00.20.39:486][575]LogMemory: Physical Memory: 3439.66 MB used, 8075.23 MB total
+[2016.12.11-00.20.39:486][575]LogMemory: Virtual Memory: 2833.79 MB used, 134217728.00 MB total
+[2016.12.11-00.20.39:486][575]LogMemory: 
+[2016.12.11-00.20.39:486][575]Allocator Stats for TBB: (not implemented)
+[2016.12.11-00.20.39:681][575]LogAIModule: Creating AISystem for world BasicLevel
+[2016.12.11-00.20.39:681][575]LogWorld: Game class is 'BattleCardGameMode_C'
+[2016.12.11-00.20.39:685][575]LogWorld: Bringing World /Game/Levels/UEDPIE_0_BasicLevel.BasicLevel up for play (max tick rate 60) at 2016.12.10-19.20.39
+[2016.12.11-00.20.39:686][575]LogWorld: Bringing up level for play took: 0.003540
+[2016.12.11-00.20.39:686][575]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2016.12.11-00.20.39:687][575]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.11-00.20.39:687][575]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.11-00.20.39:687][575]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.11-00.20.39:688][575]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.11-00.20.39:688][575]LogLoad: Took 0.304747 seconds to LoadMap(/Game/Levels/BasicLevel)
+[2016.12.11-00.20.39:697][576]LogBlueprintUserMessages: [Deck_C_0] 1
+[2016.12.11-00.20.39:697][576]LogBlueprintUserMessages: [Deck_C_1] 0
+[2016.12.11-00.21.02:022][119]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Empty.Empty:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Empty.Empty:PersistentLevel.Empty' with GeneratedClass '/Game/Levels/Empty.Empty_C' with ClassGeneratedBy '/Game/Levels/Empty.Empty:PersistentLevel.Empty'
+[2016.12.11-00.21.02:053][119]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Empty.Empty:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Empty.Empty:PersistentLevel.Empty' with GeneratedClass '/Game/Levels/Empty.Empty_C' with ClassGeneratedBy '/Game/Levels/Empty.Empty:PersistentLevel.Empty'
+[2016.12.11-00.21.51:310][150]LogEditorTransaction: Undo Delete current selection
+[2016.12.11-00.21.52:720][174]LogEditorTransaction: Undo Delete current selection
+[2016.12.11-00.21.53:957][193]LogEditorTransaction: Undo Delete current selection
+[2016.12.11-00.21.55:126][210]LogEditorTransaction: Undo Delete current selection
+[2016.12.11-00.21.56:270][225]LogEditorTransaction: Undo Delete current selection
+[2016.12.11-00.22.16:971][105]LogSavePackage: Save=881.35ms
+[2016.12.11-00.22.16:971][105]LogSavePackage: Moving '../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Saved/BattleCardGameState6C7A22164463AE37EB001E81DA0C4767.tmp' to '../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Blueprints/BattleCardGameState.uasset'
+[2016.12.11-00.22.16:976][105]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Blueprints/BattleCardGameState.uasset
+[2016.12.11-00.22.17:064][105]LogSavePackage: Save=22.35ms
+[2016.12.11-00.22.17:064][105]LogSavePackage: Moving '../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Saved/Red_ParticleC7D9C94F41B2A4EECB68A8BC82A18871.tmp' to '../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Blueprints/Red_Particle.uasset'
+[2016.12.11-00.22.17:070][105]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Blueprints/Red_Particle.uasset
+[2016.12.11-00.22.20:459][228]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Empty.Empty:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Empty.Empty:PersistentLevel.Empty' with GeneratedClass '/Game/Levels/Empty.Empty_C' with ClassGeneratedBy '/Game/Levels/Empty.Empty:PersistentLevel.Empty'
+[2016.12.11-00.22.20:459][228]BlueprintLog: New page: Pre-Play auto-recompile
+[2016.12.11-00.22.20:459][228]LogPlayLevel: [PlayLevel] Compiling BattleCardGameState before play...
+[2016.12.11-00.22.21:452][228]LogPlayLevel: PlayLevel: Blueprint regeneration took 992 ms (1 blueprints)
+[2016.12.11-00.22.21:453][228]PIE: New page: PIE session: Empty (Dec 10, 2016, 2:22:21 PM)
+[2016.12.11-00.22.21:454][228]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Empty
+[2016.12.11-00.22.21:455][228]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001152s)
+[2016.12.11-00.22.21:456][228]LogAIModule: Creating AISystem for world Empty
+[2016.12.11-00.22.21:456][228]LogPlayLevel: PIE: World Init took: (0.000860s)
+[2016.12.11-00.22.21:456][228]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Empty.Empty to /Game/Levels/UEDPIE_0_Empty.Empty (0.002254s)
+[2016.12.11-00.22.21:508][228]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.12.11-00.22.21:517][228]LogInit: FAudioDevice initialized.
+[2016.12.11-00.22.21:610][228]LogWorld: Game class is 'BattleCardGameMode_C'
+[2016.12.11-00.22.21:611][228]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Empty.Empty up for play (max tick rate 60) at 2016.12.10-19.22.21
+[2016.12.11-00.22.21:611][228]LogWorld: Bringing up level for play took: 0.001182
+[2016.12.11-00.22.21:612][228]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2016.12.11-00.22.21:613][228]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.11-00.22.21:613][228]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.11-00.22.21:613][228]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.11-00.22.21:614][228]Cmd: r.setRes 1280x720
+[2016.12.11-00.22.21:614][228]r.SetRes = "1280x720"
+[2016.12.11-00.22.21:616][228]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.11-00.22.21:650][228]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Empty 1.057
+[2016.12.11-00.22.21:651][228]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Empty.Empty:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Empty.Empty:PersistentLevel.Empty' with GeneratedClass '/Game/Levels/Empty.Empty_C' with ClassGeneratedBy '/Game/Levels/Empty.Empty:PersistentLevel.Empty'
+[2016.12.11-00.22.23:371][269]LogGameMode:Display: Match State Changed from InProgress to LeavingMap
+[2016.12.11-00.22.23:371][269]LogGameState: Match State Changed from InProgress to LeavingMap
+[2016.12.11-00.22.23:371][269]LogNet: Browse: /Game/Levels/BasicLevel
+[2016.12.11-00.22.23:371][269]LogLoad: LoadMap: /Game/Levels/BasicLevel
+[2016.12.11-00.22.23:439][269]Cmd: MEM
+[2016.12.11-00.22.23:482][269]LogMemory: Platform Memory Stats for Windows
+[2016.12.11-00.22.23:482][269]LogMemory: Process Physical Memory: 1378.91 MB used, 1405.88 MB peak
+[2016.12.11-00.22.23:482][269]LogMemory: Process Virtual Memory: 2074.36 MB used, 2169.82 MB peak
+[2016.12.11-00.22.23:482][269]LogMemory: Physical Memory: 3450.73 MB used, 8075.23 MB total
+[2016.12.11-00.22.23:482][269]LogMemory: Virtual Memory: 2841.78 MB used, 134217728.00 MB total
+[2016.12.11-00.22.23:482][269]LogMemory: 
+[2016.12.11-00.22.23:483][269]Allocator Stats for TBB: (not implemented)
+[2016.12.11-00.22.23:704][269]LogAIModule: Creating AISystem for world BasicLevel
+[2016.12.11-00.22.23:704][269]LogWorld: Game class is 'BattleCardGameMode_C'
+[2016.12.11-00.22.23:709][269]LogWorld: Bringing World /Game/Levels/UEDPIE_0_BasicLevel.BasicLevel up for play (max tick rate 60) at 2016.12.10-19.22.23
+[2016.12.11-00.22.23:709][269]LogWorld: Bringing up level for play took: 0.003985
+[2016.12.11-00.22.23:710][269]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2016.12.11-00.22.23:710][269]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.11-00.22.23:710][269]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.11-00.22.23:710][269]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.11-00.22.23:711][269]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.11-00.22.23:711][269]LogLoad: Took 0.340161 seconds to LoadMap(/Game/Levels/BasicLevel)
+[2016.12.11-00.22.23:751][270]LogBlueprintUserMessages: [Deck_C_0] 1
+[2016.12.11-00.22.23:751][270]LogBlueprintUserMessages: [Deck_C_1] 0
+[2016.12.11-00.23.42:973][822]LogAudio:Warning: Detected orphaned looping sound 'Loop1_Cue'.
+[2016.12.11-00.25.47:789][254]LogBlueprintUserMessages: [BattleCardGameState_C_0] Not Enough Mana
+[2016.12.11-00.27.35:843][303]LogGameMode:Display: Match State Changed from InProgress to LeavingMap
+[2016.12.11-00.27.35:843][303]LogGameState: Match State Changed from InProgress to LeavingMap
+[2016.12.11-00.27.35:844][303]LogNet: Browse: /Game/Levels/Empty
+[2016.12.11-00.27.35:844][303]LogLoad: LoadMap: /Game/Levels/Empty
+[2016.12.11-00.27.35:939][303]Cmd: MEM
+[2016.12.11-00.27.35:981][303]LogMemory: Platform Memory Stats for Windows
+[2016.12.11-00.27.35:981][303]LogMemory: Process Physical Memory: 1380.13 MB used, 1414.53 MB peak
+[2016.12.11-00.27.35:981][303]LogMemory: Process Virtual Memory: 2081.21 MB used, 2182.84 MB peak
+[2016.12.11-00.27.35:981][303]LogMemory: Physical Memory: 3444.14 MB used, 8075.23 MB total
+[2016.12.11-00.27.35:981][303]LogMemory: Virtual Memory: 2842.96 MB used, 134217728.00 MB total
+[2016.12.11-00.27.35:981][303]LogMemory: 
+[2016.12.11-00.27.35:981][303]Allocator Stats for TBB: (not implemented)
+[2016.12.11-00.27.35:981][303]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Empty
+[2016.12.11-00.27.35:982][303]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001188s)
+[2016.12.11-00.27.35:983][303]LogAIModule: Creating AISystem for world Empty
+[2016.12.11-00.27.35:983][303]LogPlayLevel: PIE: World Init took: (0.001122s)
+[2016.12.11-00.27.35:983][303]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Empty.Empty to /Game/Levels/UEDPIE_0_Empty.Empty (0.002608s)
+[2016.12.11-00.27.35:983][303]LogWorld: Game class is 'BattleCardGameMode_C'
+[2016.12.11-00.27.35:985][303]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Empty.Empty up for play (max tick rate 60) at 2016.12.10-19.27.35
+[2016.12.11-00.27.35:986][303]LogWorld: Bringing up level for play took: 0.001509
+[2016.12.11-00.27.35:986][303]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2016.12.11-00.27.35:987][303]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.11-00.27.35:987][303]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.11-00.27.35:987][303]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.11-00.27.35:988][303]Cmd: r.setRes 1280x720
+[2016.12.11-00.27.35:988][303]r.SetRes = "1280x720"
+[2016.12.11-00.27.35:989][303]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.11-00.27.35:989][303]LogLoad: Took 0.144057 seconds to LoadMap(/Game/Levels/UEDPIE_0_Empty)
+[2016.12.11-00.27.37:766][350]LogGameMode:Display: Match State Changed from InProgress to LeavingMap
+[2016.12.11-00.27.37:766][350]LogGameState: Match State Changed from InProgress to LeavingMap
+[2016.12.11-00.27.37:767][350]LogNet: Browse: /Game/Levels/BasicLevel
+[2016.12.11-00.27.37:767][350]LogLoad: LoadMap: /Game/Levels/BasicLevel
+[2016.12.11-00.27.37:938][350]Cmd: MEM
+[2016.12.11-00.27.38:014][350]LogMemory: Platform Memory Stats for Windows
+[2016.12.11-00.27.38:014][350]LogMemory: Process Physical Memory: 1380.13 MB used, 1414.53 MB peak
+[2016.12.11-00.27.38:014][350]LogMemory: Process Virtual Memory: 2075.20 MB used, 2182.84 MB peak
+[2016.12.11-00.27.38:014][350]LogMemory: Physical Memory: 3444.13 MB used, 8075.23 MB total
+[2016.12.11-00.27.38:014][350]LogMemory: Virtual Memory: 2836.96 MB used, 134217728.00 MB total
+[2016.12.11-00.27.38:014][350]LogMemory: 
+[2016.12.11-00.27.38:014][350]Allocator Stats for TBB: (not implemented)
+[2016.12.11-00.27.38:260][350]LogAIModule: Creating AISystem for world BasicLevel
+[2016.12.11-00.27.38:261][350]LogWorld: Game class is 'BattleCardGameMode_C'
+[2016.12.11-00.27.38:265][350]LogWorld: Bringing World /Game/Levels/UEDPIE_0_BasicLevel.BasicLevel up for play (max tick rate 60) at 2016.12.10-19.27.38
+[2016.12.11-00.27.38:265][350]LogWorld: Bringing up level for play took: 0.003755
+[2016.12.11-00.27.38:266][350]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2016.12.11-00.27.38:266][350]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.11-00.27.38:266][350]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.11-00.27.38:267][350]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.11-00.27.38:268][350]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.11-00.27.38:268][350]LogLoad: Took 0.501040 seconds to LoadMap(/Game/Levels/BasicLevel)
+[2016.12.11-00.27.38:308][351]LogBlueprintUserMessages: [Deck_C_0] 1
+[2016.12.11-00.27.38:308][351]LogBlueprintUserMessages: [Deck_C_1] 0
+[2016.12.11-00.28.55:601][852]LogBlueprintUserMessages: [BattleCardGameState_C_0] Give that card a turn to get ready
+[2016.12.11-00.28.57:122][881]LogBlueprintUserMessages: [BattleCardGameState_C_0] That card already attacked
+[2016.12.11-00.28.57:500][887]LogAudio:Warning: Detected orphaned looping sound 'Loop1_Cue'.
+[2016.12.11-00.28.58:528][908]LogBlueprintUserMessages: [BattleCardGameState_C_0] That card already attacked
+[2016.12.11-00.30.31:722][705]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Empty.Empty:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Empty.Empty:PersistentLevel.Empty' with GeneratedClass '/Game/Levels/Empty.Empty_C' with ClassGeneratedBy '/Game/Levels/Empty.Empty:PersistentLevel.Empty'
+[2016.12.11-00.30.31:805][705]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Empty.Empty:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Empty.Empty:PersistentLevel.Empty' with GeneratedClass '/Game/Levels/Empty.Empty_C' with ClassGeneratedBy '/Game/Levels/Empty.Empty:PersistentLevel.Empty'
+[2016.12.11-00.31.30:033][115]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Data/CardDatabase" FILE="../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Data/CardDatabase.uasset" SILENT=true
+[2016.12.11-00.31.30:066][115]LogSavePackage: Save=3.29ms
+[2016.12.11-00.31.30:066][115]LogSavePackage: Moving '../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Saved/CardDatabaseA9E63F9C4AFE1E2D7DD0F1BB2E3C78F8.tmp' to '../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Data/CardDatabase.uasset'
+[2016.12.11-00.31.30:069][115]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Data/CardDatabase.uasset
+[2016.12.11-00.31.41:044][749]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Empty.Empty:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Empty.Empty:PersistentLevel.Empty' with GeneratedClass '/Game/Levels/Empty.Empty_C' with ClassGeneratedBy '/Game/Levels/Empty.Empty:PersistentLevel.Empty'
+[2016.12.11-00.31.41:044][749]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.11-00.31.41:045][749]PIE: New page: PIE session: Empty (Dec 10, 2016, 2:31:41 PM)
+[2016.12.11-00.31.41:046][749]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Empty
+[2016.12.11-00.31.41:047][749]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001187s)
+[2016.12.11-00.31.41:048][749]LogAIModule: Creating AISystem for world Empty
+[2016.12.11-00.31.41:049][749]LogPlayLevel: PIE: World Init took: (0.001226s)
+[2016.12.11-00.31.41:049][749]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Empty.Empty to /Game/Levels/UEDPIE_0_Empty.Empty (0.002735s)
+[2016.12.11-00.31.41:103][749]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.12.11-00.31.41:111][749]LogInit: FAudioDevice initialized.
+[2016.12.11-00.31.41:201][749]LogWorld: Game class is 'BattleCardGameMode_C'
+[2016.12.11-00.31.41:203][749]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Empty.Empty up for play (max tick rate 60) at 2016.12.10-19.31.41
+[2016.12.11-00.31.41:204][749]LogWorld: Bringing up level for play took: 0.001296
+[2016.12.11-00.31.41:204][749]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2016.12.11-00.31.41:205][749]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.11-00.31.41:205][749]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.11-00.31.41:205][749]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.11-00.31.41:206][749]Cmd: r.setRes 1280x720
+[2016.12.11-00.31.41:206][749]r.SetRes = "1280x720"
+[2016.12.11-00.31.41:207][749]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.11-00.31.41:242][749]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Empty 0.649
+[2016.12.11-00.31.41:242][749]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Empty.Empty:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Empty.Empty:PersistentLevel.Empty' with GeneratedClass '/Game/Levels/Empty.Empty_C' with ClassGeneratedBy '/Game/Levels/Empty.Empty:PersistentLevel.Empty'
+[2016.12.11-00.31.42:833][791]LogGameMode:Display: Match State Changed from InProgress to LeavingMap
+[2016.12.11-00.31.42:833][791]LogGameState: Match State Changed from InProgress to LeavingMap
+[2016.12.11-00.31.42:833][791]LogNet: Browse: /Game/Levels/BasicLevel
+[2016.12.11-00.31.42:833][791]LogLoad: LoadMap: /Game/Levels/BasicLevel
+[2016.12.11-00.31.42:899][791]Cmd: MEM
+[2016.12.11-00.31.42:939][791]LogMemory: Platform Memory Stats for Windows
+[2016.12.11-00.31.42:939][791]LogMemory: Process Physical Memory: 1381.98 MB used, 1415.56 MB peak
+[2016.12.11-00.31.42:939][791]LogMemory: Process Virtual Memory: 2077.86 MB used, 2184.01 MB peak
+[2016.12.11-00.31.42:939][791]LogMemory: Physical Memory: 3458.01 MB used, 8075.23 MB total
+[2016.12.11-00.31.42:939][791]LogMemory: Virtual Memory: 2848.72 MB used, 134217728.00 MB total
+[2016.12.11-00.31.42:939][791]LogMemory: 
+[2016.12.11-00.31.42:939][791]Allocator Stats for TBB: (not implemented)
+[2016.12.11-00.31.43:137][791]LogAIModule: Creating AISystem for world BasicLevel
+[2016.12.11-00.31.43:138][791]LogWorld: Game class is 'BattleCardGameMode_C'
+[2016.12.11-00.31.43:141][791]LogWorld: Bringing World /Game/Levels/UEDPIE_0_BasicLevel.BasicLevel up for play (max tick rate 60) at 2016.12.10-19.31.43
+[2016.12.11-00.31.43:142][791]LogWorld: Bringing up level for play took: 0.003548
+[2016.12.11-00.31.43:142][791]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2016.12.11-00.31.43:143][791]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.11-00.31.43:143][791]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.11-00.31.43:143][791]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.11-00.31.43:144][791]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.11-00.31.43:144][791]LogLoad: Took 0.310957 seconds to LoadMap(/Game/Levels/BasicLevel)
+[2016.12.11-00.31.43:182][792]LogBlueprintUserMessages: [Deck_C_0] 2
+[2016.12.11-00.31.43:183][792]LogBlueprintUserMessages: [Deck_C_1] 0
+[2016.12.11-00.32.45:432][  3]LogBlueprintUserMessages: [BattleCardGameState_C_0] Give that card a turn to get ready
+[2016.12.11-00.33.02:394][331]LogAudio:Warning: Detected orphaned looping sound 'Loop1_Cue'.
+[2016.12.11-00.34.09:876][619]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Empty.Empty:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Empty.Empty:PersistentLevel.Empty' with GeneratedClass '/Game/Levels/Empty.Empty_C' with ClassGeneratedBy '/Game/Levels/Empty.Empty:PersistentLevel.Empty'
+[2016.12.11-00.34.09:960][619]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Empty.Empty:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Empty.Empty:PersistentLevel.Empty' with GeneratedClass '/Game/Levels/Empty.Empty_C' with ClassGeneratedBy '/Game/Levels/Empty.Empty:PersistentLevel.Empty'
+[2016.12.11-00.34.47:422][789]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Data/CardDatabase" FILE="../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Data/CardDatabase.uasset" SILENT=true
+[2016.12.11-00.34.47:453][789]LogSavePackage: Save=2.78ms
+[2016.12.11-00.34.47:453][789]LogSavePackage: Moving '../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Saved/CardDatabase152FE6924E8B0E689FB6C09597DA336D.tmp' to '../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Data/CardDatabase.uasset'
+[2016.12.11-00.34.47:456][789]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Data/CardDatabase.uasset
+[2016.12.11-00.34.49:168][868]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Empty.Empty:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Empty.Empty:PersistentLevel.Empty' with GeneratedClass '/Game/Levels/Empty.Empty_C' with ClassGeneratedBy '/Game/Levels/Empty.Empty:PersistentLevel.Empty'
+[2016.12.11-00.34.49:168][868]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.11-00.34.49:168][868]PIE: New page: PIE session: Empty (Dec 10, 2016, 2:34:49 PM)
+[2016.12.11-00.34.49:170][868]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Empty
+[2016.12.11-00.34.49:171][868]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001222s)
+[2016.12.11-00.34.49:172][868]LogAIModule: Creating AISystem for world Empty
+[2016.12.11-00.34.49:173][868]LogPlayLevel: PIE: World Init took: (0.001226s)
+[2016.12.11-00.34.49:173][868]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Empty.Empty to /Game/Levels/UEDPIE_0_Empty.Empty (0.002753s)
+[2016.12.11-00.34.49:225][868]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.12.11-00.34.49:233][868]LogInit: FAudioDevice initialized.
+[2016.12.11-00.34.49:326][868]LogWorld: Game class is 'BattleCardGameMode_C'
+[2016.12.11-00.34.49:327][868]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Empty.Empty up for play (max tick rate 60) at 2016.12.10-19.34.49
+[2016.12.11-00.34.49:328][868]LogWorld: Bringing up level for play took: 0.001282
+[2016.12.11-00.34.49:328][868]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2016.12.11-00.34.49:329][868]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.11-00.34.49:329][868]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.11-00.34.49:329][868]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.11-00.34.49:330][868]Cmd: r.setRes 1280x720
+[2016.12.11-00.34.49:330][868]r.SetRes = "1280x720"
+[2016.12.11-00.34.49:331][868]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.11-00.34.49:366][868]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Empty 0.773
+[2016.12.11-00.34.49:366][868]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Empty.Empty:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Empty.Empty:PersistentLevel.Empty' with GeneratedClass '/Game/Levels/Empty.Empty_C' with ClassGeneratedBy '/Game/Levels/Empty.Empty:PersistentLevel.Empty'
+[2016.12.11-00.34.51:979][939]LogGameMode:Display: Match State Changed from InProgress to LeavingMap
+[2016.12.11-00.34.51:979][939]LogGameState: Match State Changed from InProgress to LeavingMap
+[2016.12.11-00.34.51:980][939]LogNet: Browse: /Game/Levels/BasicLevel
+[2016.12.11-00.34.51:980][939]LogLoad: LoadMap: /Game/Levels/BasicLevel
+[2016.12.11-00.34.52:046][939]Cmd: MEM
+[2016.12.11-00.34.52:087][939]LogMemory: Platform Memory Stats for Windows
+[2016.12.11-00.34.52:087][939]LogMemory: Process Physical Memory: 1382.18 MB used, 1417.60 MB peak
+[2016.12.11-00.34.52:087][939]LogMemory: Process Virtual Memory: 2076.97 MB used, 2186.51 MB peak
+[2016.12.11-00.34.52:087][939]LogMemory: Physical Memory: 3450.85 MB used, 8075.23 MB total
+[2016.12.11-00.34.52:087][939]LogMemory: Virtual Memory: 2834.26 MB used, 134217728.00 MB total
+[2016.12.11-00.34.52:087][939]LogMemory: 
+[2016.12.11-00.34.52:087][939]Allocator Stats for TBB: (not implemented)
+[2016.12.11-00.34.52:309][939]LogAIModule: Creating AISystem for world BasicLevel
+[2016.12.11-00.34.52:310][939]LogWorld: Game class is 'BattleCardGameMode_C'
+[2016.12.11-00.34.52:314][939]LogWorld: Bringing World /Game/Levels/UEDPIE_0_BasicLevel.BasicLevel up for play (max tick rate 60) at 2016.12.10-19.34.52
+[2016.12.11-00.34.52:314][939]LogWorld: Bringing up level for play took: 0.003719
+[2016.12.11-00.34.52:315][939]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2016.12.11-00.34.52:316][939]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.11-00.34.52:316][939]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.11-00.34.52:316][939]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.11-00.34.52:317][939]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.11-00.34.52:317][939]LogLoad: Took 0.336592 seconds to LoadMap(/Game/Levels/BasicLevel)
+[2016.12.11-00.34.52:356][940]LogBlueprintUserMessages: [Deck_C_0] 2
+[2016.12.11-00.34.52:356][940]LogBlueprintUserMessages: [Deck_C_1] 0
+[2016.12.11-00.36.11:592][481]LogAudio:Warning: Detected orphaned looping sound 'Loop1_Cue'.
+[2016.12.11-00.37.50:973][399]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Empty.Empty:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Empty.Empty:PersistentLevel.Empty' with GeneratedClass '/Game/Levels/Empty.Empty_C' with ClassGeneratedBy '/Game/Levels/Empty.Empty:PersistentLevel.Empty'
+[2016.12.11-00.37.51:055][399]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Empty.Empty:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Empty.Empty:PersistentLevel.Empty' with GeneratedClass '/Game/Levels/Empty.Empty_C' with ClassGeneratedBy '/Game/Levels/Empty.Empty:PersistentLevel.Empty'
+[2016.12.11-00.37.59:282][818]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Data/CardDatabase" FILE="../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Data/CardDatabase.uasset" SILENT=true
+[2016.12.11-00.37.59:318][818]LogSavePackage: Save=3.93ms
+[2016.12.11-00.37.59:318][818]LogSavePackage: Moving '../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Saved/CardDatabaseFBF4B3CA4B868FE461C1EA9578FAC633.tmp' to '../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Data/CardDatabase.uasset'
+[2016.12.11-00.37.59:321][818]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Data/CardDatabase.uasset
+[2016.12.11-00.37.59:931][839]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Empty.Empty:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Empty.Empty:PersistentLevel.Empty' with GeneratedClass '/Game/Levels/Empty.Empty_C' with ClassGeneratedBy '/Game/Levels/Empty.Empty:PersistentLevel.Empty'
+[2016.12.11-00.37.59:931][839]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.11-00.37.59:931][839]PIE: New page: PIE session: Empty (Dec 10, 2016, 2:37:59 PM)
+[2016.12.11-00.37.59:933][839]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Empty
+[2016.12.11-00.37.59:935][839]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001354s)
+[2016.12.11-00.37.59:936][839]LogAIModule: Creating AISystem for world Empty
+[2016.12.11-00.37.59:936][839]LogPlayLevel: PIE: World Init took: (0.001355s)
+[2016.12.11-00.37.59:936][839]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Empty.Empty to /Game/Levels/UEDPIE_0_Empty.Empty (0.003080s)
+[2016.12.11-00.37.59:993][839]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.12.11-00.38.00:002][839]LogInit: FAudioDevice initialized.
+[2016.12.11-00.38.00:095][839]LogWorld: Game class is 'BattleCardGameMode_C'
+[2016.12.11-00.38.00:097][839]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Empty.Empty up for play (max tick rate 60) at 2016.12.10-19.38.00
+[2016.12.11-00.38.00:097][839]LogWorld: Bringing up level for play took: 0.001244
+[2016.12.11-00.38.00:098][839]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2016.12.11-00.38.00:098][839]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.11-00.38.00:098][839]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.11-00.38.00:098][839]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.11-00.38.00:100][839]Cmd: r.setRes 1280x720
+[2016.12.11-00.38.00:100][839]r.SetRes = "1280x720"
+[2016.12.11-00.38.00:101][839]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.11-00.38.00:135][839]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Empty -0.458
+[2016.12.11-00.38.00:136][839]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Empty.Empty:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Empty.Empty:PersistentLevel.Empty' with GeneratedClass '/Game/Levels/Empty.Empty_C' with ClassGeneratedBy '/Game/Levels/Empty.Empty:PersistentLevel.Empty'
+[2016.12.11-00.38.03:434][922]LogGameMode:Display: Match State Changed from InProgress to LeavingMap
+[2016.12.11-00.38.03:434][922]LogGameState: Match State Changed from InProgress to LeavingMap
+[2016.12.11-00.38.03:435][922]LogNet: Browse: /Game/Levels/BasicLevel
+[2016.12.11-00.38.03:435][922]LogLoad: LoadMap: /Game/Levels/BasicLevel
+[2016.12.11-00.38.03:554][922]Cmd: MEM
+[2016.12.11-00.38.03:620][922]LogMemory: Platform Memory Stats for Windows
+[2016.12.11-00.38.03:620][922]LogMemory: Process Physical Memory: 1382.41 MB used, 1417.80 MB peak
+[2016.12.11-00.38.03:620][922]LogMemory: Process Virtual Memory: 2077.28 MB used, 2186.51 MB peak
+[2016.12.11-00.38.03:620][922]LogMemory: Physical Memory: 3481.04 MB used, 8075.23 MB total
+[2016.12.11-00.38.03:620][922]LogMemory: Virtual Memory: 2848.72 MB used, 134217728.00 MB total
+[2016.12.11-00.38.03:620][922]LogMemory: 
+[2016.12.11-00.38.03:620][922]Allocator Stats for TBB: (not implemented)
+[2016.12.11-00.38.03:859][922]LogAIModule: Creating AISystem for world BasicLevel
+[2016.12.11-00.38.03:859][922]LogWorld: Game class is 'BattleCardGameMode_C'
+[2016.12.11-00.38.03:863][922]LogWorld: Bringing World /Game/Levels/UEDPIE_0_BasicLevel.BasicLevel up for play (max tick rate 60) at 2016.12.10-19.38.03
+[2016.12.11-00.38.03:864][922]LogWorld: Bringing up level for play took: 0.004058
+[2016.12.11-00.38.03:864][922]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2016.12.11-00.38.03:865][922]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.11-00.38.03:865][922]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.11-00.38.03:865][922]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.11-00.38.03:867][922]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.11-00.38.03:867][922]LogLoad: Took 0.432025 seconds to LoadMap(/Game/Levels/BasicLevel)
+[2016.12.11-00.38.03:908][923]LogBlueprintUserMessages: [Deck_C_0] 2
+[2016.12.11-00.38.03:908][923]LogBlueprintUserMessages: [Deck_C_1] 0
+[2016.12.11-00.38.58:209][983]LogBlueprintUserMessages: [BattleCardGameState_C_0] Give that card a turn to get ready
+[2016.12.11-00.39.23:104][460]LogAudio:Warning: Detected orphaned looping sound 'Loop1_Cue'.
+[2016.12.11-00.40.17:865][512]LogBlueprintUserMessages: [BattleCardGameState_C_0] Give that card a turn to get ready
+[2016.12.11-00.41.56:975][423]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Empty.Empty:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Empty.Empty:PersistentLevel.Empty' with GeneratedClass '/Game/Levels/Empty.Empty_C' with ClassGeneratedBy '/Game/Levels/Empty.Empty:PersistentLevel.Empty'
+[2016.12.11-00.41.57:062][423]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Empty.Empty:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Empty.Empty:PersistentLevel.Empty' with GeneratedClass '/Game/Levels/Empty.Empty_C' with ClassGeneratedBy '/Game/Levels/Empty.Empty:PersistentLevel.Empty'
+[2016.12.11-00.42.16:576][540]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Data/CardDatabase" FILE="../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Data/CardDatabase.uasset" SILENT=true
+[2016.12.11-00.42.16:607][540]LogSavePackage: Save=2.90ms
+[2016.12.11-00.42.16:607][540]LogSavePackage: Moving '../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Saved/CardDatabase4C1E4C46425303962A67258CA2E66A92.tmp' to '../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Data/CardDatabase.uasset'
+[2016.12.11-00.42.16:610][540]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Data/CardDatabase.uasset
+[2016.12.11-00.42.18:542][620]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Empty.Empty:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Empty.Empty:PersistentLevel.Empty' with GeneratedClass '/Game/Levels/Empty.Empty_C' with ClassGeneratedBy '/Game/Levels/Empty.Empty:PersistentLevel.Empty'
+[2016.12.11-00.42.18:542][620]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.11-00.42.18:543][620]PIE: New page: PIE session: Empty (Dec 10, 2016, 2:42:18 PM)
+[2016.12.11-00.42.18:547][620]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Empty
+[2016.12.11-00.42.18:549][620]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002583s)
+[2016.12.11-00.42.18:551][620]LogAIModule: Creating AISystem for world Empty
+[2016.12.11-00.42.18:551][620]LogPlayLevel: PIE: World Init took: (0.001825s)
+[2016.12.11-00.42.18:552][620]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Empty.Empty to /Game/Levels/UEDPIE_0_Empty.Empty (0.004966s)
+[2016.12.11-00.42.18:634][620]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.12.11-00.42.18:645][620]LogInit: FAudioDevice initialized.
+[2016.12.11-00.42.18:747][620]LogWorld: Game class is 'BattleCardGameMode_C'
+[2016.12.11-00.42.18:748][620]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Empty.Empty up for play (max tick rate 60) at 2016.12.10-19.42.18
+[2016.12.11-00.42.18:749][620]LogWorld: Bringing up level for play took: 0.001335
+[2016.12.11-00.42.18:750][620]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2016.12.11-00.42.18:750][620]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.11-00.42.18:750][620]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.11-00.42.18:750][620]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.11-00.42.18:751][620]Cmd: r.setRes 1280x720
+[2016.12.11-00.42.18:751][620]r.SetRes = "1280x720"
+[2016.12.11-00.42.18:753][620]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.11-00.42.18:789][620]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Empty 0.197
+[2016.12.11-00.42.18:790][620]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Empty.Empty:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Empty.Empty:PersistentLevel.Empty' with GeneratedClass '/Game/Levels/Empty.Empty_C' with ClassGeneratedBy '/Game/Levels/Empty.Empty:PersistentLevel.Empty'
+[2016.12.11-00.42.20:447][663]LogGameMode:Display: Match State Changed from InProgress to LeavingMap
+[2016.12.11-00.42.20:447][663]LogGameState: Match State Changed from InProgress to LeavingMap
+[2016.12.11-00.42.20:448][663]LogNet: Browse: /Game/Levels/BasicLevel
+[2016.12.11-00.42.20:448][663]LogLoad: LoadMap: /Game/Levels/BasicLevel
+[2016.12.11-00.42.20:518][663]Cmd: MEM
+[2016.12.11-00.42.20:565][663]LogMemory: Platform Memory Stats for Windows
+[2016.12.11-00.42.20:565][663]LogMemory: Process Physical Memory: 1378.26 MB used, 1417.90 MB peak
+[2016.12.11-00.42.20:565][663]LogMemory: Process Virtual Memory: 2073.05 MB used, 2186.51 MB peak
+[2016.12.11-00.42.20:565][663]LogMemory: Physical Memory: 3471.93 MB used, 8075.23 MB total
+[2016.12.11-00.42.20:565][663]LogMemory: Virtual Memory: 2839.84 MB used, 134217728.00 MB total
+[2016.12.11-00.42.20:565][663]LogMemory: 
+[2016.12.11-00.42.20:565][663]Allocator Stats for TBB: (not implemented)
+[2016.12.11-00.42.20:791][663]LogAIModule: Creating AISystem for world BasicLevel
+[2016.12.11-00.42.20:791][663]LogWorld: Game class is 'BattleCardGameMode_C'
+[2016.12.11-00.42.20:795][663]LogWorld: Bringing World /Game/Levels/UEDPIE_0_BasicLevel.BasicLevel up for play (max tick rate 60) at 2016.12.10-19.42.20
+[2016.12.11-00.42.20:796][663]LogWorld: Bringing up level for play took: 0.003695
+[2016.12.11-00.42.20:796][663]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2016.12.11-00.42.20:797][663]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.11-00.42.20:797][663]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.11-00.42.20:797][663]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.11-00.42.20:798][663]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.11-00.42.20:798][663]LogLoad: Took 0.349524 seconds to LoadMap(/Game/Levels/BasicLevel)
+[2016.12.11-00.42.20:839][664]LogBlueprintUserMessages: [Deck_C_0] 2
+[2016.12.11-00.42.20:839][664]LogBlueprintUserMessages: [Deck_C_1] 0
+[2016.12.11-00.43.40:077][192]LogAudio:Warning: Detected orphaned looping sound 'Loop1_Cue'.
+[2016.12.11-00.44.10:743][773]LogBlueprintUserMessages: [BattleCardGameState_C_0] Give that card a turn to get ready
+[2016.12.11-00.44.50:867][540]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Empty.Empty:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Empty.Empty:PersistentLevel.Empty' with GeneratedClass '/Game/Levels/Empty.Empty_C' with ClassGeneratedBy '/Game/Levels/Empty.Empty:PersistentLevel.Empty'
+[2016.12.11-00.44.50:954][540]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Empty.Empty:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Empty.Empty:PersistentLevel.Empty' with GeneratedClass '/Game/Levels/Empty.Empty_C' with ClassGeneratedBy '/Game/Levels/Empty.Empty:PersistentLevel.Empty'
+[2016.12.11-00.46.05:160][512]LogSavePackage: Save=910.44ms
+[2016.12.11-00.46.05:160][512]LogSavePackage: Moving '../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Saved/BattleCardGameStateD1E13A91459F3028975899AF1EA949AB.tmp' to '../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Blueprints/BattleCardGameState.uasset'
+[2016.12.11-00.46.05:164][512]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Blueprints/BattleCardGameState.uasset
+[2016.12.11-00.46.50:959][ 29]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Empty.Empty:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Empty.Empty:PersistentLevel.Empty' with GeneratedClass '/Game/Levels/Empty.Empty_C' with ClassGeneratedBy '/Game/Levels/Empty.Empty:PersistentLevel.Empty'
+[2016.12.11-00.46.50:959][ 29]BlueprintLog: New page: Pre-Play auto-recompile
+[2016.12.11-00.46.50:959][ 29]LogPlayLevel: [PlayLevel] Compiling BattleCardGameState before play...
+[2016.12.11-00.46.51:979][ 29]LogPlayLevel: PlayLevel: Blueprint regeneration took 1019 ms (1 blueprints)
+[2016.12.11-00.46.51:979][ 29]PIE: New page: PIE session: Empty (Dec 10, 2016, 2:46:51 PM)
+[2016.12.11-00.46.51:980][ 29]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Empty
+[2016.12.11-00.46.51:982][ 29]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001193s)
+[2016.12.11-00.46.51:983][ 29]LogAIModule: Creating AISystem for world Empty
+[2016.12.11-00.46.51:983][ 29]LogPlayLevel: PIE: World Init took: (0.001259s)
+[2016.12.11-00.46.51:983][ 29]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Empty.Empty to /Game/Levels/UEDPIE_0_Empty.Empty (0.002718s)
+[2016.12.11-00.46.52:036][ 29]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.12.11-00.46.52:045][ 29]LogInit: FAudioDevice initialized.
+[2016.12.11-00.46.52:088][ 29]LogWorld: Game class is 'BattleCardGameMode_C'
+[2016.12.11-00.46.52:089][ 29]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Empty.Empty up for play (max tick rate 60) at 2016.12.10-19.46.52
+[2016.12.11-00.46.52:090][ 29]LogWorld: Bringing up level for play took: 0.001331
+[2016.12.11-00.46.52:090][ 29]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2016.12.11-00.46.52:091][ 29]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.11-00.46.52:091][ 29]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.11-00.46.52:091][ 29]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.11-00.46.52:092][ 29]Cmd: r.setRes 1280x720
+[2016.12.11-00.46.52:092][ 29]r.SetRes = "1280x720"
+[2016.12.11-00.46.52:093][ 29]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.11-00.46.52:098][ 29]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Empty 1.506
+[2016.12.11-00.46.52:098][ 29]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Empty.Empty:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Empty.Empty:PersistentLevel.Empty' with GeneratedClass '/Game/Levels/Empty.Empty_C' with ClassGeneratedBy '/Game/Levels/Empty.Empty:PersistentLevel.Empty'
+[2016.12.11-00.46.53:769][ 93]LogGameMode:Display: Match State Changed from InProgress to LeavingMap
+[2016.12.11-00.46.53:769][ 93]LogGameState: Match State Changed from InProgress to LeavingMap
+[2016.12.11-00.46.53:770][ 93]LogNet: Browse: /Game/Levels/BasicLevel
+[2016.12.11-00.46.53:770][ 93]LogLoad: LoadMap: /Game/Levels/BasicLevel
+[2016.12.11-00.46.53:834][ 93]Cmd: MEM
+[2016.12.11-00.46.53:876][ 93]LogMemory: Platform Memory Stats for Windows
+[2016.12.11-00.46.53:877][ 93]LogMemory: Process Physical Memory: 1412.99 MB used, 1417.90 MB peak
+[2016.12.11-00.46.53:877][ 93]LogMemory: Process Virtual Memory: 2121.21 MB used, 2186.51 MB peak
+[2016.12.11-00.46.53:877][ 93]LogMemory: Physical Memory: 3508.77 MB used, 8075.23 MB total
+[2016.12.11-00.46.53:877][ 93]LogMemory: Virtual Memory: 2887.90 MB used, 134217728.00 MB total
+[2016.12.11-00.46.53:877][ 93]LogMemory: 
+[2016.12.11-00.46.53:877][ 93]Allocator Stats for TBB: (not implemented)
+[2016.12.11-00.46.54:089][ 93]LogAIModule: Creating AISystem for world BasicLevel
+[2016.12.11-00.46.54:089][ 93]LogWorld: Game class is 'BattleCardGameMode_C'
+[2016.12.11-00.46.54:093][ 93]LogWorld: Bringing World /Game/Levels/UEDPIE_0_BasicLevel.BasicLevel up for play (max tick rate 60) at 2016.12.10-19.46.54
+[2016.12.11-00.46.54:093][ 93]LogWorld: Bringing up level for play took: 0.003695
+[2016.12.11-00.46.54:094][ 93]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2016.12.11-00.46.54:094][ 93]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.11-00.46.54:095][ 93]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.11-00.46.54:095][ 93]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.11-00.46.54:096][ 93]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.11-00.46.54:096][ 93]LogLoad: Took 0.326186 seconds to LoadMap(/Game/Levels/BasicLevel)
+[2016.12.11-00.46.54:111][ 94]LogBlueprintUserMessages: [Deck_C_0] 2
+[2016.12.11-00.46.54:111][ 94]LogBlueprintUserMessages: [Deck_C_1] 0
+[2016.12.11-00.48.13:254][777]LogAudio:Warning: Detected orphaned looping sound 'Loop1_Cue'.
+[2016.12.11-00.50.19:012][719]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Empty.Empty:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Empty.Empty:PersistentLevel.Empty' with GeneratedClass '/Game/Levels/Empty.Empty_C' with ClassGeneratedBy '/Game/Levels/Empty.Empty:PersistentLevel.Empty'
+[2016.12.11-00.50.19:087][719]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Empty.Empty:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Empty.Empty:PersistentLevel.Empty' with GeneratedClass '/Game/Levels/Empty.Empty_C' with ClassGeneratedBy '/Game/Levels/Empty.Empty:PersistentLevel.Empty'
+[2016.12.11-00.51.13:344][835]LogSavePackage: Save=854.30ms
+[2016.12.11-00.51.13:344][835]LogSavePackage: Moving '../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Saved/BattleCardGameState4684518D42321353D242B182EC713ADC.tmp' to '../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Blueprints/BattleCardGameState.uasset'
+[2016.12.11-00.51.13:348][835]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Blueprints/BattleCardGameState.uasset
+[2016.12.11-00.51.13:353][835]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Data/CardDatabase" FILE="../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Data/CardDatabase.uasset" SILENT=true
+[2016.12.11-00.51.13:387][835]LogSavePackage: Save=4.61ms
+[2016.12.11-00.51.13:387][835]LogSavePackage: Moving '../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Saved/CardDatabase6D800DA443364969D178C9A66147C8CB.tmp' to '../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Data/CardDatabase.uasset'
+[2016.12.11-00.51.13:391][835]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Data/CardDatabase.uasset
+[2016.12.11-00.51.15:537][960]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Empty.Empty:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Empty.Empty:PersistentLevel.Empty' with GeneratedClass '/Game/Levels/Empty.Empty_C' with ClassGeneratedBy '/Game/Levels/Empty.Empty:PersistentLevel.Empty'
+[2016.12.11-00.51.15:537][960]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.11-00.51.15:538][960]PIE: New page: PIE session: Empty (Dec 10, 2016, 2:51:15 PM)
+[2016.12.11-00.51.15:540][960]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Empty
+[2016.12.11-00.51.15:542][960]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001963s)
+[2016.12.11-00.51.15:543][960]LogAIModule: Creating AISystem for world Empty
+[2016.12.11-00.51.15:544][960]LogPlayLevel: PIE: World Init took: (0.001541s)
+[2016.12.11-00.51.15:544][960]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Empty.Empty to /Game/Levels/UEDPIE_0_Empty.Empty (0.003921s)
+[2016.12.11-00.51.15:607][960]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.12.11-00.51.15:615][960]LogInit: FAudioDevice initialized.
+[2016.12.11-00.51.15:653][960]LogWorld: Game class is 'BattleCardGameMode_C'
+[2016.12.11-00.51.15:656][960]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Empty.Empty up for play (max tick rate 60) at 2016.12.10-19.51.15
+[2016.12.11-00.51.15:657][960]LogWorld: Bringing up level for play took: 0.001927
+[2016.12.11-00.51.15:658][960]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2016.12.11-00.51.15:658][960]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.11-00.51.15:658][960]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.11-00.51.15:658][960]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.11-00.51.15:660][960]Cmd: r.setRes 1280x720
+[2016.12.11-00.51.15:660][960]r.SetRes = "1280x720"
+[2016.12.11-00.51.15:661][960]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.11-00.51.15:666][960]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Empty 1.073
+[2016.12.11-00.51.15:666][960]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Empty.Empty:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Empty.Empty:PersistentLevel.Empty' with GeneratedClass '/Game/Levels/Empty.Empty_C' with ClassGeneratedBy '/Game/Levels/Empty.Empty:PersistentLevel.Empty'
+[2016.12.11-00.51.17:530][ 35]LogGameMode:Display: Match State Changed from InProgress to LeavingMap
+[2016.12.11-00.51.17:530][ 35]LogGameState: Match State Changed from InProgress to LeavingMap
+[2016.12.11-00.51.17:531][ 35]LogNet: Browse: /Game/Levels/BasicLevel
+[2016.12.11-00.51.17:531][ 35]LogLoad: LoadMap: /Game/Levels/BasicLevel
+[2016.12.11-00.51.17:598][ 35]Cmd: MEM
+[2016.12.11-00.51.17:638][ 35]LogMemory: Platform Memory Stats for Windows
+[2016.12.11-00.51.17:638][ 35]LogMemory: Process Physical Memory: 1413.80 MB used, 1448.48 MB peak
+[2016.12.11-00.51.17:638][ 35]LogMemory: Process Virtual Memory: 2109.13 MB used, 2213.09 MB peak
+[2016.12.11-00.51.17:638][ 35]LogMemory: Physical Memory: 3511.51 MB used, 8075.23 MB total
+[2016.12.11-00.51.17:638][ 35]LogMemory: Virtual Memory: 2871.09 MB used, 134217728.00 MB total
+[2016.12.11-00.51.17:638][ 35]LogMemory: 
+[2016.12.11-00.51.17:638][ 35]Allocator Stats for TBB: (not implemented)
+[2016.12.11-00.51.17:851][ 35]LogAIModule: Creating AISystem for world BasicLevel
+[2016.12.11-00.51.17:852][ 35]LogWorld: Game class is 'BattleCardGameMode_C'
+[2016.12.11-00.51.17:857][ 35]LogWorld: Bringing World /Game/Levels/UEDPIE_0_BasicLevel.BasicLevel up for play (max tick rate 60) at 2016.12.10-19.51.17
+[2016.12.11-00.51.17:857][ 35]LogWorld: Bringing up level for play took: 0.004840
+[2016.12.11-00.51.17:858][ 35]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2016.12.11-00.51.17:858][ 35]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.11-00.51.17:858][ 35]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.11-00.51.17:858][ 35]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.11-00.51.17:860][ 35]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.11-00.51.17:860][ 35]LogLoad: Took 0.329271 seconds to LoadMap(/Game/Levels/BasicLevel)
+[2016.12.11-00.51.17:875][ 36]LogBlueprintUserMessages: [Deck_C_0] 2
+[2016.12.11-00.51.17:875][ 36]LogBlueprintUserMessages: [Deck_C_1] 0
+[2016.12.11-00.51.33:800][416]LogBlueprintUserMessages: [BattleCardGameState_C_0] Give that card a turn to get ready
+[2016.12.11-00.52.37:043][904]LogAudio:Warning: Detected orphaned looping sound 'Loop1_Cue'.
+[2016.12.11-00.52.37:634][918]LogBlueprintUserMessages: [BattleCardGameState_C_0] That card already attacked
+[2016.12.11-00.52.52:678][268]LogScript:Warning: Attempted to access Red_Particle_C_39 via property CallFunc_FinishSpawningActor_ReturnValue7, but Red_Particle_C_39 is pending kill
+	BattleCardGameState_C /Game/Levels/UEDPIE_0_BasicLevel.BasicLevel:PersistentLevel.BattleCardGameState_C_0
+	Function /Game/Blueprints/BattleCardGameState.BattleCardGameState_C:ExecuteUbergraph_BattleCardGameState:006B
+[2016.12.11-00.52.52:678][268]PIE:Error: Error Blueprint Runtime Error: Attempted to access Red_Particle_C_39 via property CallFunc_FinishSpawningActor_ReturnValue7, but Red_Particle_C_39 is pending kill from function: 'ExecuteUbergraph_BattleCardGameState' from node: DestroyActor in graph: EventGraph in object: BattleCardGameState with description: Attempted to access Red_Particle_C_39 via property CallFunc_FinishSpawningActor_ReturnValue7, but Red_Particle_C_39 is pending kill
+[2016.12.11-00.52.57:088][370]LogScript:Warning: Attempted to access Red_Particle_C_45 via property CallFunc_FinishSpawningActor_ReturnValue7, but Red_Particle_C_45 is pending kill
+	BattleCardGameState_C /Game/Levels/UEDPIE_0_BasicLevel.BasicLevel:PersistentLevel.BattleCardGameState_C_0
+	Function /Game/Blueprints/BattleCardGameState.BattleCardGameState_C:ExecuteUbergraph_BattleCardGameState:006B
+[2016.12.11-00.52.57:089][370]PIE:Error: Error Blueprint Runtime Error: Attempted to access Red_Particle_C_45 via property CallFunc_FinishSpawningActor_ReturnValue7, but Red_Particle_C_45 is pending kill from function: 'ExecuteUbergraph_BattleCardGameState' from node: DestroyActor in graph: EventGraph in object: BattleCardGameState with description: Attempted to access Red_Particle_C_45 via property CallFunc_FinishSpawningActor_ReturnValue7, but Red_Particle_C_45 is pending kill
+[2016.12.11-00.53.40:682][384]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Empty.Empty:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Empty.Empty:PersistentLevel.Empty' with GeneratedClass '/Game/Levels/Empty.Empty_C' with ClassGeneratedBy '/Game/Levels/Empty.Empty:PersistentLevel.Empty'
+[2016.12.11-00.53.40:762][384]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Empty.Empty:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Empty.Empty:PersistentLevel.Empty' with GeneratedClass '/Game/Levels/Empty.Empty_C' with ClassGeneratedBy '/Game/Levels/Empty.Empty:PersistentLevel.Empty'
+[2016.12.11-00.54.16:257][ 94]LogSavePackage: Save=868.96ms
+[2016.12.11-00.54.16:258][ 94]LogSavePackage: Moving '../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Saved/BattleCardGameState34BF54FB43118E1B26B715811685C69E.tmp' to '../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Blueprints/BattleCardGameState.uasset'
+[2016.12.11-00.54.16:263][ 94]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Blueprints/BattleCardGameState.uasset
+[2016.12.11-00.54.51:160][ 24]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Data/CardDatabase" FILE="../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Data/CardDatabase.uasset" SILENT=true
+[2016.12.11-00.54.51:189][ 24]LogSavePackage: Save=2.67ms
+[2016.12.11-00.54.51:189][ 24]LogSavePackage: Moving '../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Saved/CardDatabaseE6478A83405A2B65CBAE928CF6AEC9E4.tmp' to '../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Data/CardDatabase.uasset'
+[2016.12.11-00.54.51:192][ 24]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Data/CardDatabase.uasset
+[2016.12.11-00.55.01:419][625]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Empty.Empty:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Empty.Empty:PersistentLevel.Empty' with GeneratedClass '/Game/Levels/Empty.Empty_C' with ClassGeneratedBy '/Game/Levels/Empty.Empty:PersistentLevel.Empty'
+[2016.12.11-00.55.01:419][625]BlueprintLog: New page: Pre-Play auto-recompile
+[2016.12.11-00.55.01:419][625]LogPlayLevel: [PlayLevel] Compiling BattleCardGameState before play...
+[2016.12.11-00.55.02:392][625]LogPlayLevel: PlayLevel: Blueprint regeneration took 973 ms (1 blueprints)
+[2016.12.11-00.55.02:392][625]PIE: New page: PIE session: Empty (Dec 10, 2016, 2:55:02 PM)
+[2016.12.11-00.55.02:394][625]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Empty
+[2016.12.11-00.55.02:395][625]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001049s)
+[2016.12.11-00.55.02:396][625]LogAIModule: Creating AISystem for world Empty
+[2016.12.11-00.55.02:396][625]LogPlayLevel: PIE: World Init took: (0.000969s)
+[2016.12.11-00.55.02:396][625]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Empty.Empty to /Game/Levels/UEDPIE_0_Empty.Empty (0.002257s)
+[2016.12.11-00.55.02:445][625]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.12.11-00.55.02:454][625]LogInit: FAudioDevice initialized.
+[2016.12.11-00.55.02:531][625]LogWorld: Game class is 'BattleCardGameMode_C'
+[2016.12.11-00.55.02:532][625]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Empty.Empty up for play (max tick rate 60) at 2016.12.10-19.55.02
+[2016.12.11-00.55.02:533][625]LogWorld: Bringing up level for play took: 0.001390
+[2016.12.11-00.55.02:534][625]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2016.12.11-00.55.02:534][625]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.11-00.55.02:534][625]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.11-00.55.02:534][625]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.11-00.55.02:535][625]Cmd: r.setRes 1280x720
+[2016.12.11-00.55.02:535][625]r.SetRes = "1280x720"
+[2016.12.11-00.55.02:536][625]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.11-00.55.02:560][625]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Empty 1.968
+[2016.12.11-00.55.02:561][625]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Empty.Empty:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Empty.Empty:PersistentLevel.Empty' with GeneratedClass '/Game/Levels/Empty.Empty_C' with ClassGeneratedBy '/Game/Levels/Empty.Empty:PersistentLevel.Empty'
+[2016.12.11-00.55.04:269][680]LogGameMode:Display: Match State Changed from InProgress to LeavingMap
+[2016.12.11-00.55.04:269][680]LogGameState: Match State Changed from InProgress to LeavingMap
+[2016.12.11-00.55.04:270][680]LogNet: Browse: /Game/Levels/BasicLevel
+[2016.12.11-00.55.04:270][680]LogLoad: LoadMap: /Game/Levels/BasicLevel
+[2016.12.11-00.55.04:349][680]Cmd: MEM
+[2016.12.11-00.55.04:399][680]LogMemory: Platform Memory Stats for Windows
+[2016.12.11-00.55.04:399][680]LogMemory: Process Physical Memory: 1463.60 MB used, 1463.90 MB peak
+[2016.12.11-00.55.04:399][680]LogMemory: Process Virtual Memory: 2166.05 MB used, 2213.26 MB peak
+[2016.12.11-00.55.04:399][680]LogMemory: Physical Memory: 3557.31 MB used, 8075.23 MB total
+[2016.12.11-00.55.04:399][680]LogMemory: Virtual Memory: 2927.49 MB used, 134217728.00 MB total
+[2016.12.11-00.55.04:399][680]LogMemory: 
+[2016.12.11-00.55.04:399][680]Allocator Stats for TBB: (not implemented)
+[2016.12.11-00.55.04:610][680]LogAIModule: Creating AISystem for world BasicLevel
+[2016.12.11-00.55.04:611][680]LogWorld: Game class is 'BattleCardGameMode_C'
+[2016.12.11-00.55.04:615][680]LogWorld: Bringing World /Game/Levels/UEDPIE_0_BasicLevel.BasicLevel up for play (max tick rate 60) at 2016.12.10-19.55.04
+[2016.12.11-00.55.04:616][680]LogWorld: Bringing up level for play took: 0.003837
+[2016.12.11-00.55.04:616][680]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2016.12.11-00.55.04:617][680]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.11-00.55.04:617][680]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.11-00.55.04:617][680]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.11-00.55.04:618][680]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.11-00.55.04:618][680]LogLoad: Took 0.346947 seconds to LoadMap(/Game/Levels/BasicLevel)
+[2016.12.11-00.55.04:642][681]LogBlueprintUserMessages: [Deck_C_0] 2
+[2016.12.11-00.55.04:642][681]LogBlueprintUserMessages: [Deck_C_1] 0
+[2016.12.11-00.55.51:414][698]LogBlueprintUserMessages: [BattleCardGameState_C_0] Give that card a turn to get ready
+[2016.12.11-00.55.52:771][726]LogBlueprintUserMessages: [BattleCardGameState_C_0] That card already attacked
+[2016.12.11-00.56.23:816][388]LogAudio:Warning: Detected orphaned looping sound 'Loop1_Cue'.
+[2016.12.11-00.57.59:042][406]LogGameMode:Display: Match State Changed from InProgress to LeavingMap
+[2016.12.11-00.57.59:043][406]LogGameState: Match State Changed from InProgress to LeavingMap
+[2016.12.11-00.57.59:043][406]LogNet: Browse: /Game/Levels/Empty
+[2016.12.11-00.57.59:043][406]LogLoad: LoadMap: /Game/Levels/Empty
+[2016.12.11-00.57.59:132][406]Cmd: MEM
+[2016.12.11-00.57.59:174][406]LogMemory: Platform Memory Stats for Windows
+[2016.12.11-00.57.59:174][406]LogMemory: Process Physical Memory: 1464.57 MB used, 1504.94 MB peak
+[2016.12.11-00.57.59:174][406]LogMemory: Process Virtual Memory: 2172.82 MB used, 2269.97 MB peak
+[2016.12.11-00.57.59:174][406]LogMemory: Physical Memory: 3547.60 MB used, 8075.23 MB total
+[2016.12.11-00.57.59:174][406]LogMemory: Virtual Memory: 2928.67 MB used, 134217728.00 MB total
+[2016.12.11-00.57.59:174][406]LogMemory: 
+[2016.12.11-00.57.59:174][406]Allocator Stats for TBB: (not implemented)
+[2016.12.11-00.57.59:174][406]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Empty
+[2016.12.11-00.57.59:175][406]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001072s)
+[2016.12.11-00.57.59:175][406]LogAIModule: Creating AISystem for world Empty
+[2016.12.11-00.57.59:176][406]LogPlayLevel: PIE: World Init took: (0.000965s)
+[2016.12.11-00.57.59:176][406]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Empty.Empty to /Game/Levels/UEDPIE_0_Empty.Empty (0.002275s)
+[2016.12.11-00.57.59:176][406]LogWorld: Game class is 'BattleCardGameMode_C'
+[2016.12.11-00.57.59:177][406]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Empty.Empty up for play (max tick rate 60) at 2016.12.10-19.57.59
+[2016.12.11-00.57.59:178][406]LogWorld: Bringing up level for play took: 0.001254
+[2016.12.11-00.57.59:179][406]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2016.12.11-00.57.59:179][406]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.11-00.57.59:179][406]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.11-00.57.59:179][406]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.11-00.57.59:180][406]Cmd: r.setRes 1280x720
+[2016.12.11-00.57.59:180][406]r.SetRes = "1280x720"
+[2016.12.11-00.57.59:181][406]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.11-00.57.59:181][406]LogLoad: Took 0.138663 seconds to LoadMap(/Game/Levels/UEDPIE_0_Empty)
+[2016.12.11-00.58.00:561][453]LogGameMode:Display: Match State Changed from InProgress to LeavingMap
+[2016.12.11-00.58.00:561][453]LogGameState: Match State Changed from InProgress to LeavingMap
+[2016.12.11-00.58.00:562][453]LogNet: Browse: /Game/Levels/BasicLevel
+[2016.12.11-00.58.00:562][453]LogLoad: LoadMap: /Game/Levels/BasicLevel
+[2016.12.11-00.58.00:631][453]Cmd: MEM
+[2016.12.11-00.58.00:677][453]LogMemory: Platform Memory Stats for Windows
+[2016.12.11-00.58.00:677][453]LogMemory: Process Physical Memory: 1464.57 MB used, 1504.94 MB peak
+[2016.12.11-00.58.00:677][453]LogMemory: Process Virtual Memory: 2166.48 MB used, 2269.97 MB peak
+[2016.12.11-00.58.00:677][453]LogMemory: Physical Memory: 3547.61 MB used, 8075.23 MB total
+[2016.12.11-00.58.00:677][453]LogMemory: Virtual Memory: 2922.67 MB used, 134217728.00 MB total
+[2016.12.11-00.58.00:677][453]LogMemory: 
+[2016.12.11-00.58.00:677][453]Allocator Stats for TBB: (not implemented)
+[2016.12.11-00.58.00:903][453]LogAIModule: Creating AISystem for world BasicLevel
+[2016.12.11-00.58.00:903][453]LogWorld: Game class is 'BattleCardGameMode_C'
+[2016.12.11-00.58.00:908][453]LogWorld: Bringing World /Game/Levels/UEDPIE_0_BasicLevel.BasicLevel up for play (max tick rate 60) at 2016.12.10-19.58.00
+[2016.12.11-00.58.00:908][453]LogWorld: Bringing up level for play took: 0.004020
+[2016.12.11-00.58.00:910][453]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2016.12.11-00.58.00:910][453]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.11-00.58.00:910][453]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.11-00.58.00:910][453]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.11-00.58.00:912][453]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.11-00.58.00:912][453]LogLoad: Took 0.349920 seconds to LoadMap(/Game/Levels/BasicLevel)
+[2016.12.11-00.58.00:936][454]LogBlueprintUserMessages: [Deck_C_0] 2
+[2016.12.11-00.58.00:936][454]LogBlueprintUserMessages: [Deck_C_1] 0
+[2016.12.11-00.59.14:241][  1]LogBlueprintUserMessages: [BattleCardGameState_C_0] Give that card a turn to get ready
+[2016.12.11-00.59.20:146][125]LogAudio:Warning: Detected orphaned looping sound 'Loop1_Cue'.
+[2016.12.11-00.59.59:894][966]LogBlueprintUserMessages: [BattleCardGameState_C_0] Not Enough Mana
+[2016.12.11-01.01.02:221][283]LogGameMode:Display: Match State Changed from InProgress to LeavingMap
+[2016.12.11-01.01.02:221][283]LogGameState: Match State Changed from InProgress to LeavingMap
+[2016.12.11-01.01.02:222][283]LogNet: Browse: /Game/Levels/Empty
+[2016.12.11-01.01.02:222][283]LogLoad: LoadMap: /Game/Levels/Empty
+[2016.12.11-01.01.02:329][283]Cmd: MEM
+[2016.12.11-01.01.02:379][283]LogMemory: Platform Memory Stats for Windows
+[2016.12.11-01.01.02:380][283]LogMemory: Process Physical Memory: 1464.59 MB used, 1504.94 MB peak
+[2016.12.11-01.01.02:380][283]LogMemory: Process Virtual Memory: 2173.64 MB used, 2270.68 MB peak
+[2016.12.11-01.01.02:380][283]LogMemory: Physical Memory: 3551.36 MB used, 8075.23 MB total
+[2016.12.11-01.01.02:380][283]LogMemory: Virtual Memory: 2933.50 MB used, 134217728.00 MB total
+[2016.12.11-01.01.02:380][283]LogMemory: 
+[2016.12.11-01.01.02:380][283]Allocator Stats for TBB: (not implemented)
+[2016.12.11-01.01.02:380][283]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Empty
+[2016.12.11-01.01.02:381][283]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001291s)
+[2016.12.11-01.01.02:382][283]LogAIModule: Creating AISystem for world Empty
+[2016.12.11-01.01.02:382][283]LogPlayLevel: PIE: World Init took: (0.001048s)
+[2016.12.11-01.01.02:382][283]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Empty.Empty to /Game/Levels/UEDPIE_0_Empty.Empty (0.002606s)
+[2016.12.11-01.01.02:382][283]LogWorld: Game class is 'BattleCardGameMode_C'
+[2016.12.11-01.01.02:384][283]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Empty.Empty up for play (max tick rate 60) at 2016.12.10-20.01.02
+[2016.12.11-01.01.02:384][283]LogWorld: Bringing up level for play took: 0.001465
+[2016.12.11-01.01.02:385][283]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2016.12.11-01.01.02:386][283]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.11-01.01.02:386][283]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.11-01.01.02:386][283]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.11-01.01.02:387][283]Cmd: r.setRes 1280x720
+[2016.12.11-01.01.02:387][283]r.SetRes = "1280x720"
+[2016.12.11-01.01.02:388][283]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.11-01.01.02:388][283]LogLoad: Took 0.166437 seconds to LoadMap(/Game/Levels/UEDPIE_0_Empty)
+[2016.12.11-01.01.03:945][336]LogGameMode:Display: Match State Changed from InProgress to LeavingMap
+[2016.12.11-01.01.03:945][336]LogGameState: Match State Changed from InProgress to LeavingMap
+[2016.12.11-01.01.03:947][336]LogNet: Browse: /Game/Levels/BasicLevel
+[2016.12.11-01.01.03:947][336]LogLoad: LoadMap: /Game/Levels/BasicLevel
+[2016.12.11-01.01.04:060][336]Cmd: MEM
+[2016.12.11-01.01.04:125][336]LogMemory: Platform Memory Stats for Windows
+[2016.12.11-01.01.04:125][336]LogMemory: Process Physical Memory: 1464.59 MB used, 1504.94 MB peak
+[2016.12.11-01.01.04:125][336]LogMemory: Process Virtual Memory: 2167.00 MB used, 2270.68 MB peak
+[2016.12.11-01.01.04:125][336]LogMemory: Physical Memory: 3551.73 MB used, 8075.23 MB total
+[2016.12.11-01.01.04:125][336]LogMemory: Virtual Memory: 2927.50 MB used, 134217728.00 MB total
+[2016.12.11-01.01.04:125][336]LogMemory: 
+[2016.12.11-01.01.04:125][336]Allocator Stats for TBB: (not implemented)
+[2016.12.11-01.01.04:368][336]LogAIModule: Creating AISystem for world BasicLevel
+[2016.12.11-01.01.04:369][336]LogWorld: Game class is 'BattleCardGameMode_C'
+[2016.12.11-01.01.04:373][336]LogWorld: Bringing World /Game/Levels/UEDPIE_0_BasicLevel.BasicLevel up for play (max tick rate 60) at 2016.12.10-20.01.04
+[2016.12.11-01.01.04:374][336]LogWorld: Bringing up level for play took: 0.004330
+[2016.12.11-01.01.04:374][336]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2016.12.11-01.01.04:375][336]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.11-01.01.04:375][336]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.11-01.01.04:375][336]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.11-01.01.04:376][336]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.11-01.01.04:377][336]LogLoad: Took 0.428673 seconds to LoadMap(/Game/Levels/BasicLevel)
+[2016.12.11-01.01.04:402][337]LogBlueprintUserMessages: [Deck_C_0] 2
+[2016.12.11-01.01.04:402][337]LogBlueprintUserMessages: [Deck_C_1] 0
+[2016.12.11-01.02.15:592][849]LogBlueprintUserMessages: [BattleCardGameState_C_0] Give that card a turn to get ready
+[2016.12.11-01.02.23:584][ 16]LogAudio:Warning: Detected orphaned looping sound 'Loop1_Cue'.
+[2016.12.11-01.04.02:580][106]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Empty.Empty:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Empty.Empty:PersistentLevel.Empty' with GeneratedClass '/Game/Levels/Empty.Empty_C' with ClassGeneratedBy '/Game/Levels/Empty.Empty:PersistentLevel.Empty'
+[2016.12.11-01.04.02:616][106]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Empty.Empty:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Empty.Empty:PersistentLevel.Empty' with GeneratedClass '/Game/Levels/Empty.Empty_C' with ClassGeneratedBy '/Game/Levels/Empty.Empty:PersistentLevel.Empty'
+[2016.12.11-01.04.40:493][345]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Data/CardDatabase" FILE="../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Data/CardDatabase.uasset" SILENT=true
+[2016.12.11-01.04.40:519][345]LogSavePackage: Save=2.95ms
+[2016.12.11-01.04.40:519][345]LogSavePackage: Moving '../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Saved/CardDatabase98F828D546E5CD7DF9AE858377F1EF27.tmp' to '../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Data/CardDatabase.uasset'
+[2016.12.11-01.04.40:522][345]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Data/CardDatabase.uasset
+[2016.12.11-01.04.42:918][480]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Empty.Empty:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Empty.Empty:PersistentLevel.Empty' with GeneratedClass '/Game/Levels/Empty.Empty_C' with ClassGeneratedBy '/Game/Levels/Empty.Empty:PersistentLevel.Empty'
+[2016.12.11-01.04.42:918][480]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.11-01.04.42:919][480]PIE: New page: PIE session: Empty (Dec 10, 2016, 3:04:42 PM)
+[2016.12.11-01.04.42:920][480]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Empty
+[2016.12.11-01.04.42:921][480]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001057s)
+[2016.12.11-01.04.42:922][480]LogAIModule: Creating AISystem for world Empty
+[2016.12.11-01.04.42:922][480]LogPlayLevel: PIE: World Init took: (0.001071s)
+[2016.12.11-01.04.42:922][480]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Empty.Empty to /Game/Levels/UEDPIE_0_Empty.Empty (0.002400s)
+[2016.12.11-01.04.42:971][480]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.12.11-01.04.42:979][480]LogInit: FAudioDevice initialized.
+[2016.12.11-01.04.43:052][480]LogWorld: Game class is 'BattleCardGameMode_C'
+[2016.12.11-01.04.43:054][480]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Empty.Empty up for play (max tick rate 60) at 2016.12.10-20.04.43
+[2016.12.11-01.04.43:054][480]LogWorld: Bringing up level for play took: 0.001230
+[2016.12.11-01.04.43:055][480]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2016.12.11-01.04.43:055][480]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.11-01.04.43:055][480]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.11-01.04.43:055][480]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.11-01.04.43:057][480]Cmd: r.setRes 1280x720
+[2016.12.11-01.04.43:057][480]r.SetRes = "1280x720"
+[2016.12.11-01.04.43:058][480]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.11-01.04.43:082][480]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Empty 0.49
+[2016.12.11-01.04.43:083][480]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Empty.Empty:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Empty.Empty:PersistentLevel.Empty' with GeneratedClass '/Game/Levels/Empty.Empty_C' with ClassGeneratedBy '/Game/Levels/Empty.Empty:PersistentLevel.Empty'
+[2016.12.11-01.04.44:527][530]LogGameMode:Display: Match State Changed from InProgress to LeavingMap
+[2016.12.11-01.04.44:527][530]LogGameState: Match State Changed from InProgress to LeavingMap
+[2016.12.11-01.04.44:528][530]LogNet: Browse: /Game/Levels/BasicLevel
+[2016.12.11-01.04.44:529][530]LogLoad: LoadMap: /Game/Levels/BasicLevel
+[2016.12.11-01.04.44:627][530]Cmd: MEM
+[2016.12.11-01.04.44:685][530]LogMemory: Platform Memory Stats for Windows
+[2016.12.11-01.04.44:685][530]LogMemory: Process Physical Memory: 1464.18 MB used, 1504.94 MB peak
+[2016.12.11-01.04.44:685][530]LogMemory: Process Virtual Memory: 2166.99 MB used, 2270.93 MB peak
+[2016.12.11-01.04.44:685][530]LogMemory: Physical Memory: 3557.64 MB used, 8075.23 MB total
+[2016.12.11-01.04.44:685][530]LogMemory: Virtual Memory: 2927.49 MB used, 134217728.00 MB total
+[2016.12.11-01.04.44:685][530]LogMemory: 
+[2016.12.11-01.04.44:685][530]Allocator Stats for TBB: (not implemented)
+[2016.12.11-01.04.44:914][530]LogAIModule: Creating AISystem for world BasicLevel
+[2016.12.11-01.04.44:915][530]LogWorld: Game class is 'BattleCardGameMode_C'
+[2016.12.11-01.04.44:919][530]LogWorld: Bringing World /Game/Levels/UEDPIE_0_BasicLevel.BasicLevel up for play (max tick rate 60) at 2016.12.10-20.04.44
+[2016.12.11-01.04.44:919][530]LogWorld: Bringing up level for play took: 0.003923
+[2016.12.11-01.04.44:920][530]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2016.12.11-01.04.44:920][530]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.11-01.04.44:920][530]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.11-01.04.44:920][530]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.11-01.04.44:922][530]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.11-01.04.44:922][530]LogLoad: Took 0.393145 seconds to LoadMap(/Game/Levels/BasicLevel)
+[2016.12.11-01.04.44:943][531]LogBlueprintUserMessages: [Deck_C_0] 2
+[2016.12.11-01.04.44:943][531]LogBlueprintUserMessages: [Deck_C_1] 0
+[2016.12.11-01.06.04:146][230]LogAudio:Warning: Detected orphaned looping sound 'Loop1_Cue'.
+[2016.12.11-01.07.21:276][860]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Empty.Empty:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Empty.Empty:PersistentLevel.Empty' with GeneratedClass '/Game/Levels/Empty.Empty_C' with ClassGeneratedBy '/Game/Levels/Empty.Empty:PersistentLevel.Empty'
+[2016.12.11-01.07.21:408][860]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Empty.Empty:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Empty.Empty:PersistentLevel.Empty' with GeneratedClass '/Game/Levels/Empty.Empty_C' with ClassGeneratedBy '/Game/Levels/Empty.Empty:PersistentLevel.Empty'
+[2016.12.11-01.07.52:731][680]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2016.12.11-01.07.52:810][680]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2016.12.11-01.07.52:867][680]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.12.11-01.07.53:087][681]Cmd: QUIT_EDITOR
+[2016.12.11-01.07.54:096][681]LogExit: Preparing to exit.
+[2016.12.11-01.07.54:739][681]LogDirectoryWatcher: A directory notification for 'C:/Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/' was aborted.
+[2016.12.11-01.07.54:778][681]LogExit: Editor shut down
+[2016.12.11-01.07.54:779][681]LogExit: Transaction tracking system shut down
+[2016.12.11-01.07.54:965][681]LogObj: Freed 0b from 0 cluster array pools.
+[2016.12.11-01.07.54:966][681]LogExit: Object subsystem successfully closed.
+[2016.12.11-01.07.54:981][681]LogD3D11RHI: Shutdown
+[2016.12.11-01.07.54:981][681]LogD3D11RHI: CleanupD3DDevice
+[2016.12.11-01.07.55:036][681]LogD3D11RHI: ~FD3D11DynamicRHI
+[2016.12.11-01.07.55:054][681]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (237)
+[2016.12.11-01.07.55:054][681]LogModuleManager: Shutting down and abandoning module DataTableEditor (236)
+[2016.12.11-01.07.55:054][681]LogModuleManager: Shutting down and abandoning module BlueprintGraph (235)
+[2016.12.11-01.07.55:054][681]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (234)
+[2016.12.11-01.07.55:054][681]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (233)
+[2016.12.11-01.07.55:054][681]LogModuleManager: Shutting down and abandoning module CrashTracker (232)
+[2016.12.11-01.07.55:054][681]LogModuleManager: Shutting down and abandoning module SceneOutliner (231)
+[2016.12.11-01.07.55:054][681]LogModuleManager: Shutting down and abandoning module WidgetCarousel (230)
+[2016.12.11-01.07.55:054][681]LogModuleManager: Shutting down and abandoning module AddContentDialog (229)
+[2016.12.11-01.07.55:055][681]LogDirectoryWatcher: A directory notification for 'C:/Program Files (x86)/Epic Games/4.13/FeaturePacks/' was aborted.
+[2016.12.11-01.07.55:056][681]LogModuleManager: Shutting down and abandoning module GameplayTags (228)
+[2016.12.11-01.07.55:056][681]LogModuleManager: Shutting down and abandoning module EditorWidgets (227)
+[2016.12.11-01.07.55:056][681]LogModuleManager: Shutting down and abandoning module CollectionManager (226)
+[2016.12.11-01.07.55:056][681]LogDirectoryWatcher: A directory notification for 'C:/Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Collections/' was aborted.
+[2016.12.11-01.07.55:056][681]LogDirectoryWatcher: A directory notification for 'C:/Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/Developers/Brian/Collections/' was aborted.
+[2016.12.11-01.07.55:056][681]LogDirectoryWatcher: A directory notification for 'C:/Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Saved/Collections/' was aborted.
+[2016.12.11-01.07.55:056][681]LogModuleManager: Shutting down and abandoning module StatsViewer (225)
+[2016.12.11-01.07.55:056][681]LogModuleManager: Shutting down and abandoning module FoliageEdit (224)
+[2016.12.11-01.07.55:056][681]LogModuleManager: Shutting down and abandoning module LandscapeEditor (223)
+[2016.12.11-01.07.55:056][681]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (222)
+[2016.12.11-01.07.55:056][681]LogModuleManager: Shutting down and abandoning module ActorPickerMode (221)
+[2016.12.11-01.07.55:056][681]LogModuleManager: Shutting down and abandoning module GeometryMode (220)
+[2016.12.11-01.07.55:056][681]LogModuleManager: Shutting down and abandoning module TextureAlignMode (219)
+[2016.12.11-01.07.55:056][681]LogModuleManager: Shutting down and abandoning module BspMode (218)
+[2016.12.11-01.07.55:056][681]LogModuleManager: Shutting down and abandoning module HardwareSurvey (217)
+[2016.12.11-01.07.55:056][681]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (216)
+[2016.12.11-01.07.55:056][681]LogModuleManager: Shutting down and abandoning module SequenceRecorder (215)
+[2016.12.11-01.07.55:057][681]LogModuleManager: Shutting down and abandoning module AutomationWorker (214)
+[2016.12.11-01.07.55:057][681]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (213)
+[2016.12.11-01.07.55:057][681]LogModuleManager: Shutting down and abandoning module PlacementMode (212)
+[2016.12.11-01.07.55:057][681]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (211)
+[2016.12.11-01.07.55:057][681]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (210)
+[2016.12.11-01.07.55:057][681]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (209)
+[2016.12.11-01.07.55:057][681]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (208)
+[2016.12.11-01.07.55:057][681]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (207)
+[2016.12.11-01.07.55:057][681]LogModuleManager: Shutting down and abandoning module Media (206)
+[2016.12.11-01.07.55:057][681]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (205)
+[2016.12.11-01.07.55:057][681]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (204)
+[2016.12.11-01.07.55:057][681]LogModuleManager: Shutting down and abandoning module CharacterAI (203)
+[2016.12.11-01.07.55:057][681]LogModuleManager: Shutting down and abandoning module SmartSnapping (202)
+[2016.12.11-01.07.55:057][681]LogModuleManager: Shutting down and abandoning module SessionServices (201)
+[2016.12.11-01.07.55:057][681]LogModuleManager: Shutting down and abandoning module ViewportSnapping (200)
+[2016.12.11-01.07.55:057][681]LogModuleManager: Shutting down and abandoning module ViewportInteraction (199)
+[2016.12.11-01.07.55:057][681]LogModuleManager: Shutting down and abandoning module LogVisualizer (198)
+[2016.12.11-01.07.55:057][681]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (197)
+[2016.12.11-01.07.55:057][681]LogModuleManager: Shutting down and abandoning module IntroTutorials (196)
+[2016.12.11-01.07.55:057][681]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (195)
+[2016.12.11-01.07.55:057][681]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (194)
+[2016.12.11-01.07.55:057][681]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (193)
+[2016.12.11-01.07.55:057][681]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (192)
+[2016.12.11-01.07.55:824][681]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (191)
+[2016.12.11-01.07.55:824][681]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (190)
+[2016.12.11-01.07.55:824][681]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (189)
+[2016.12.11-01.07.55:824][681]LogModuleManager: Shutting down and abandoning module NiagaraEditor (188)
+[2016.12.11-01.07.55:824][681]LogModuleManager: Shutting down and abandoning module MergeActors (187)
+[2016.12.11-01.07.55:824][681]LogModuleManager: Shutting down and abandoning module SizeMap (186)
+[2016.12.11-01.07.55:824][681]LogModuleManager: Shutting down and abandoning module TreeMap (185)
+[2016.12.11-01.07.55:824][681]LogModuleManager: Shutting down and abandoning module ReferenceViewer (184)
+[2016.12.11-01.07.55:824][681]LogModuleManager: Shutting down and abandoning module LocalizationService (183)
+[2016.12.11-01.07.55:824][681]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (182)
+[2016.12.11-01.07.55:825][681]LogModuleManager: Shutting down and abandoning module HardwareTargeting (181)
+[2016.12.11-01.07.55:825][681]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (180)
+[2016.12.11-01.07.55:825][681]LogModuleManager: Shutting down and abandoning module UndoHistory (179)
+[2016.12.11-01.07.55:825][681]LogModuleManager: Shutting down and abandoning module UserFeedback (178)
+[2016.12.11-01.07.55:825][681]LogModuleManager: Shutting down and abandoning module XmlParser (177)
+[2016.12.11-01.07.55:825][681]LogModuleManager: Shutting down and abandoning module Blutility (176)
+[2016.12.11-01.07.55:825][681]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (175)
+[2016.12.11-01.07.55:825][681]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (174)
+[2016.12.11-01.07.55:825][681]LogModuleManager: Shutting down and abandoning module InputBindingEditor (173)
+[2016.12.11-01.07.55:825][681]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (172)
+[2016.12.11-01.07.55:825][681]LogModuleManager: Shutting down and abandoning module SettingsEditor (171)
+[2016.12.11-01.07.55:825][681]LogModuleManager: Shutting down and abandoning module ProjectLauncher (170)
+[2016.12.11-01.07.55:825][681]LogModuleManager: Shutting down and abandoning module SessionFrontend (169)
+[2016.12.11-01.07.55:825][681]LogModuleManager: Shutting down and abandoning module ProfilerClient (168)
+[2016.12.11-01.07.55:825][681]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (167)
+[2016.12.11-01.07.55:825][681]LogModuleManager: Shutting down and abandoning module DeviceManager (166)
+[2016.12.11-01.07.55:868][681]LogModuleManager: Shutting down and abandoning module AutomationController (165)
+[2016.12.11-01.07.55:868][681]LogModuleManager: Shutting down and abandoning module AutomationWindow (164)
+[2016.12.11-01.07.55:868][681]LogModuleManager: Shutting down and abandoning module Layers (163)
+[2016.12.11-01.07.55:868][681]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (162)
+[2016.12.11-01.07.55:868][681]LogModuleManager: Shutting down and abandoning module DetailCustomizations (161)
+[2016.12.11-01.07.55:868][681]LogModuleManager: Shutting down and abandoning module PackagesDialog (160)
+[2016.12.11-01.07.55:868][681]LogModuleManager: Shutting down and abandoning module AnimGraph (159)
+[2016.12.11-01.07.55:868][681]LogModuleManager: Shutting down and abandoning module Persona (158)
+[2016.12.11-01.07.55:868][681]LogModuleManager: Shutting down and abandoning module Kismet (157)
+[2016.12.11-01.07.55:875][681]LogModuleManager: Shutting down and abandoning module GraphEditor (156)
+[2016.12.11-01.07.55:875][681]LogModuleManager: Shutting down and abandoning module ClassViewer (155)
+[2016.12.11-01.07.55:875][681]LogModuleManager: Shutting down and abandoning module Toolbox (154)
+[2016.12.11-01.07.55:875][681]LogModuleManager: Shutting down and abandoning module ModuleUI (153)
+[2016.12.11-01.07.55:875][681]LogModuleManager: Shutting down and abandoning module MovieSceneTools (152)
+[2016.12.11-01.07.55:875][681]LogModuleManager: Shutting down and abandoning module OutputLog (151)
+[2016.12.11-01.07.55:875][681]LogModuleManager: Shutting down and abandoning module GammaUI (150)
+[2016.12.11-01.07.55:875][681]LogModuleManager: Shutting down and abandoning module Documentation (149)
+[2016.12.11-01.07.55:875][681]LogModuleManager: Shutting down and abandoning module Niagara (148)
+[2016.12.11-01.07.55:875][681]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (147)
+[2016.12.11-01.07.55:875][681]LogModuleManager: Shutting down and abandoning module AnalyticsET (146)
+[2016.12.11-01.07.55:876][681]LogModuleManager: Shutting down and abandoning module PortalServices (145)
+[2016.12.11-01.07.55:876][681]LogModuleManager: Shutting down and abandoning module PortalRpc (144)
+[2016.12.11-01.07.55:876][681]LogModuleManager: Shutting down and abandoning module MessagingRpc (143)
+[2016.12.11-01.07.55:876][681]LogModuleManager: Shutting down and abandoning module GameplayDebugger (142)
+[2016.12.11-01.07.55:876][681]LogModuleManager: Shutting down and abandoning module AITestSuite (141)
+[2016.12.11-01.07.55:876][681]LogModuleManager: Shutting down and abandoning module AIModule (140)
+[2016.12.11-01.07.55:876][681]LogModuleManager: Shutting down and abandoning module ProfilerService (139)
+[2016.12.11-01.07.56:050][681]LogModuleManager: Shutting down and abandoning module TaskGraph (138)
+[2016.12.11-01.07.56:050][681]LogModuleManager: Shutting down and abandoning module SlateRemote (137)
+[2016.12.11-01.07.56:050][681]LogModuleManager: Shutting down and abandoning module SteamVRController (136)
+[2016.12.11-01.07.56:050][681]LogModuleManager: Shutting down and abandoning module SteamVR (135)
+[2016.12.11-01.07.56:050][681]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (134)
+[2016.12.11-01.07.56:050][681]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (133)
+[2016.12.11-01.07.56:050][681]LogModuleManager: Shutting down and abandoning module OculusLibrary (132)
+[2016.12.11-01.07.56:050][681]LogModuleManager: Shutting down and abandoning module OculusInput (131)
+[2016.12.11-01.07.56:050][681]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (130)
+[2016.12.11-01.07.56:050][681]LogModuleManager: Shutting down and abandoning module CableComponent (129)
+[2016.12.11-01.07.56:050][681]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (128)
+[2016.12.11-01.07.56:050][681]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (126)
+[2016.12.11-01.07.56:051][681]LogModuleManager: Shutting down and abandoning module HTML5Networking (125)
+[2016.12.11-01.07.56:051][681]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (124)
+[2016.12.11-01.07.56:051][681]LogModuleManager: Shutting down and abandoning module GeometryCache (123)
+[2016.12.11-01.07.56:051][681]LogModuleManager: Shutting down and abandoning module AlembicLibrary (122)
+[2016.12.11-01.07.56:051][681]LogModuleManager: Shutting down and abandoning module AlembicImporter (121)
+[2016.12.11-01.07.56:051][681]LogModuleManager: Shutting down and abandoning module SuperSearch (120)
+[2016.12.11-01.07.56:051][681]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (119)
+[2016.12.11-01.07.56:051][681]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (118)
+[2016.12.11-01.07.56:051][681]LogModuleManager: Shutting down and abandoning module PluginBrowser (117)
+[2016.12.11-01.07.56:051][681]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (116)
+[2016.12.11-01.07.56:051][681]LogModuleManager: Shutting down and abandoning module EpicSurvey (115)
+[2016.12.11-01.07.56:051][681]LogModuleManager: Shutting down and abandoning module DesktopPlatform (114)
+[2016.12.11-01.07.56:051][681]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (113)
+[2016.12.11-01.07.56:051][681]LogModuleManager: Shutting down and abandoning module UObjectPlugin (112)
+[2016.12.11-01.07.56:051][681]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (111)
+[2016.12.11-01.07.56:051][681]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (110)
+[2016.12.11-01.07.56:051][681]LogModuleManager: Shutting down and abandoning module SourceControl (109)
+[2016.12.11-01.07.56:051][681]LogModuleManager: Shutting down and abandoning module GitSourceControl (108)
+[2016.12.11-01.07.56:051][681]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (107)
+[2016.12.11-01.07.56:051][681]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (106)
+[2016.12.11-01.07.56:051][681]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (105)
+[2016.12.11-01.07.56:051][681]LogModuleManager: Shutting down and abandoning module MeshPaint (104)
+[2016.12.11-01.07.56:051][681]LogModuleManager: Shutting down and abandoning module FbxAutomationBuilderModule (103)
+[2016.12.11-01.07.56:051][681]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (102)
+[2016.12.11-01.07.56:051][681]LogModuleManager: Shutting down and abandoning module HotReload (101)
+[2016.12.11-01.07.56:052][681]LogModuleManager: Shutting down and abandoning module MainFrame (100)
+[2016.12.11-01.07.56:052][681]LogModuleManager: Shutting down and abandoning module LevelEditor (99)
+[2016.12.11-01.07.56:052][681]LogModuleManager: Shutting down and abandoning module ContentBrowser (98)
+[2016.12.11-01.07.56:053][681]LogModuleManager: Shutting down and abandoning module Paper2DEditor (97)
+[2016.12.11-01.07.56:053][681]LogModuleManager: Shutting down and abandoning module UdpMessaging (96)
+[2016.12.11-01.07.56:154][681]LogModuleManager: Shutting down and abandoning module TcpMessaging (95)
+[2016.12.11-01.07.56:255][681]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (94)
+[2016.12.11-01.07.56:255][681]LogModuleManager: Shutting down and abandoning module Paper2D (93)
+[2016.12.11-01.07.56:255][681]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (92)
+[2016.12.11-01.07.56:255][681]LogModuleManager: Shutting down and abandoning module WmfMedia (91)
+[2016.12.11-01.07.56:255][681]LogModuleManager: Shutting down and abandoning module MediaAssets (90)
+[2016.12.11-01.07.56:255][681]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (89)
+[2016.12.11-01.07.56:255][681]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (88)
+[2016.12.11-01.07.56:255][681]LogModuleManager: Shutting down and abandoning module VREditor (87)
+[2016.12.11-01.07.56:255][681]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (86)
+[2016.12.11-01.07.56:255][681]LogModuleManager: Shutting down and abandoning module PropertyEditor (85)
+[2016.12.11-01.07.56:255][681]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (84)
+[2016.12.11-01.07.56:255][681]LogModuleManager: Shutting down and abandoning module FunctionalTesting (83)
+[2016.12.11-01.07.56:255][681]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (82)
+[2016.12.11-01.07.56:255][681]LogModuleManager: Shutting down and abandoning module Sequencer (81)
+[2016.12.11-01.07.56:255][681]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (80)
+[2016.12.11-01.07.56:255][681]LogModuleManager: Shutting down and abandoning module MessageLog (79)
+[2016.12.11-01.07.56:255][681]LogModuleManager: Shutting down and abandoning module AssetTools (78)
+[2016.12.11-01.07.56:255][681]LogModuleManager: Shutting down and abandoning module UMGEditor (77)
+[2016.12.11-01.07.56:255][681]LogModuleManager: Shutting down and abandoning module UMG (76)
+[2016.12.11-01.07.56:256][681]LogModuleManager: Shutting down and abandoning module SlateReflector (75)
+[2016.12.11-01.07.56:256][681]LogModuleManager: Shutting down and abandoning module Slate (74)
+[2016.12.11-01.07.56:256][681]LogModuleManager: Shutting down and abandoning module EditorStyle (73)
+[2016.12.11-01.07.56:258][681]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (72)
+[2016.12.11-01.07.56:258][681]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (71)
+[2016.12.11-01.07.56:258][681]LogModuleManager: Shutting down and abandoning module XAudio2 (70)
+[2016.12.11-01.07.56:258][681]LogModuleManager: Shutting down and abandoning module Networking (68)
+[2016.12.11-01.07.56:258][681]LogModuleManager: Shutting down and abandoning module Core (67)
+[2016.12.11-01.07.56:258][681]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (66)
+[2016.12.11-01.07.56:258][681]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2016.12.11-01.07.56:258][681]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Brian/Documents/GitHub/quad-shaped-battle-objects/CardGameProject3/Content/' was aborted.
+[2016.12.11-01.07.56:258][681]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2016.12.11-01.07.56:259][681]LogModuleManager: Shutting down and abandoning module AssetRegistry (65)
+[2016.12.11-01.07.56:410][681]LogModuleManager: Shutting down and abandoning module KismetCompiler (64)
+[2016.12.11-01.07.56:410][681]LogModuleManager: Shutting down and abandoning module PhysXFormats (63)
+[2016.12.11-01.07.56:410][681]LogModuleManager: Shutting down and abandoning module MeshUtilities (62)
+[2016.12.11-01.07.56:410][681]LogModuleManager: Shutting down and abandoning module DerivedDataCache (61)
+[2016.12.11-01.07.56:459][681]LogDerivedDataCache: Shutdown
+[2016.12.11-01.07.56:459][681]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (60)
+[2016.12.11-01.07.56:459][681]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (59)
+[2016.12.11-01.07.56:459][681]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (58)
+[2016.12.11-01.07.56:459][681]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (57)
+[2016.12.11-01.07.56:459][681]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (56)
+[2016.12.11-01.07.56:459][681]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (55)
+[2016.12.11-01.07.56:459][681]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (54)
+[2016.12.11-01.07.56:459][681]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (53)
+[2016.12.11-01.07.56:460][681]LogModuleManager: Shutting down and abandoning module ImageWrapper (52)
+[2016.12.11-01.07.56:460][681]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (51)
+[2016.12.11-01.07.56:460][681]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (50)
+[2016.12.11-01.07.56:460][681]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (49)
+[2016.12.11-01.07.56:460][681]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (48)
+[2016.12.11-01.07.56:460][681]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (47)
+[2016.12.11-01.07.56:460][681]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (46)
+[2016.12.11-01.07.56:460][681]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (45)
+[2016.12.11-01.07.56:460][681]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (44)
+[2016.12.11-01.07.56:460][681]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (43)
+[2016.12.11-01.07.56:460][681]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (42)
+[2016.12.11-01.07.56:460][681]LogModuleManager: Shutting down and abandoning module Messaging (41)
+[2016.12.11-01.07.56:460][681]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (40)
+[2016.12.11-01.07.56:460][681]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (39)
+[2016.12.11-01.07.56:460][681]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (38)
+[2016.12.11-01.07.56:460][681]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (37)
+[2016.12.11-01.07.56:460][681]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (36)
+[2016.12.11-01.07.56:460][681]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (35)
+[2016.12.11-01.07.56:460][681]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (34)
+[2016.12.11-01.07.56:460][681]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (33)
+[2016.12.11-01.07.56:460][681]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (32)
+[2016.12.11-01.07.56:460][681]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (31)
+[2016.12.11-01.07.56:460][681]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (30)
+[2016.12.11-01.07.56:460][681]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (29)
+[2016.12.11-01.07.56:460][681]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (28)
+[2016.12.11-01.07.56:460][681]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (27)
+[2016.12.11-01.07.56:460][681]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (26)
+[2016.12.11-01.07.56:460][681]LogModuleManager: Shutting down and abandoning module TargetPlatform (25)
+[2016.12.11-01.07.56:460][681]LogModuleManager: Shutting down and abandoning module InputCore (24)
+[2016.12.11-01.07.56:460][681]LogModuleManager: Shutting down and abandoning module Settings (23)
+[2016.12.11-01.07.56:460][681]LogModuleManager: Shutting down and abandoning module OculusRift (22)
+[2016.12.11-01.07.56:460][681]LogModuleManager: Shutting down and abandoning module GearVR (21)
+[2016.12.11-01.07.56:460][681]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (20)
+[2016.12.11-01.07.56:460][681]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (19)
+[2016.12.11-01.07.56:460][681]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (17)
+[2016.12.11-01.07.56:460][681]LogOnline:Display: Unloading online subsystem: NULL
+[2016.12.11-01.07.56:460][681]LogModuleManager: Shutting down and abandoning module HTTP (16)
+[2016.12.11-01.07.56:460][681]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2016.12.11-01.07.56:460][681]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B54C4027B-4049-30C3-C204-3D9F3223B27A%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.13.2-3172292%2B%2B%2BUE4%2BRelease-4.13&UserID=622d6cc84c757446e01d25b6259f4ae3%7C0088da38c4fe4f999d6f0e52c41d2185%7C0f0e893d-46e4-44f8-bd74-7f933f7c90a3&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2016.12.11-01.07.56:469][681]LogModuleManager: Shutting down and abandoning module XMPP (15)
+[2016.12.11-01.07.56:469][681]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2016.12.11-01.07.56:469][681]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2016.12.11-01.07.56:469][681]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2016.12.11-01.07.56:469][681]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2016.12.11-01.07.56:474][681]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2016.12.11-01.07.56:474][681]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2016.12.11-01.07.56:474][681]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2016.12.11-01.07.56:474][681]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2016.12.11-01.07.56:474][681]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2016.12.11-01.07.56:474][681]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2016.12.11-01.07.56:474][681]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2016.12.11-01.07.56:474][681]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2016.12.11-01.07.56:474][681]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2016.12.11-01.07.56:474][681]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2016.12.11-01.07.56:475][681]LogExit: Exiting.
+[2016.12.11-01.07.56:477][681]Log file closed, 12/10/16 20:07:56
