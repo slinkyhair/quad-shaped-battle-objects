@@ -1,6 +1,6 @@
 Engine\Binaries\Win64\CrashReportClient.exe	2016-11-01T21:04:05.724Z
 Engine\Binaries\Win64\UE4Game-Win64-Shipping.exe	2016-11-01T21:11:48.754Z
-CardGameProject3.exe	2016-12-12T23:38:06.661Z
+CardGameProject3.exe	2016-12-14T03:54:34.280Z
 Engine\Extras\Redist\en-us\UE4PrereqSetup_x64.exe	2016-09-01T19:56:05.865Z
 Engine\Binaries\ThirdParty\PhysX\PhysX-3.3\Win64\VS2015\PhysX3PROFILE_x64.dll	2016-09-01T19:46:33.752Z
 Engine\Binaries\ThirdParty\PhysX\PhysX-3.3\Win64\VS2015\PhysX3CommonPROFILE_x64.dll	2016-09-01T19:46:33.166Z
